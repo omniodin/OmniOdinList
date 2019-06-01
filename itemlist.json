@@ -16103,7 +16103,457 @@
 		"price": 800,
 		"category": "Uncategorized",
 		"defname": "Mech_Scyther"
-	}
+	},
+	{
+		"abr": "blastdoor(2x1)",
+		"price": 1525,
+		"category": "Buildings",
+		"defname": "PH_DoorBlastDoor"
+	},
+	{
+		"abr": "blastdoor(3x2)",
+		"price": 2467,
+		"category": "Buildings",
+		"defname": "PH_DoorThickBlastDoor"
+	},
+	{
+		"abr": "curtain(tribal)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "door(1x2)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "PH_DoorDouble"
+	},
+	{
+		"abr": "door(3x1)",
+		"price": 260,
+		"category": "Buildings",
+		"defname": "PH_DoorTriple"
+	},
+	{
+		"abr": "doorbutton",
+		"price": 86,
+		"category": "Uncategorized",
+		"defname": "PH_DoorButton"
+	},
+	{
+		"abr": "doorlever",
+		"price": 70,
+		"category": "Uncategorized",
+		"defname": "PH_DoorLever"
+	},
+	{
+		"abr": "gate(2x1)",
+		"price": 608,
+		"category": "Buildings",
+		"defname": "PH_GateDoubleThick"
+	},
+	{
+		"abr": "jaildoor",
+		"price": 542,
+		"category": "Buildings",
+		"defname": "PH_DoorJail"
+	},
+	{
+		"abr": "remotedoor(1x1)",
+		"price": 241,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteSingle"
+	},
+	{
+		"abr": "remotedoor(2x1)",
+		"price": 475,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteDouble"
+	},
+	{
+		"abr": "advancedarchotecharm",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "AdvancedArchotechArm"
+	},
+	{
+		"abr": "advancedarchotechleg",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "AdvancedArchotechLeg"
+	},
+	{
+		"abr": "arapaimacorpse",
+		"price": 25,
+		"category": "Fish corpses",
+		"defname": "Arapaima"
+	},
+	{
+		"abr": "archotechbrainmelder",
+		"price": 13333,
+		"category": "Artificial",
+		"defname": "ArchotechBrainMelder"
+	},
+	{
+		"abr": "archotechdeathclaw",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "ArchotechDeathClaw"
+	},
+	{
+		"abr": "archotechdenture",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechDenture"
+	},
+	{
+		"abr": "archotechear",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechHeart"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechLung"
+	},
+	{
+		"abr": "archotechobliterator",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "ArchotechObliterator"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechPelvis"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechStomach"
+	},
+	{
+		"abr": "attomachinery",
+		"price": 500,
+		"category": "Textiles",
+		"defname": "Attomachinery"
+	},
+	{
+		"abr": "basicarchotechworkbench",
+		"price": 2617,
+		"category": "Production",
+		"defname": "BasicArchotechWorkbench"
+	},
+	{
+		"abr": "basscorpse",
+		"price": 17,
+		"category": "Fish corpses",
+		"defname": "Bass"
+	},
+	{
+		"abr": "boiledshellfish",
+		"price": 47,
+		"category": "Meals",
+		"defname": "MealBoiledShellfish"
+	},
+	{
+		"abr": "catfishcorpse",
+		"price": 25,
+		"category": "Fish corpses",
+		"defname": "Catfish"
+	},
+	{
+		"abr": "caviar",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Caviar"
+	},
+	{
+		"abr": "combatdummy",
+		"price": 257,
+		"category": "Misc",
+		"defname": "CombatDummy"
+	},
+	{
+		"abr": "crab",
+		"price": 17,
+		"category": "Foods",
+		"defname": "Crab"
+	},
+	{
+		"abr": "crayfish",
+		"price": 8,
+		"category": "Foods",
+		"defname": "Crayfish"
+	},
+	{
+		"abr": "eelcorpse",
+		"price": 25,
+		"category": "Fish corpses",
+		"defname": "Eel"
+	},
+	{
+		"abr": "eelmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawEelMeat"
+	},
+	{
+		"abr": "eelskin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "EelLeather"
+	},
+	{
+		"abr": "electricbutchertable",
+		"price": 767,
+		"category": "Production",
+		"defname": "ElectricTableButcher"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 567,
+		"category": "Production",
+		"defname": "TableStonecutterElectric"
+	},
+	{
+		"abr": "escargo",
+		"price": 47,
+		"category": "Meals",
+		"defname": "MealEscargot"
+	},
+	{
+		"abr": "fishcorpse",
+		"price": 17,
+		"category": "Fish corpses",
+		"defname": "RawFish"
+	},
+	{
+		"abr": "fishmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawFishMeat"
+	},
+	{
+		"abr": "jellyfish",
+		"price": 17,
+		"category": "Fish corpses",
+		"defname": "Jellyfish"
+	},
+	{
+		"abr": "jellyfishmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "JellyfishMeat"
+	},
+	{
+		"abr": "lobster",
+		"price": 25,
+		"category": "Foods",
+		"defname": "Lobster"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "nanomachinery",
+		"price": 167,
+		"category": "Textiles",
+		"defname": "Nanomachinery"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 333,
+		"category": "Textiles",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "piranhacorpse",
+		"price": 12,
+		"category": "Fish corpses",
+		"defname": "Piranha"
+	},
+	{
+		"abr": "pufferfish",
+		"price": 17,
+		"category": "Fish corpses",
+		"defname": "Pufferfish"
+	},
+	{
+		"abr": "pufferfishmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "PufferfishMeat"
+	},
+	{
+		"abr": "salmoncorpse",
+		"price": 17,
+		"category": "Fish corpses",
+		"defname": "Salmon"
+	},
+	{
+		"abr": "seacucumber",
+		"price": 25,
+		"category": "Fish corpses",
+		"defname": "SeaCucumber"
+	},
+	{
+		"abr": "seacucumbermeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "SeaCucumberMeat"
+	},
+	{
+		"abr": "shellfishmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawShellfishMeat"
+	},
+	{
+		"abr": "shellfishtrap",
+		"price": 21,
+		"category": "Production",
+		"defname": "ShellfishTrap"
+	},
+	{
+		"abr": "shrimp",
+		"price": 8,
+		"category": "Foods",
+		"defname": "Shrimp"
+	},
+	{
+		"abr": "shrimpmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawShrimpMeat"
+	},
+	{
+		"abr": "shrimpscampi",
+		"price": 47,
+		"category": "Meals",
+		"defname": "MealShrimpScampi"
+	},
+	{
+		"abr": "snail",
+		"price": 8,
+		"category": "Foods",
+		"defname": "Snail"
+	},
+	{
+		"abr": "snailmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawSnailMeat"
+	},
+	{
+		"abr": "squidcorpse",
+		"price": 42,
+		"category": "Fish corpses",
+		"defname": "Squid"
+	},
+	{
+		"abr": "squidleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "SquidLeather"
+	},
+	{
+		"abr": "squidmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawSquidMeat"
+	},
+	{
+		"abr": "sturgeoncorpse",
+		"price": 42,
+		"category": "Fish corpses",
+		"defname": "Sturgeon"
+	},
+	{
+		"abr": "sturgeoncorpse",
+		"price": 42,
+		"category": "Fish corpses",
+		"defname": "SturgeonCaviar"
+	},
+	{
+		"abr": "sushi",
+		"price": 47,
+		"category": "Meals",
+		"defname": "MealSushi"
+	},
+	{
+		"abr": "tinyfishcorpse",
+		"price": 8,
+		"category": "Fish corpses",
+		"defname": "RawFishTiny"
+	},
+	{
+		"abr": "trainingbbgun",
+		"price": 131,
+		"category": "Ranged training weapons",
+		"defname": "Gun_TrainingBBGun"
+	},
+	{
+		"abr": "trainingbow",
+		"price": 74,
+		"category": "Ranged training weapons",
+		"defname": "Bow_TrainingShort"
+	},
+	{
+		"abr": "trainingknife",
+		"price": 55,
+		"category": "Melee training weapons",
+		"defname": "MeleeWeapon_TrainingKnife"
+	},
+	{
+		"abr": "woolcloth",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "WoolCloth"
+	},
+	{
+		"abr": "woolloom",
+		"price": 148,
+		"category": "Production",
+		"defname": "BenchWoolLoom"
+	},
 	],
-	"total": 2684
+	"total": 2848
 }
