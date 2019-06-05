@@ -16553,7 +16553,241 @@
 		"price": 148,
 		"category": "Production",
 		"defname": "BenchWoolLoom"
+	},
+	{
+		"abr": "bionicanimalreproductiveorgan",
+		"price": 867,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalReproductiveOrgans"
+	},
+	{
+		"abr": "kiwiseeds",
+		"price": 11,
+		"category": "Seeds",
+		"defname": "Seed_Kiwi"
+	},
+	{
+		"abr": "mangoseeds",
+		"price": 147,
+		"category": "Seeds",
+		"defname": "Seed_Mango"
+	},
+	{
+		"abr": "simpleanimalreproductiveorgan",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "SimpleAnimalReproductiveOrgans"
+	},
+	{
+		"abr": "advancedgeothermalgenerator",
+		"price": 3333,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "advancednuclearpowerplant",
+		"price": 8900,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 808,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
+	{
+		"abr": "afghanhound",
+		"price": 167,
+		"category": "Uncategorized",
+		"defname": "SCAfghanHound"
+	},
+	{
+		"abr": "afghanhoundmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCAfghanHound"
+	},
+	{
+		"abr": "americanshorthair",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_A_Shorthair"
+	},
+	{
+		"abr": "blackcat",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_kuroneko"
+	},
+	{
+		"abr": "bordercollie",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "BorderCollie"
+	},
+	{
+		"abr": "bordercolliemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BorderCollie"
+	},
+	{
+		"abr": "borzoi",
+		"price": 583,
+		"category": "Uncategorized",
+		"defname": "SCBorzoi"
+	},
+	{
+		"abr": "borzoimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCBorzoi"
+	},
+	{
+		"abr": "browntabby",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_kijitora"
+	},
+	{
+		"abr": "bullmastiff",
+		"price": 667,
+		"category": "Uncategorized",
+		"defname": "Bullmastiff"
+	},
+	{
+		"abr": "bullmastiffmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bullmastiff"
+	},
+	{
+		"abr": "bullterrier",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "SCBullTerrier"
+	},
+	{
+		"abr": "bullterriermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCBullTerrier"
+	},
+	{
+		"abr": "caucasianshepherd",
+		"price": 667,
+		"category": "Uncategorized",
+		"defname": "Caucasianshepherd"
+	},
+	{
+		"abr": "caucasianshepherdmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Caucasianshepherd"
+	},
+	{
+		"abr": "chowchow",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "Chowchow"
+	},
+	{
+		"abr": "chowchowmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chowchow"
+	},
+	{
+		"abr": "collie",
+		"price": 500,
+		"category": "Uncategorized",
+		"defname": "Collie"
+	},
+	{
+		"abr": "colliemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Collie"
+	},
+	{
+		"abr": "doberman",
+		"price": 500,
+		"category": "Uncategorized",
+		"defname": "Doberman"
+	},
+	{
+		"abr": "dobermanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Doberman"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "goldenretriever",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "GoldenRetriever"
+	},
+	{
+		"abr": "goldenretrievermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GoldenRetriever"
+	},
+	{
+		"abr": "greyhound",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "SCGreyhound"
+	},
+	{
+		"abr": "greyhoundmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCGreyhound"
 	}
 	],
-	"total": 2772
+	"total": 2833
 }
