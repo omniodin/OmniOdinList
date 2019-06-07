@@ -2977,34 +2977,16 @@
 		"defname": "Meat_Gazelle"
 	},
 	{
-		"abr": "gdbuckshotlauncher",
-		"price": 992,
-		"category": "GD weapons",
-		"defname": "GD_BSLauncher"
-	},
-	{
 		"abr": "gdhvsmg",
 		"price": 750,
 		"category": "Ranged weapons",
 		"defname": "GD_HVSMG"
 	},
 	{
-		"abr": "gdincendiarylauncher",
-		"price": 992,
-		"category": "GD weapons",
-		"defname": "GD_INGrenadeLauncher"
-	},
-	{
 		"abr": "gdmultilauncher",
 		"price": 992,
 		"category": "GD weapons",
 		"defname": "GD_GrenadeLauncher"
-	},
-	{
-		"abr": "gdsmokelauncher",
-		"price": 992,
-		"category": "GD weapons",
-		"defname": "GD_SKGrenadeLauncher"
 	},
 	{
 		"abr": "gecko",
@@ -7901,12 +7883,6 @@
 		"price": 1842,
 		"category": "YP weapons",
 		"defname": "YP_SeolHwa"
-	},
-	{
-		"abr": "ypmicrowaveemmiter",
-		"price": 2475,
-		"category": "YP weapons",
-		"defname": "YP_GeugGwang"
 	},
 	{
 		"abr": "ypshardrifle",
@@ -16787,7 +16763,1603 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_SCGreyhound"
+	},
+	{
+		"abr": "japanesebobtail",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_J_Bobtail"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "mainecoon",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_Maine_Coon"
+	},
+	{
+		"abr": "miniquarry",
+		"price": 260,
+		"category": "Uncategorized",
+		"defname": "QRY_MiniQuarry"
+	},
+	{
+		"abr": "miniaturedachshund",
+		"price": 167,
+		"category": "Uncategorized",
+		"defname": "SCMiniatureDachshund"
+	},
+	{
+		"abr": "miniaturedachshundmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCMiniatureDachshund"
+	},
+	{
+		"abr": "miniatureschnauzer",
+		"price": 167,
+		"category": "Uncategorized",
+		"defname": "MiniatureSchnauzer"
+	},
+	{
+		"abr": "miniatureschnauzermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MiniatureSchnauzer"
+	},
+	{
+		"abr": "newfoundland",
+		"price": 667,
+		"category": "Uncategorized",
+		"defname": "SCNewfoundland"
+	},
+	{
+		"abr": "newfoundlandmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCNewfoundland"
+	},
+	{
+		"abr": "norwegianforestcat",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_N_Forest_Cat"
+	},
+	{
+		"abr": "oldenglishsheepdog",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "SCOldEnglishSheepdog"
+	},
+	{
+		"abr": "oldenglishsheepdogmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCOldEnglishSheepdog"
+	},
+	{
+		"abr": "persian",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_Persian"
+	},
+	{
+		"abr": "pug",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "SCPug"
+	},
+	{
+		"abr": "pugmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCPug"
+	},
+	{
+		"abr": "quarry",
+		"price": 617,
+		"category": "Uncategorized",
+		"defname": "QRY_Quarry"
+	},
+	{
+		"abr": "quarryplatform",
+		"price": 168,
+		"category": "Uncategorized",
+		"defname": "QRY_Platform"
+	},
+	{
+		"abr": "russianblue",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_Russian_Blue"
+	},
+	{
+		"abr": "saintbernard",
+		"price": 667,
+		"category": "Uncategorized",
+		"defname": "Saintbernard"
+	},
+	{
+		"abr": "saintbernardmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Saintbernard"
+	},
+	{
+		"abr": "scottishfold",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_Scottish_Fold"
+	},
+	{
+		"abr": "scottishfoldlonghair",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_Scottish_Fold_Long"
+	},
+	{
+		"abr": "siamese",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_Siamese"
+	},
+	{
+		"abr": "standardpoodle",
+		"price": 417,
+		"category": "Uncategorized",
+		"defname": "SCStandardPoodle"
+	},
+	{
+		"abr": "standardpoodlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCStandardPoodle"
+	},
+	{
+		"abr": "welshcorgi",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "SCWelshCorgi"
+	},
+	{
+		"abr": "welshcorgimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SCWelshCorgi"
+	},
+	{
+		"abr": "whitecat",
+		"price": 250,
+		"category": "Uncategorized",
+		"defname": "akaNEKO_shironeko"
+	},
+	{
+		"abr": "youthserum",
+		"price": 2333,
+		"category": "Items",
+		"defname": "MechSerumYouth"
+	},
+	{
+		"abr": "5.11tactecbodyarmor",
+		"price": 400,
+		"category": "Body armor",
+		"defname": "RNApparel_511TacTecVest"
+	},
+	{
+		"abr": "6b23-1bodyarmor",
+		"price": 433,
+		"category": "Body armor",
+		"defname": "RNApparel_6B23Vest"
+	},
+	{
+		"abr": "ar500armor",
+		"price": 392,
+		"category": "Body armor",
+		"defname": "RNApparel_AR500Vest"
+	},
+	{
+		"abr": "ar500armor(pmc)",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_AR500PMCVest"
+	},
+	{
+		"abr": "ar500armor(warrior)",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_AR500WarriorVest"
+	},
+	{
+		"abr": "backpackcivilian",
+		"price": 179,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Civilian"
+	},
+	{
+		"abr": "backpackmilitary",
+		"price": 312,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Military"
+	},
+	{
+		"abr": "backpackpegasuseliteops",
+		"price": 279,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_PegasusEliteOps"
+	},
+	{
+		"abr": "backpacktactical",
+		"price": 245,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Tactical"
+	},
+	{
+		"abr": "backpacktacticalsling",
+		"price": 245,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Tactical_Sling"
+	},
+	{
+		"abr": "balaclava",
+		"price": 74,
+		"category": "Masks",
+		"defname": "RNApparel_Balaclava"
+	},
+	{
+		"abr": "balaclavaghostriley",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_BalaclavaRiley"
+	},
+	{
+		"abr": "balaclavakeegan",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_BalaclavaKeegan"
+	},
+	{
+		"abr": "balaclavaskully",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_BalaclavaSkully"
+	},
+	{
+		"abr": "bandanared",
+		"price": 95,
+		"category": "Masks",
+		"defname": "RNApparel_BandanaRed"
+	},
+	{
+		"abr": "bandanatan",
+		"price": 62,
+		"category": "Masks",
+		"defname": "RNApparel_BandanaTan"
+	},
+	{
+		"abr": "baseballcapace",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_AceCap"
+	},
+	{
+		"abr": "baseballcapbackwards",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_BackwardsCap"
+	},
+	{
+		"abr": "baseballcaplegend",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_LegendCap"
+	},
+	{
+		"abr": "baseballcapm81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Cap"
+	},
+	{
+		"abr": "baseballcapmrga",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MAGACap"
+	},
+	{
+		"abr": "baseballcapmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamCap"
+	},
+	{
+		"abr": "baseballcapnomad",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_NomadCap"
+	},
+	{
+		"abr": "baseballcappmc",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_BrownCap"
+	},
+	{
+		"abr": "baseballcappunisher",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PunisherCap"
+	},
+	{
+		"abr": "baseballcaptactical",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PatchCap"
+	},
+	{
+		"abr": "beanie",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_Beanie"
+	},
+	{
+		"abr": "beaniedivision",
+		"price": 177,
+		"category": "Hats",
+		"defname": "RNApparel_BeanieDivision"
+	},
+	{
+		"abr": "beret",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_Beret"
+	},
+	{
+		"abr": "beretsog",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_BeretSOG"
+	},
+	{
+		"abr": "booniehat",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PlainBoonie"
+	},
+	{
+		"abr": "booniehatm81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Boonie"
+	},
+	{
+		"abr": "booniehatmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamBoonie"
+	},
+	{
+		"abr": "casualsbutsarge",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_ButSarge"
+	},
+	{
+		"abr": "casualsdivision",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Hoodie_Ryan"
+	},
+	{
+		"abr": "casualsellie",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_EllieShirt"
+	},
+	{
+		"abr": "casualsgymoutfit",
+		"price": 182,
+		"category": "Casual",
+		"defname": "RNApparel_GymOutfit_Blank"
+	},
+	{
+		"abr": "casualslouis",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_Office"
+	},
+	{
+		"abr": "casualsnomad",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_NomadShirt"
+	},
+	{
+		"abr": "casualsvalentine",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_OffDuty"
+	},
+	{
+		"abr": "casualswarriorpoet",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Polo_WPSRed"
+	},
+	{
+		"abr": "cavebeetle",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "CaveSpelopede"
+	},
+	{
+		"abr": "cavebeetleking",
+		"price": 1667,
+		"category": "Uncategorized",
+		"defname": "CaveBeetleKing"
+	},
+	{
+		"abr": "chickenhat",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_ChickenHatMGSV"
+	},
+	{
+		"abr": "combatfleece",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Fleece"
+	},
+	{
+		"abr": "combatfleeceblack",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_FleeceBlack"
+	},
+	{
+		"abr": "combatjacketdcu",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_DCU"
+	},
+	{
+		"abr": "combatjacketdpm",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_DPM"
+	},
+	{
+		"abr": "combatjacketm81c",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_M81C"
+	},
+	{
+		"abr": "combatjacketmulticam",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_Multicam"
+	},
+	{
+		"abr": "combatjacketolive",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_Olive"
+	},
+	{
+		"abr": "combatjacketurban",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_Urban"
+	},
+	{
+		"abr": "combatshirtgray",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_PUBGGray"
+	},
+	{
+		"abr": "combatshirtnavy",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_PUBGNavy"
+	},
+	{
+		"abr": "combatshirtred",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_PUBGRed"
+	},
+	{
+		"abr": "combatuniformdcu",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_DCU"
+	},
+	{
+		"abr": "combatuniformdpm",
+		"price": 333,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_DPM"
+	},
+	{
+		"abr": "combatuniformm81",
+		"price": 333,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_M81C"
+	},
+	{
+		"abr": "combatuniformmulticam",
+		"price": 333,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Multicam"
+	},
+	{
+		"abr": "combatuniformolive",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Olive"
+	},
+	{
+		"abr": "combatsddpm",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_LiteDDPM"
+	},
+	{
+		"abr": "container",
+		"price": 19,
+		"category": "Uncategorized",
+		"defname": "OpenableContainer"
+	},
+	{
+		"abr": "cryeairframehelmet",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_CryeAirframeHelmet_Tan"
+	},
+	{
+		"abr": "cryecagebodyarmor",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_CryeCAGE_Tan"
+	},
+	{
+		"abr": "divisionjacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_Division"
+	},
+	{
+		"abr": "fasthelmetblack",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmetBlack"
+	},
+	{
+		"abr": "fasthelmetmulticam",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmetMulticam"
+	},
+	{
+		"abr": "fasthelmetpmc",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmetPMC"
+	},
+	{
+		"abr": "fieldcapdcu",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_DCU"
+	},
+	{
+		"abr": "fieldcapm81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_M81cam"
+	},
+	{
+		"abr": "fieldcapmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_Multicam"
+	},
+	{
+		"abr": "formalagent",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_AdaREmake"
+	},
+	{
+		"abr": "formalprofessional",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Wick"
+	},
+	{
+		"abr": "formalspy",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Spy"
+	},
+	{
+		"abr": "formaltucked",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Tucked"
+	},
+	{
+		"abr": "gasmask4a1",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_4A1Gasmask"
+	},
+	{
+		"abr": "gasmaskgp-5",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_GP5Gasmask"
+	},
+	{
+		"abr": "ghilliesuit",
+		"price": 219,
+		"category": "Combat jackets",
+		"defname": "RNApparel_GhillieSuit"
+	},
+	{
+		"abr": "ghilliesuithood",
+		"price": 134,
+		"category": "Masks",
+		"defname": "RNApparel_NewGhillieHood"
+	},
+	{
+		"abr": "gorka4",
+		"price": 350,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_GORKA4C"
+	},
+	{
+		"abr": "halfmask",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_GTAHalfMask"
+	},
+	{
+		"abr": "handgunholsters",
+		"price": 34,
+		"category": "Accessories",
+		"defname": "RNApparel_Holsters_Shoulder"
+	},
+	{
+		"abr": "hunterreactive",
+		"price": 3825,
+		"category": "Body armor",
+		"defname": "RNApparel_HunterReactiveArmor"
+	},
+	{
+		"abr": "hunterreactivehelmet",
+		"price": 2058,
+		"category": "Helmets",
+		"defname": "RNApparel_HunterReactiveHelmet"
+	},
+	{
+		"abr": "insectmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_CaveBeetleKing"
+	},
+	{
+		"abr": "interceptorbodyarmor(m81)",
+		"price": 450,
+		"category": "Body armor",
+		"defname": "RNApparel_IBAM81Vest"
+	},
+	{
+		"abr": "k6-3helmet",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_K63Helmet"
+	},
+	{
+		"abr": "k6-3helmetopen",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_K63HelmetOpen"
+	},
+	{
+		"abr": "leatherjacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_LeatherBlank"
+	},
+	{
+		"abr": "leatherjackettan",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_Leather"
+	},
+	{
+		"abr": "lynx-thelmet",
+		"price": 517,
+		"category": "Helmets",
+		"defname": "RNApparel_LynxTHelmet"
+	},
+	{
+		"abr": "lynx-thelmetopen",
+		"price": 517,
+		"category": "Helmets",
+		"defname": "RNApparel_LynxTHelmetOpen"
+	},
+	{
+		"abr": "m1helmet",
+		"price": 119,
+		"category": "Helmets",
+		"defname": "RNApparel_M1Helmet"
+	},
+	{
+		"abr": "m134sentrygun",
+		"price": 1583,
+		"category": "Security",
+		"defname": "Turret_M134MGs"
+	},
+	{
+		"abr": "m2hbsentrygun",
+		"price": 1883,
+		"category": "Security",
+		"defname": "Turret_M2HBs"
+	},
+	{
+		"abr": "maska-1helmet",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_MASKA1Helmet"
+	},
+	{
+		"abr": "michhelmet",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_Tan"
+	},
+	{
+		"abr": "michhelmetdpm",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_DPM"
+	},
+	{
+		"abr": "mk19sentrygun",
+		"price": 1783,
+		"category": "Security",
+		"defname": "Turret_Mk19MGLs"
+	},
+	{
+		"abr": "mounteddp-28turret",
+		"price": 1025,
+		"category": "Security",
+		"defname": "Turret_DP28MG"
+	},
+	{
+		"abr": "mountedm134turret",
+		"price": 1267,
+		"category": "Security",
+		"defname": "Turret_M134MG"
+	},
+	{
+		"abr": "mountedm2hbturret",
+		"price": 1567,
+		"category": "Security",
+		"defname": "Turret_M2HB"
+	},
+	{
+		"abr": "mountedmk19turret",
+		"price": 1450,
+		"category": "Security",
+		"defname": "Turret_Mk19MGL"
+	},
+	{
+		"abr": "mountedtwinm2hbturret",
+		"price": 2975,
+		"category": "Security",
+		"defname": "Turret_M2HBT"
+	},
+	{
+		"abr": "parkam65",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka_M65Blank"
+	},
+	{
+		"abr": "pasgthelmetdcu",
+		"price": 213,
+		"category": "Helmets",
+		"defname": "RNApparel_PASGTDCUHelmet"
+	},
+	{
+		"abr": "pasgthelmetm81",
+		"price": 213,
+		"category": "Helmets",
+		"defname": "RNApparel_PASGTM81Helmet"
+	},
+	{
+		"abr": "plaidblack",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Black"
+	},
+	{
+		"abr": "plaidblue",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Blue"
+	},
+	{
+		"abr": "plaidgreen",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Green"
+	},
+	{
+		"abr": "plaidred",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Red"
+	},
+	{
+		"abr": "plaidtan",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Tan"
+	},
+	{
+		"abr": "pta-bravohelmetblack",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmetBlack"
+	},
+	{
+		"abr": "pta-bravohelmetoperator",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmetOperator"
+	},
+	{
+		"abr": "resistancejacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_Bomber"
+	},
+	{
+		"abr": "rnapparelbench",
+		"price": 400,
+		"category": "Production",
+		"defname": "RNBench_Tailor"
+	},
+	{
+		"abr": "shemagh",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_ShemaghBlank"
+	},
+	{
+		"abr": "shemaghgreen",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_Shemagh_Green"
+	},
+	{
+		"abr": "shemagholive",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_ShemaghOlive"
+	},
+	{
+		"abr": "shemaghwhite",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_ShemaghWhite"
+	},
+	{
+		"abr": "smockdpm",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka"
+	},
+	{
+		"abr": "suitjacketblack",
+		"price": 275,
+		"category": "Formal jackets",
+		"defname": "RNApparel_Blazer_Black"
+	},
+	{
+		"abr": "suitjacketblue",
+		"price": 275,
+		"category": "Formal jackets",
+		"defname": "RNApparel_Blazer_Blue"
+	},
+	{
+		"abr": "tacticaljacket",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket"
+	},
+	{
+		"abr": "tacticaljacketm81",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_M81C"
+	},
+	{
+		"abr": "tacticaljacketmulticam",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_Multicam"
+	},
+	{
+		"abr": "tacticoolhoodie",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Hoodie_Blank"
+	},
+	{
+		"abr": "tacticoolpolo",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Polo_Blank"
+	},
+	{
+		"abr": "tacticooltanktop",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_Blank"
+	},
+	{
+		"abr": "tacticooltees",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_Blank"
+	},
+	{
+		"abr": "tankexplorerblue",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel__Tank_ExplorerA"
+	},
+	{
+		"abr": "tankexplorerred",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_ExplorerB"
+	},
+	{
+		"abr": "tanktenlyashka",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_Tenlyashka"
+	},
+	{
+		"abr": "tracksuitjacketblue",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Tracksuit_Blue"
+	},
+	{
+		"abr": "tracksuitjacketred",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Tracksuit_Red"
+	},
+	{
+		"abr": "trenchcoatbrown",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_Brown"
+	},
+	{
+		"abr": "trenchcoatgray",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_Gray"
+	},
+	{
+		"abr": "trenchcoatpubg",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_PUBG"
+	},
+	{
+		"abr": "tuquem81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Tuque"
+	},
+	{
+		"abr": "tuquemulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamTuque"
+	},
+	{
+		"abr": "webbingalice",
+		"price": 57,
+		"category": "Accessories",
+		"defname": "RNApparel_Harness_ALICE"
+	},
+	{
+		"abr": "webbingmolle",
+		"price": 57,
+		"category": "Accessories",
+		"defname": "RNApparel_Harness_MOLLE"
+	},
+	{
+		"abr": "acaciatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_RRP_TreeAcacia"
+	},
+	{
+		"abr": "agarilux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Agarilux"
+	},
+	{
+		"abr": "agave",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Agave"
+	},
+	{
+		"abr": "aliengrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_AlienGrass"
+	},
+	{
+		"abr": "alienplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_RedLeaves"
+	},
+	{
+		"abr": "alientree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_AlienTree"
+	},
+	{
+		"abr": "alliumgiganteum",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAlliumGiganteum"
+	},
+	{
+		"abr": "alocasia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Alocasia"
+	},
+	{
+		"abr": "ambrosiabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Ambrosia"
+	},
+	{
+		"abr": "anthurium",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAnthurium"
+	},
+	{
+		"abr": "appletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAppletree"
+	},
+	{
+		"abr": "astragalus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Astragalus"
+	},
+	{
+		"abr": "babyagarilux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_VGP_Agarilux"
+	},
+	{
+		"abr": "bambooplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeBamboo"
+	},
+	{
+		"abr": "bananatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantBananaTree"
+	},
+	{
+		"abr": "barleyplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Barley"
+	},
+	{
+		"abr": "beanplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_bean"
+	},
+	{
+		"abr": "berrybush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Berry"
+	},
+	{
+		"abr": "bigavtomaton",
+		"price": 2000,
+		"category": "Uncategorized",
+		"defname": "Mech_BigAvtomaton"
+	},
+	{
+		"abr": "birchtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeBirch"
+	},
+	{
+		"abr": "blazebulb",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantBlazebulb"
+	},
+	{
+		"abr": "blossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GL_TreeA"
+	},
+	{
+		"abr": "blueberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantblueberry"
+	},
+	{
+		"abr": "brambles",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Brambles"
+	},
+	{
+		"abr": "brokenasphalt",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BrokenAsphalt"
+	},
+	{
+		"abr": "bryolux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Bryolux"
+	},
+	{
+		"abr": "burnedcarpet",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedCarpet"
+	},
+	{
+		"abr": "burnedstrawfloor",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedStrawFloor"
+	},
+	{
+		"abr": "burnedtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_BurnedTree"
+	},
+	{
+		"abr": "burnedwoodfloor",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedWoodPlankFloor"
+	},
+	{
+		"abr": "bush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Bush"
+	},
+	{
+		"abr": "camelliatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeCamellia"
+	},
+	{
+		"abr": "carrotplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantCarrot"
+	},
+	{
+		"abr": "cecropiatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCecropia"
+	},
+	{
+		"abr": "cherryblossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeCherryBlossom"
+	},
+	{
+		"abr": "cherrytree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantCherrytree"
+	},
+	{
+		"abr": "chest-deepmovingwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterMovingChestDeep"
+	},
+	{
+		"abr": "chokevine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Chokevine"
+	},
+	{
+		"abr": "clivia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Clivia"
+	},
+	{
+		"abr": "cloudberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantcloudberry"
+	},
+	{
+		"abr": "cocoabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantcocoa"
+	},
+	{
+		"abr": "cocoatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCocoa"
+	},
+	{
+		"abr": "coconuttree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Coconuttree"
+	},
+	{
+		"abr": "coffeeplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Coffee"
+	},
+	{
+		"abr": "collapsedrocks",
+		"price": 9,
+		"category": "Minerals",
+		"defname": "RESROCK_CollapsedRocks"
+	},
+	{
+		"abr": "compactedmachinery",
+		"price": 113,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableComponentsIndustrial"
+	},
+	{
+		"abr": "compactedplasteel",
+		"price": 608,
+		"category": "Minerals",
+		"defname": "RESROCK_MineablePlasteel"
+	},
+	{
+		"abr": "compactedsalt",
+		"price": 39,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSalt"
+	},
+	{
+		"abr": "compactedsteel",
+		"price": 133,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSteel"
+	},
+	{
+		"abr": "cornplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Corn"
+	},
+	{
+		"abr": "cottonplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Cotton"
+	},
+	{
+		"abr": "cypresstree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCypress"
+	},
+	{
+		"abr": "dandelions",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Dandelion"
+	},
+	{
+		"abr": "datepalmtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_DateTree"
+	},
+	{
+		"abr": "daylily",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Daylily"
+	},
+	{
+		"abr": "deepoceanwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterOceanDeep"
+	},
+	{
+		"abr": "deepwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterDeep"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Devilstrand"
+	},
+	{
+		"abr": "dragotree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeDrago"
+	},
+	{
+		"abr": "eggplantplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Planteggplant"
+	},
+	{
+		"abr": "fermentedrottingmound",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AA_RottingMound"
+	},
+	{
+		"abr": "fertilizedsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_AA_FertilizedSand"
+	},
+	{
+		"abr": "figtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_FigTree"
+	},
+	{
+		"abr": "flaxflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantFlax"
+	},
+	{
+		"abr": "flora-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "FloraEmiter"
+	},
+	{
+		"abr": "giantrafflesia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rafflesia"
+	},
+	{
+		"abr": "glossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GL_TreeB"
+	},
+	{
+		"abr": "glowstool",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Glowstool"
+	},
+	{
+		"abr": "goldfern",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantGoldLeaf"
+	},
+	{
+		"abr": "goldore",
+		"price": 675,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableGold"
+	},
+	{
+		"abr": "gooseberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantgooseberry"
+	},
+	{
+		"abr": "granite",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Granite"
+	},
+	{
+		"abr": "grapevine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantgrape"
+	},
+	{
+		"abr": "grass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Grass"
+	},
+	{
+		"abr": "haygrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Haygrass"
+	},
+	{
+		"abr": "healroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Healroot"
+	},
+	{
+		"abr": "heatresistantambrosiabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AA_Heat_Ambrosia"
+	},
+	{
+		"abr": "hopplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Hops"
+	},
+	{
+		"abr": "ice",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Ice"
+	},
+	{
+		"abr": "ironwoodtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeIronwood"
+	},
+	{
+		"abr": "jade",
+		"price": 342,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableJade"
+	},
+	{
+		"abr": "jadecrystal",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantJadeLeaf"
+	},
+	{
+		"abr": "japanesemapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeJapaneseMaple"
+	},
+	{
+		"abr": "kiwiplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantKiwi"
+	},
+	{
+		"abr": "lichen-coveredsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_MossyTerrain"
+	},
+	{
+		"abr": "limestone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Limestone"
+	},
+	{
+		"abr": "lowshrubs",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_ShrubLow"
+	},
+	{
+		"abr": "mangotree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantMangoTree"
+	},
+	{
+		"abr": "mapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeMaple"
 	}
 	],
-	"total": 2833
+	"total": 3155
 }
