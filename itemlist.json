@@ -795,19 +795,19 @@
 	{
 		"abr": "assaultrifleammo",
 		"price": 2,
-		"category": "Assault rifle ammo",
+		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_FMJ"
 	},
 	{
 		"abr": "assaultrifleammo(ap)",
 		"price": 3,
-		"category": "Assault rifle ammo",
+		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_AP"
 	},
 	{
 		"abr": "assaultrifleammo(hp)",
 		"price": 4,
-		"category": "Assault rifle ammo",
+		"category": "5.56x45mm NATO",
 		"defname": "Ammo_556x45mmNATO_HP"
 	},
 	{
@@ -1257,7 +1257,7 @@
 	{
 		"abr": "blastercell",
 		"price": 5,
-		"category": "Blaster cell",
+		"category": "12x64mm Charged",
 		"defname": "Ammo_12x64mmCharged"
 	},
 	{
@@ -1581,19 +1581,19 @@
 	{
 		"abr": "chargecell",
 		"price": 2,
-		"category": "Charge cell",
+		"category": "6x24mm Charged",
 		"defname": "Ammo_6x24mmCharged"
 	},
 	{
 		"abr": "chargecell(conc.)",
 		"price": 2,
-		"category": "Charge cell",
+		"category": "6x24mm Charged",
 		"defname": "Ammo_6x24mmCharged_AP"
 	},
 	{
 		"abr": "chargecell(ion)",
 		"price": 2,
-		"category": "Charge cell",
+		"category": "6x24mm Charged",
 		"defname": "Ammo_6x24mmCharged_Ion"
 	},
 	{
@@ -3243,13 +3243,13 @@
 	{
 		"abr": "grenadecartridge",
 		"price": 3,
-		"category": "Grenade cartridge",
+		"category": "30x29mm Grenade",
 		"defname": "Ammo_30x29mmGrenade_HE"
 	},
 	{
 		"abr": "grenadecartridge(emp)",
 		"price": 3,
-		"category": "Grenade cartridge",
+		"category": "30x29mm Grenade",
 		"defname": "Ammo_30x29mmGrenade_EMP"
 	},
 	{
@@ -3405,19 +3405,19 @@
 	{
 		"abr": "heavymachinegunammo",
 		"price": 1,
-		"category": "Heavy machine gun ammo",
+		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_FMJ"
 	},
 	{
 		"abr": "heavymachinegunammo(ap-i)",
 		"price": 2,
-		"category": "Heavy machine gun ammo",
+		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_Incendiary"
 	},
 	{
 		"abr": "heavymachinegunammo(he)",
 		"price": 2,
-		"category": "Heavy machine gun ammo",
+		"category": "14.5x114mm",
 		"defname": "Ammo_145x114mm_HE"
 	},
 	{
@@ -3429,19 +3429,19 @@
 	{
 		"abr": "heavyrifleammo",
 		"price": 2,
-		"category": "Heavy rifle ammo",
+		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_FMJ"
 	},
 	{
 		"abr": "heavyrifleammo(ap)",
 		"price": 3,
-		"category": "Heavy rifle ammo",
+		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_AP"
 	},
 	{
 		"abr": "heavyrifleammo(hp)",
 		"price": 4,
-		"category": "Heavy rifle ammo",
+		"category": "7.62x51mm NATO",
 		"defname": "Ammo_762x51mmNATO_HP"
 	},
 	{
@@ -3753,7 +3753,7 @@
 	{
 		"abr": "infernorocket",
 		"price": 48,
-		"category": "Inferno rocket",
+		"category": "80x256mm Fuel Cell",
 		"defname": "Ammo_80x256mmFuel_Thermobaric"
 	},
 	{
@@ -4029,7 +4029,7 @@
 	{
 		"abr": "lancecell",
 		"price": 2,
-		"category": "Lance cell",
+		"category": "5x35mm Charged",
 		"defname": "Ammo_5x35mmCharged"
 	},
 	{
@@ -4269,19 +4269,19 @@
 	{
 		"abr": "machinegunammo",
 		"price": 2,
-		"category": "Machine gun ammo",
+		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_FMJ"
 	},
 	{
 		"abr": "machinegunammo(ap)",
 		"price": 3,
-		"category": "Machine gun ammo",
+		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_AP"
 	},
 	{
 		"abr": "machinegunammo(hp)",
 		"price": 4,
-		"category": "Machine gun ammo",
+		"category": "7.62x54mmR",
 		"defname": "Ammo_762x54mmR_HP"
 	},
 	{
@@ -5259,19 +5259,19 @@
 	{
 		"abr": "pistolammo",
 		"price": 1,
-		"category": "Pistol ammo",
+		"category": ".45 ACP",
 		"defname": "Ammo_45ACP_FMJ"
 	},
 	{
 		"abr": "pistolammo(ap)",
 		"price": 2,
-		"category": "Pistol ammo",
+		"category": ".45 ACP",
 		"defname": "Ammo_45ACP_AP"
 	},
 	{
 		"abr": "pistolammo(hp)",
 		"price": 3,
-		"category": "Pistol ammo",
+		"category": ".45 ACP",
 		"defname": "Ammo_45ACP_HP"
 	},
 	{
@@ -5841,19 +5841,19 @@
 	{
 		"abr": "revolverammo",
 		"price": 2,
-		"category": "Revolver ammo",
+		"category": ".44 Magnum",
 		"defname": "Ammo_44Magnum_FMJ"
 	},
 	{
 		"abr": "revolverammo(ap)",
 		"price": 3,
-		"category": "Revolver ammo",
+		"category": ".44 Magnum",
 		"defname": "Ammo_44Magnum_AP"
 	},
 	{
 		"abr": "revolverammo(hp)",
 		"price": 4,
-		"category": "Revolver ammo",
+		"category": ".44 Magnum",
 		"defname": "Ammo_44Magnum_HP"
 	},
 	{
@@ -5889,19 +5889,19 @@
 	{
 		"abr": "rifleammo",
 		"price": 2,
-		"category": "Rifle ammo",
+		"category": ".303 British",
 		"defname": "Ammo_303British_FMJ"
 	},
 	{
 		"abr": "rifleammo(ap)",
 		"price": 3,
-		"category": "Rifle ammo",
+		"category": ".303 British",
 		"defname": "Ammo_303British_AP"
 	},
 	{
 		"abr": "rifleammo(hp)",
 		"price": 4,
-		"category": "Rifle ammo",
+		"category": ".303 British",
 		"defname": "Ammo_303British_HP"
 	},
 	{
@@ -5925,19 +5925,19 @@
 	{
 		"abr": "rocket",
 		"price": 3,
-		"category": "Rocket",
+		"category": "30x64mm Fuel Cell",
 		"defname": "Ammo_30x64mmFuel_Incendiary"
 	},
 	{
 		"abr": "rocket(foam)",
 		"price": 1,
-		"category": "Rocket",
+		"category": "30x64mm Fuel Cell",
 		"defname": "Ammo_30x64mmFuel_Foam"
 	},
 	{
 		"abr": "rocket(thermobaric)",
 		"price": 4,
-		"category": "Rocket",
+		"category": "30x64mm Fuel Cell",
 		"defname": "Ammo_30x64mmFuel_Thermobaric"
 	},
 	{
@@ -6321,25 +6321,25 @@
 	{
 		"abr": "shotgunammo",
 		"price": 3,
-		"category": "Shotgun ammo",
+		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Slug"
 	},
 	{
 		"abr": "shotgunammo(beanbag)",
 		"price": 4,
-		"category": "Shotgun ammo",
+		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Beanbag"
 	},
 	{
 		"abr": "shotgunammo(buck)",
 		"price": 5,
-		"category": "Shotgun ammo",
+		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Buck"
 	},
 	{
 		"abr": "shotgunammo(emp)",
 		"price": 1,
-		"category": "Shotgun ammo",
+		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_ElectroSlug"
 	},
 	{
@@ -6567,19 +6567,19 @@
 	{
 		"abr": "smgammo",
 		"price": 2,
-		"category": "SMG ammo",
+		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_FMJ"
 	},
 	{
 		"abr": "smgammo(ap)",
 		"price": 3,
-		"category": "SMG ammo",
+		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_AP"
 	},
 	{
 		"abr": "smgammo(hp)",
 		"price": 4,
-		"category": "SMG ammo",
+		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_HP"
 	},
 	{
@@ -16973,7 +16973,877 @@
 		"price": 2333,
 		"category": "Items",
 		"defname": "MechSerumYouth"
+	},
+	{
+		"abr": "5.11tactecbodyarmor",
+		"price": 400,
+		"category": "Body armor",
+		"defname": "RNApparel_511TacTecVest"
+	},
+	{
+		"abr": "6b23-1bodyarmor",
+		"price": 433,
+		"category": "Body armor",
+		"defname": "RNApparel_6B23Vest"
+	},
+	{
+		"abr": "ar500armor",
+		"price": 392,
+		"category": "Body armor",
+		"defname": "RNApparel_AR500Vest"
+	},
+	{
+		"abr": "ar500armor(pmc)",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_AR500PMCVest"
+	},
+	{
+		"abr": "ar500armor(warrior)",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_AR500WarriorVest"
+	},
+	{
+		"abr": "backpackcivilian",
+		"price": 179,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Civilian"
+	},
+	{
+		"abr": "backpackmilitary",
+		"price": 312,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Military"
+	},
+	{
+		"abr": "backpackpegasuseliteops",
+		"price": 279,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_PegasusEliteOps"
+	},
+	{
+		"abr": "backpacktactical",
+		"price": 245,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Tactical"
+	},
+	{
+		"abr": "backpacktacticalsling",
+		"price": 245,
+		"category": "Accessories",
+		"defname": "RNApparel_Backpack_Tactical_Sling"
+	},
+	{
+		"abr": "balaclava",
+		"price": 74,
+		"category": "Masks",
+		"defname": "RNApparel_Balaclava"
+	},
+	{
+		"abr": "balaclavaghostriley",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_BalaclavaRiley"
+	},
+	{
+		"abr": "balaclavakeegan",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_BalaclavaKeegan"
+	},
+	{
+		"abr": "balaclavaskully",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_BalaclavaSkully"
+	},
+	{
+		"abr": "bandanared",
+		"price": 95,
+		"category": "Masks",
+		"defname": "RNApparel_BandanaRed"
+	},
+	{
+		"abr": "bandanatan",
+		"price": 62,
+		"category": "Masks",
+		"defname": "RNApparel_BandanaTan"
+	},
+	{
+		"abr": "baseballcapace",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_AceCap"
+	},
+	{
+		"abr": "baseballcapbackwards",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_BackwardsCap"
+	},
+	{
+		"abr": "baseballcaplegend",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_LegendCap"
+	},
+	{
+		"abr": "baseballcapm81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Cap"
+	},
+	{
+		"abr": "baseballcapmrga",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MAGACap"
+	},
+	{
+		"abr": "baseballcapmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamCap"
+	},
+	{
+		"abr": "baseballcapnomad",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_NomadCap"
+	},
+	{
+		"abr": "baseballcappmc",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_BrownCap"
+	},
+	{
+		"abr": "baseballcappunisher",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PunisherCap"
+	},
+	{
+		"abr": "baseballcaptactical",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PatchCap"
+	},
+	{
+		"abr": "beanie",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_Beanie"
+	},
+	{
+		"abr": "beaniedivision",
+		"price": 177,
+		"category": "Hats",
+		"defname": "RNApparel_BeanieDivision"
+	},
+	{
+		"abr": "beret",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_Beret"
+	},
+	{
+		"abr": "beretsog",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_BeretSOG"
+	},
+	{
+		"abr": "booniehat",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_PlainBoonie"
+	},
+	{
+		"abr": "booniehatm81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Boonie"
+	},
+	{
+		"abr": "booniehatmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamBoonie"
+	},
+	{
+		"abr": "casualsbutsarge",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_ButSarge"
+	},
+	{
+		"abr": "casualsdivision",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Hoodie_Ryan"
+	},
+	{
+		"abr": "casualsellie",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_EllieShirt"
+	},
+	{
+		"abr": "casualsgymoutfit",
+		"price": 182,
+		"category": "Casual",
+		"defname": "RNApparel_GymOutfit_Blank"
+	},
+	{
+		"abr": "casualslouis",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_Office"
+	},
+	{
+		"abr": "casualsnomad",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_NomadShirt"
+	},
+	{
+		"abr": "casualsvalentine",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_OffDuty"
+	},
+	{
+		"abr": "casualswarriorpoet",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Polo_WPSRed"
+	},
+	{
+		"abr": "cavebeetle",
+		"price": 333,
+		"category": "Uncategorized",
+		"defname": "CaveSpelopede"
+	},
+	{
+		"abr": "cavebeetleking",
+		"price": 1667,
+		"category": "Uncategorized",
+		"defname": "CaveBeetleKing"
+	},
+	{
+		"abr": "chickenhat",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_ChickenHatMGSV"
+	},
+	{
+		"abr": "combatfleece",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Fleece"
+	},
+	{
+		"abr": "combatfleeceblack",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_FleeceBlack"
+	},
+	{
+		"abr": "combatjacketdcu",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_DCU"
+	},
+	{
+		"abr": "combatjacketdpm",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_DPM"
+	},
+	{
+		"abr": "combatjacketm81c",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_M81C"
+	},
+	{
+		"abr": "combatjacketmulticam",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_Multicam"
+	},
+	{
+		"abr": "combatjacketolive",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_Olive"
+	},
+	{
+		"abr": "combatjacketurban",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_CombatJacket_Urban"
+	},
+	{
+		"abr": "combatshirtgray",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_PUBGGray"
+	},
+	{
+		"abr": "combatshirtnavy",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_PUBGNavy"
+	},
+	{
+		"abr": "combatshirtred",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_PUBGRed"
+	},
+	{
+		"abr": "combatuniformdcu",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_DCU"
+	},
+	{
+		"abr": "combatuniformdpm",
+		"price": 333,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_DPM"
+	},
+	{
+		"abr": "combatuniformm81",
+		"price": 333,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_M81C"
+	},
+	{
+		"abr": "combatuniformmulticam",
+		"price": 333,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Multicam"
+	},
+	{
+		"abr": "combatuniformolive",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_Olive"
+	},
+	{
+		"abr": "combatsddpm",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_LiteDDPM"
+	},
+	{
+		"abr": "container",
+		"price": 19,
+		"category": "Uncategorized",
+		"defname": "OpenableContainer"
+	},
+	{
+		"abr": "cryeairframehelmet",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_CryeAirframeHelmet_Tan"
+	},
+	{
+		"abr": "cryecagebodyarmor",
+		"price": 425,
+		"category": "Body armor",
+		"defname": "RNApparel_CryeCAGE_Tan"
+	},
+	{
+		"abr": "divisionjacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_Division"
+	},
+	{
+		"abr": "fasthelmetblack",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmetBlack"
+	},
+	{
+		"abr": "fasthelmetmulticam",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmetMulticam"
+	},
+	{
+		"abr": "fasthelmetpmc",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmetPMC"
+	},
+	{
+		"abr": "fieldcapdcu",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_DCU"
+	},
+	{
+		"abr": "fieldcapm81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_M81cam"
+	},
+	{
+		"abr": "fieldcapmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_Multicam"
+	},
+	{
+		"abr": "formalagent",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_AdaREmake"
+	},
+	{
+		"abr": "formalprofessional",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Wick"
+	},
+	{
+		"abr": "formalspy",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Spy"
+	},
+	{
+		"abr": "formaltucked",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Tucked"
+	},
+	{
+		"abr": "gasmask4a1",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_4A1Gasmask"
+	},
+	{
+		"abr": "gasmaskgp-5",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_GP5Gasmask"
+	},
+	{
+		"abr": "ghilliesuit",
+		"price": 219,
+		"category": "Combat jackets",
+		"defname": "RNApparel_GhillieSuit"
+	},
+	{
+		"abr": "ghilliesuithood",
+		"price": 134,
+		"category": "Masks",
+		"defname": "RNApparel_NewGhillieHood"
+	},
+	{
+		"abr": "gorka4",
+		"price": 350,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_GORKA4C"
+	},
+	{
+		"abr": "halfmask",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_GTAHalfMask"
+	},
+	{
+		"abr": "handgunholsters",
+		"price": 34,
+		"category": "Accessories",
+		"defname": "RNApparel_Holsters_Shoulder"
+	},
+	{
+		"abr": "hunterreactive",
+		"price": 3825,
+		"category": "Body armor",
+		"defname": "RNApparel_HunterReactiveArmor"
+	},
+	{
+		"abr": "hunterreactivehelmet",
+		"price": 2058,
+		"category": "Helmets",
+		"defname": "RNApparel_HunterReactiveHelmet"
+	},
+	{
+		"abr": "insectmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_CaveBeetleKing"
+	},
+	{
+		"abr": "interceptorbodyarmor(m81)",
+		"price": 450,
+		"category": "Body armor",
+		"defname": "RNApparel_IBAM81Vest"
+	},
+	{
+		"abr": "k6-3helmet",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_K63Helmet"
+	},
+	{
+		"abr": "k6-3helmetopen",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_K63HelmetOpen"
+	},
+	{
+		"abr": "leatherjacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_LeatherBlank"
+	},
+	{
+		"abr": "leatherjackettan",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_Leather"
+	},
+	{
+		"abr": "lynx-thelmet",
+		"price": 517,
+		"category": "Helmets",
+		"defname": "RNApparel_LynxTHelmet"
+	},
+	{
+		"abr": "lynx-thelmetopen",
+		"price": 517,
+		"category": "Helmets",
+		"defname": "RNApparel_LynxTHelmetOpen"
+	},
+	{
+		"abr": "m1helmet",
+		"price": 119,
+		"category": "Helmets",
+		"defname": "RNApparel_M1Helmet"
+	},
+	{
+		"abr": "m134sentrygun",
+		"price": 1583,
+		"category": "Security",
+		"defname": "Turret_M134MGs"
+	},
+	{
+		"abr": "m2hbsentrygun",
+		"price": 1883,
+		"category": "Security",
+		"defname": "Turret_M2HBs"
+	},
+	{
+		"abr": "maska-1helmet",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_MASKA1Helmet"
+	},
+	{
+		"abr": "michhelmet",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_Tan"
+	},
+	{
+		"abr": "michhelmetdpm",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_DPM"
+	},
+	{
+		"abr": "mk19sentrygun",
+		"price": 1783,
+		"category": "Security",
+		"defname": "Turret_Mk19MGLs"
+	},
+	{
+		"abr": "mounteddp-28turret",
+		"price": 1025,
+		"category": "Security",
+		"defname": "Turret_DP28MG"
+	},
+	{
+		"abr": "mountedm134turret",
+		"price": 1267,
+		"category": "Security",
+		"defname": "Turret_M134MG"
+	},
+	{
+		"abr": "mountedm2hbturret",
+		"price": 1567,
+		"category": "Security",
+		"defname": "Turret_M2HB"
+	},
+	{
+		"abr": "mountedmk19turret",
+		"price": 1450,
+		"category": "Security",
+		"defname": "Turret_Mk19MGL"
+	},
+	{
+		"abr": "mountedtwinm2hbturret",
+		"price": 2975,
+		"category": "Security",
+		"defname": "Turret_M2HBT"
+	},
+	{
+		"abr": "parkam65",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka_M65Blank"
+	},
+	{
+		"abr": "pasgthelmetdcu",
+		"price": 213,
+		"category": "Helmets",
+		"defname": "RNApparel_PASGTDCUHelmet"
+	},
+	{
+		"abr": "pasgthelmetm81",
+		"price": 213,
+		"category": "Helmets",
+		"defname": "RNApparel_PASGTM81Helmet"
+	},
+	{
+		"abr": "plaidblack",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Black"
+	},
+	{
+		"abr": "plaidblue",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Blue"
+	},
+	{
+		"abr": "plaidgreen",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Green"
+	},
+	{
+		"abr": "plaidred",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Red"
+	},
+	{
+		"abr": "plaidtan",
+		"price": 300,
+		"category": "Casual",
+		"defname": "RNApparel_Plaid_Tan"
+	},
+	{
+		"abr": "pta-bravohelmetblack",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmetBlack"
+	},
+	{
+		"abr": "pta-bravohelmetoperator",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmetOperator"
+	},
+	{
+		"abr": "resistancejacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_Bomber"
+	},
+	{
+		"abr": "rnapparelbench",
+		"price": 400,
+		"category": "Production",
+		"defname": "RNBench_Tailor"
+	},
+	{
+		"abr": "shemagh",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_ShemaghBlank"
+	},
+	{
+		"abr": "shemaghgreen",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_Shemagh_Green"
+	},
+	{
+		"abr": "shemagholive",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_ShemaghOlive"
+	},
+	{
+		"abr": "shemaghwhite",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_ShemaghWhite"
+	},
+	{
+		"abr": "smockdpm",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka"
+	},
+	{
+		"abr": "suitjacketblack",
+		"price": 275,
+		"category": "Formal jackets",
+		"defname": "RNApparel_Blazer_Black"
+	},
+	{
+		"abr": "suitjacketblue",
+		"price": 275,
+		"category": "Formal jackets",
+		"defname": "RNApparel_Blazer_Blue"
+	},
+	{
+		"abr": "tacticaljacket",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket"
+	},
+	{
+		"abr": "tacticaljacketm81",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_M81C"
+	},
+	{
+		"abr": "tacticaljacketmulticam",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_Multicam"
+	},
+	{
+		"abr": "tacticoolhoodie",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Hoodie_Blank"
+	},
+	{
+		"abr": "tacticoolpolo",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Polo_Blank"
+	},
+	{
+		"abr": "tacticooltanktop",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_Blank"
+	},
+	{
+		"abr": "tacticooltees",
+		"price": 298,
+		"category": "Casual",
+		"defname": "RNApparel_Shirt_Blank"
+	},
+	{
+		"abr": "tankexplorerblue",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel__Tank_ExplorerA"
+	},
+	{
+		"abr": "tankexplorerred",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_ExplorerB"
+	},
+	{
+		"abr": "tanktenlyashka",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_Tenlyashka"
+	},
+	{
+		"abr": "tracksuitjacketblue",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Tracksuit_Blue"
+	},
+	{
+		"abr": "tracksuitjacketred",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Tracksuit_Red"
+	},
+	{
+		"abr": "trenchcoatbrown",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_Brown"
+	},
+	{
+		"abr": "trenchcoatgray",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_Gray"
+	},
+	{
+		"abr": "trenchcoatpubg",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_PUBG"
+	},
+	{
+		"abr": "tuquem81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Tuque"
+	},
+	{
+		"abr": "tuquemulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamTuque"
+	},
+	{
+		"abr": "webbingalice",
+		"price": 57,
+		"category": "Accessories",
+		"defname": "RNApparel_Harness_ALICE"
+	},
+	{
+		"abr": "webbingmolle",
+		"price": 57,
+		"category": "Accessories",
+		"defname": "RNApparel_Harness_MOLLE"
+	},
+	{
+		"abr": "40x53mmgrenade(emp)",
+		"price": 4,
+		"category": "40x53mm Grenade",
+		"defname": "Ammo_40x53mmGrenade_EMP"
+	},
+	{
+		"abr": "40x53mmgrenade(he)",
+		"price": 4,
+		"category": "40x53mm Grenade",
+		"defname": "Ammo_40x53mmGrenade_HE"
+	},
+	{
+		"abr": "bigavtomaton",
+		"price": 2000,
+		"category": "Uncategorized",
+		"defname": "Mech_BigAvtomaton"
 	}
 	],
-	"total": 2978
+	"total": 2979
 }
