@@ -279,7 +279,7 @@
 	{
 		"abr": "acidant",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPAcidAnt"
 	},
 	{
@@ -363,7 +363,7 @@
 	{
 		"abr": "aerofleet",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Aerofleet"
 	},
 	{
@@ -387,7 +387,7 @@
 	{
 		"abr": "africanwilddog",
 		"price": 300,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPWildDog"
 	},
 	{
@@ -429,7 +429,7 @@
 	{
 		"abr": "air-conpipe",
 		"price": 5,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "airPipe"
 	},
 	{
@@ -453,7 +453,7 @@
 	{
 		"abr": "alpaca",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
@@ -471,7 +471,7 @@
 	{
 		"abr": "alphabeaver",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
@@ -489,7 +489,7 @@
 	{
 		"abr": "amurleopard",
 		"price": 533,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPAmurLeopard"
 	},
 	{
@@ -501,25 +501,25 @@
 	{
 		"abr": "ancientconcretebarrier",
 		"price": 51,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "AncientConcreteBarrier"
 	},
 	{
 		"abr": "ancientcryptosleepcasket",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "AncientCryptosleepCasket"
 	},
 	{
 		"abr": "ancientlamppost",
 		"price": 50,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "AncientLamppost"
 	},
 	{
 		"abr": "andrewsarchus",
 		"price": 3667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Andrewsarchus"
 	},
 	{
@@ -555,7 +555,7 @@
 	{
 		"abr": "angorarabbit",
 		"price": 400,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPAngoraRabbit"
 	},
 	{
@@ -585,7 +585,7 @@
 	{
 		"abr": "animusvox",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_AnimusVox"
 	},
 	{
@@ -687,13 +687,13 @@
 	{
 		"abr": "arcticfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticlion",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_ArcticLion"
 	},
 	{
@@ -711,13 +711,13 @@
 	{
 		"abr": "arcticwolf",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
 		"abr": "arcturanskyeel",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Skyeel"
 	},
 	{
@@ -759,7 +759,7 @@
 	{
 		"abr": "arthropleura",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Arthropleura"
 	},
 	{
@@ -819,13 +819,13 @@
 	{
 		"abr": "aurochs",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Aurochs"
 	},
 	{
 		"abr": "autodoor",
 		"price": 323,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Autodoor"
 	},
 	{
@@ -867,13 +867,13 @@
 	{
 		"abr": "barbedwire",
 		"price": 6,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BarbedWire"
 	},
 	{
 		"abr": "barbslinger",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Barbslinger"
 	},
 	{
@@ -951,7 +951,7 @@
 	{
 		"abr": "bedbug",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BedBug"
 	},
 	{
@@ -1017,7 +1017,7 @@
 	{
 		"abr": "biofuelrefinery",
 		"price": 650,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BiofuelRefinery"
 	},
 	{
@@ -1113,7 +1113,7 @@
 	{
 		"abr": "bionicheart",
 		"price": 1383,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BionicHeart"
 	},
 	{
@@ -1131,13 +1131,13 @@
 	{
 		"abr": "bionicstomach",
 		"price": 1308,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BionicStomach"
 	},
 	{
 		"abr": "biosolidfertilizer",
 		"price": 1,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BiosolidFertilizer"
 	},
 	{
@@ -1179,13 +1179,13 @@
 	{
 		"abr": "bison",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Bison"
 	},
 	{
 		"abr": "bison",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPBison"
 	},
 	{
@@ -1203,13 +1203,13 @@
 	{
 		"abr": "blackbear",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPBlackbear"
 	},
 	{
 		"abr": "blackdirewolf",
 		"price": 2083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPBlackwolf"
 	},
 	{
@@ -1221,7 +1221,7 @@
 	{
 		"abr": "blackhorse",
 		"price": 1333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "BlackHorse"
 	},
 	{
@@ -1233,25 +1233,25 @@
 	{
 		"abr": "blackrhinoceros",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPBlackRhinoceros"
 	},
 	{
 		"abr": "blackscarab",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BlackScarab"
 	},
 	{
 		"abr": "blackspelopede",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BlackSpelopede"
 	},
 	{
 		"abr": "blackspider",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BlackSpider"
 	},
 	{
@@ -1269,13 +1269,13 @@
 	{
 		"abr": "blizzarisk",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Blizzarisk"
 	},
 	{
 		"abr": "blizzariskclutchmother",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BlizzariskClutchMother"
 	},
 	{
@@ -1299,13 +1299,13 @@
 	{
 		"abr": "blueshipchunk",
 		"price": 1867,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_blue"
 	},
 	{
 		"abr": "bluesterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileBlue"
 	},
 	{
@@ -1323,7 +1323,7 @@
 	{
 		"abr": "boomalope",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
@@ -1335,7 +1335,7 @@
 	{
 		"abr": "boomrat",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
@@ -1347,7 +1347,7 @@
 	{
 		"abr": "bouldermit",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BoulderMit"
 	},
 	{
@@ -1371,7 +1371,7 @@
 	{
 		"abr": "brownsterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileBrown"
 	},
 	{
@@ -1395,7 +1395,7 @@
 	{
 		"abr": "bumbledrone",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Bumbledrone"
 	},
 	{
@@ -1407,13 +1407,13 @@
 	{
 		"abr": "bumbledronequeen",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_BumbledroneQueen"
 	},
 	{
 		"abr": "burnpit",
 		"price": 65,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BurnPit"
 	},
 	{
@@ -1437,7 +1437,7 @@
 	{
 		"abr": "cactipine",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Cactipine"
 	},
 	{
@@ -1461,13 +1461,13 @@
 	{
 		"abr": "campfire",
 		"price": 41,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Campfire"
 	},
 	{
 		"abr": "capybara",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Capybara"
 	},
 	{
@@ -1497,7 +1497,7 @@
 	{
 		"abr": "caribou",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Caribou"
 	},
 	{
@@ -1509,7 +1509,7 @@
 	{
 		"abr": "cassowary",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cassowary"
 	},
 	{
@@ -1521,13 +1521,13 @@
 	{
 		"abr": "castoroides",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Castoroides"
 	},
 	{
 		"abr": "cat",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cat"
 	},
 	{
@@ -1557,7 +1557,7 @@
 	{
 		"abr": "chalicotherium",
 		"price": 2167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chalicotherium"
 	},
 	{
@@ -1635,7 +1635,7 @@
 	{
 		"abr": "cheetah",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPCheetah"
 	},
 	{
@@ -1653,7 +1653,7 @@
 	{
 		"abr": "chemfuelpoweredgenerator",
 		"price": 492,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
@@ -1665,13 +1665,13 @@
 	{
 		"abr": "chemicalprocessingunit",
 		"price": 567,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ChickAndroidGeneratorAI"
 	},
 	{
 		"abr": "chemicalprocessingunit",
 		"price": 1333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AndroidChicken"
 	},
 	{
@@ -1683,7 +1683,7 @@
 	{
 		"abr": "chicken",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chicken"
 	},
 	{
@@ -1707,7 +1707,7 @@
 	{
 		"abr": "chinchilla",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chinchilla"
 	},
 	{
@@ -1725,7 +1725,7 @@
 	{
 		"abr": "chipmunk",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPChipmunk"
 	},
 	{
@@ -1761,7 +1761,7 @@
 	{
 		"abr": "cobra",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cobra"
 	},
 	{
@@ -1797,7 +1797,7 @@
 	{
 		"abr": "colossalaerofleet",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_ColossalAerofleet"
 	},
 	{
@@ -1815,7 +1815,7 @@
 	{
 		"abr": "commsconsole",
 		"price": 608,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "CommsConsole"
 	},
 	{
@@ -1929,7 +1929,7 @@
 	{
 		"abr": "cougar",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cougar"
 	},
 	{
@@ -1959,7 +1959,7 @@
 	{
 		"abr": "cow",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cow"
 	},
 	{
@@ -1971,7 +1971,7 @@
 	{
 		"abr": "creamsterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileCream"
 	},
 	{
@@ -2037,7 +2037,7 @@
 	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "CryptosleepCasket"
 	},
 	{
@@ -2091,13 +2091,13 @@
 	{
 		"abr": "daeodon",
 		"price": 2667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Daeodon"
 	},
 	{
 		"abr": "darksterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileDark"
 	},
 	{
@@ -2115,7 +2115,7 @@
 	{
 		"abr": "decaydrake",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_DecayDrake"
 	},
 	{
@@ -2133,13 +2133,13 @@
 	{
 		"abr": "deepwaterwell",
 		"price": 332,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "DeepWaterWellInlet"
 	},
 	{
 		"abr": "deer",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Deer"
 	},
 	{
@@ -2151,7 +2151,7 @@
 	{
 		"abr": "deinotherium",
 		"price": 2917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Deinotherium"
 	},
 	{
@@ -2163,7 +2163,7 @@
 	{
 		"abr": "devilsheep",
 		"price": 1333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_DevilSheep"
 	},
 	{
@@ -2193,7 +2193,7 @@
 	{
 		"abr": "dinocrocuta",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dinocrocuta"
 	},
 	{
@@ -2205,13 +2205,13 @@
 	{
 		"abr": "dinopithecus",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dinopithecus"
 	},
 	{
 		"abr": "dinornis",
 		"price": 2833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dinornis"
 	},
 	{
@@ -2223,7 +2223,7 @@
 	{
 		"abr": "diprotodon",
 		"price": 2167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Diprotodon"
 	},
 	{
@@ -2235,7 +2235,7 @@
 	{
 		"abr": "direwolf",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPDirewolf"
 	},
 	{
@@ -2253,7 +2253,7 @@
 	{
 		"abr": "doedicurus",
 		"price": 1833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Doedicurus"
 	},
 	{
@@ -2283,7 +2283,7 @@
 	{
 		"abr": "domesticgoose",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPDomesticGoose"
 	},
 	{
@@ -2301,13 +2301,13 @@
 	{
 		"abr": "domesticrabbit",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPDomesticRabbit"
 	},
 	{
 		"abr": "donkey",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Donkey"
 	},
 	{
@@ -2319,7 +2319,7 @@
 	{
 		"abr": "door",
 		"price": 88,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Door"
 	},
 	{
@@ -2361,7 +2361,7 @@
 	{
 		"abr": "dromedary",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dromedary"
 	},
 	{
@@ -2391,13 +2391,13 @@
 	{
 		"abr": "duck",
 		"price": 100,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Duck"
 	},
 	{
 		"abr": "duck",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPDuck"
 	},
 	{
@@ -2427,7 +2427,7 @@
 	{
 		"abr": "duck-billedplatypus",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPDuckBilledPlatypus"
 	},
 	{
@@ -2439,13 +2439,13 @@
 	{
 		"abr": "dunealisk",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Dunealisk"
 	},
 	{
 		"abr": "dunealiskclutchmother",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_DunealiskClutchMother"
 	},
 	{
@@ -2469,7 +2469,7 @@
 	{
 		"abr": "elasmotherium",
 		"price": 2167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elasmotherium"
 	},
 	{
@@ -2505,7 +2505,7 @@
 	{
 		"abr": "electriccrematorium",
 		"price": 700,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ElectricCrematorium"
 	},
 	{
@@ -2541,7 +2541,7 @@
 	{
 		"abr": "elephant",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elephant"
 	},
 	{
@@ -2565,7 +2565,7 @@
 	{
 		"abr": "elk",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elk"
 	},
 	{
@@ -2577,7 +2577,7 @@
 	{
 		"abr": "embrasure",
 		"price": 18,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Embrasure"
 	},
 	{
@@ -2601,7 +2601,7 @@
 	{
 		"abr": "emu",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
@@ -2637,7 +2637,7 @@
 	{
 		"abr": "enhydriodon",
 		"price": 2167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Enhydriodon"
 	},
 	{
@@ -2667,7 +2667,7 @@
 	{
 		"abr": "ermine",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPErmine"
 	},
 	{
@@ -2691,25 +2691,25 @@
 	{
 		"abr": "fabricationbench",
 		"price": 1967,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "FabricationBench"
 	},
 	{
 		"abr": "fennecfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
 	{
 		"abr": "feralisk",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Feralisk"
 	},
 	{
 		"abr": "feraliskclutchmother",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_FeraliskClutchMother"
 	},
 	{
@@ -2733,7 +2733,7 @@
 	{
 		"abr": "ferret",
 		"price": 358,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPFerret"
 	},
 	{
@@ -2793,13 +2793,13 @@
 	{
 		"abr": "fisher",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPFishercat"
 	},
 	{
 		"abr": "fissionmouse",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_FissionMouse"
 	},
 	{
@@ -2811,13 +2811,13 @@
 	{
 		"abr": "fissionmouse,secondgeneration",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_FissionMouseSecond"
 	},
 	{
 		"abr": "fissionmouse,thirdgeneration",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
 	},
 	{
@@ -2841,7 +2841,7 @@
 	{
 		"abr": "flamingo",
 		"price": 367,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPFlamingo"
 	},
 	{
@@ -2907,7 +2907,7 @@
 	{
 		"abr": "frostmite",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Frostmite"
 	},
 	{
@@ -2931,7 +2931,7 @@
 	{
 		"abr": "gallatross",
 		"price": 6667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Gallatross"
 	},
 	{
@@ -2967,7 +2967,7 @@
 	{
 		"abr": "gazelle",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gazelle"
 	},
 	{
@@ -2991,7 +2991,7 @@
 	{
 		"abr": "gecko",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPXGecko"
 	},
 	{
@@ -3009,13 +3009,13 @@
 	{
 		"abr": "geothermalgenerator",
 		"price": 1575,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GeothermalGenerator"
 	},
 	{
 		"abr": "gigantelope",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Gigantelope"
 	},
 	{
@@ -3027,7 +3027,7 @@
 	{
 		"abr": "gigantophis",
 		"price": 4167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gigantophis"
 	},
 	{
@@ -3039,13 +3039,13 @@
 	{
 		"abr": "gigantopithecus",
 		"price": 2333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gigantopithecus"
 	},
 	{
 		"abr": "giraffe",
 		"price": 1333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPGiraffe"
 	},
 	{
@@ -3081,7 +3081,7 @@
 	{
 		"abr": "goat",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Goat"
 	},
 	{
@@ -3105,19 +3105,19 @@
 	{
 		"abr": "goldsterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileGold"
 	},
 	{
 		"abr": "gomphotaria",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gomphotaria"
 	},
 	{
 		"abr": "goose",
 		"price": 150,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Goose"
 	},
 	{
@@ -3159,19 +3159,19 @@
 	{
 		"abr": "grave",
 		"price": 5,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Grave"
 	},
 	{
 		"abr": "grayshipchunk",
 		"price": 892,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_gray"
 	},
 	{
 		"abr": "grayshipchunk",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_grayI"
 	},
 	{
@@ -3195,7 +3195,7 @@
 	{
 		"abr": "greatbustard",
 		"price": 300,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPGreatBustard"
 	},
 	{
@@ -3207,7 +3207,7 @@
 	{
 		"abr": "greatdevourer",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_GreatDevourer"
 	},
 	{
@@ -3237,7 +3237,7 @@
 	{
 		"abr": "greensterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileGreen"
 	},
 	{
@@ -3255,19 +3255,19 @@
 	{
 		"abr": "grizzlybear",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
 		"abr": "ground-penetratingscanner",
 		"price": 1692,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
 		"abr": "groundrunner",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Groundrunner"
 	},
 	{
@@ -3279,13 +3279,13 @@
 	{
 		"abr": "guineapig",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_GuineaPig"
 	},
 	{
 		"abr": "guineapig",
 		"price": 100,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPGuineaPig"
 	},
 	{
@@ -3327,7 +3327,7 @@
 	{
 		"abr": "hare",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
@@ -3339,7 +3339,7 @@
 	{
 		"abr": "haulerant",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPHaulerAnt"
 	},
 	{
@@ -3447,7 +3447,7 @@
 	{
 		"abr": "hedgehog",
 		"price": 117,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPHedgehog"
 	},
 	{
@@ -3471,13 +3471,13 @@
 	{
 		"abr": "hippopotamus",
 		"price": 467,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPHippopotamus"
 	},
 	{
 		"abr": "hi-techresearchbench",
 		"price": 1383,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "HiTechResearchBench"
 	},
 	{
@@ -3495,7 +3495,7 @@
 	{
 		"abr": "honeybadger",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPHoneyBadger"
 	},
 	{
@@ -3507,7 +3507,7 @@
 	{
 		"abr": "hopper",
 		"price": 49,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Hopper"
 	},
 	{
@@ -3525,13 +3525,13 @@
 	{
 		"abr": "horse",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Horse"
 	},
 	{
 		"abr": "horse",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPHorse"
 	},
 	{
@@ -3603,13 +3603,13 @@
 	{
 		"abr": "hugewatertower",
 		"price": 717,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WaterTowerL"
 	},
 	{
 		"abr": "human",
 		"price": 2917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Human"
 	},
 	{
@@ -3627,7 +3627,7 @@
 	{
 		"abr": "husky",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Husky"
 	},
 	{
@@ -3657,7 +3657,7 @@
 	{
 		"abr": "hydroponicsbasin",
 		"price": 383,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "HydroponicsBasin"
 	},
 	{
@@ -3669,7 +3669,7 @@
 	{
 		"abr": "ibex",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ibex"
 	},
 	{
@@ -3711,7 +3711,7 @@
 	{
 		"abr": "iguana",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Iguana"
 	},
 	{
@@ -3789,7 +3789,7 @@
 	{
 		"abr": "invisiblepowerconduit",
 		"price": 3,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PowerConduitInvisible"
 	},
 	{
@@ -3801,7 +3801,7 @@
 	{
 		"abr": "ironhuskbeetle",
 		"price": 5000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_IronhuskBeetle"
 	},
 	{
@@ -3831,7 +3831,7 @@
 	{
 		"abr": "jackalope",
 		"price": 150,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPJackalope"
 	},
 	{
@@ -3897,7 +3897,7 @@
 	{
 		"abr": "josephoartigasia",
 		"price": 1833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Josephoartigasia"
 	},
 	{
@@ -3921,13 +3921,13 @@
 	{
 		"abr": "k-9cyberneticunit",
 		"price": 14167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AndroidDog"
 	},
 	{
 		"abr": "k-9unit",
 		"price": 2800,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "DoggoAndroidGeneratorAI"
 	},
 	{
@@ -3969,7 +3969,7 @@
 	{
 		"abr": "kiwi",
 		"price": 383,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPKiwi"
 	},
 	{
@@ -3987,7 +3987,7 @@
 	{
 		"abr": "komododragon",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPKomodo"
 	},
 	{
@@ -4017,7 +4017,7 @@
 	{
 		"abr": "labradorretriever",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
 	{
@@ -4095,7 +4095,7 @@
 	{
 		"abr": "lion",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPLion"
 	},
 	{
@@ -4131,7 +4131,7 @@
 	{
 		"abr": "llama",
 		"price": 700,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPLlama"
 	},
 	{
@@ -4149,7 +4149,7 @@
 	{
 		"abr": "lockjaw",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Lockjaw"
 	},
 	{
@@ -4167,7 +4167,7 @@
 	{
 		"abr": "long-rangemineralscanner",
 		"price": 1625,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
@@ -4197,7 +4197,7 @@
 	{
 		"abr": "lynx",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Lynx"
 	},
 	{
@@ -4209,13 +4209,13 @@
 	{
 		"abr": "m.u.f.funit",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AndroidMuff"
 	},
 	{
 		"abr": "m.u.f.funit",
 		"price": 1750,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MuffAndroidGeneratorAI"
 	},
 	{
@@ -4251,7 +4251,7 @@
 	{
 		"abr": "m7mechanisedinfantry",
 		"price": 30000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "M7Mech"
 	},
 	{
@@ -4293,7 +4293,7 @@
 	{
 		"abr": "macrauchenia",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Macrauchenia"
 	},
 	{
@@ -4311,7 +4311,7 @@
 	{
 		"abr": "majoreragoat",
 		"price": 375,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPMajoreraGoat"
 	},
 	{
@@ -4329,7 +4329,7 @@
 	{
 		"abr": "mammothworm",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_MammothWorm"
 	},
 	{
@@ -4347,7 +4347,7 @@
 	{
 		"abr": "mantrap",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Mantrap"
 	},
 	{
@@ -4389,7 +4389,7 @@
 	{
 		"abr": "meadowave",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_MeadowAve"
 	},
 	{
@@ -4431,19 +4431,19 @@
 	{
 		"abr": "megabadger",
 		"price": 3667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPMegabadger"
 	},
 	{
 		"abr": "megaferret",
 		"price": 1583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPMegaFerret"
 	},
 	{
 		"abr": "megalania",
 		"price": 3000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megalania"
 	},
 	{
@@ -4455,7 +4455,7 @@
 	{
 		"abr": "megaloceros",
 		"price": 1833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megaloceros"
 	},
 	{
@@ -4467,7 +4467,7 @@
 	{
 		"abr": "megalochelys",
 		"price": 2333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megalochelys"
 	},
 	{
@@ -4479,7 +4479,7 @@
 	{
 		"abr": "megalouse",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_MegaLouse"
 	},
 	{
@@ -4497,7 +4497,7 @@
 	{
 		"abr": "meganeura",
 		"price": 1250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Meganeura"
 	},
 	{
@@ -4509,13 +4509,13 @@
 	{
 		"abr": "megascarab",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megascarab"
 	},
 	{
 		"abr": "megascorpion",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPMegascorpion"
 	},
 	{
@@ -4527,7 +4527,7 @@
 	{
 		"abr": "megasloth",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
@@ -4545,7 +4545,7 @@
 	{
 		"abr": "megaspider",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
@@ -4563,13 +4563,13 @@
 	{
 		"abr": "microscyther",
 		"price": 67,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "MicroScyther"
 	},
 	{
 		"abr": "microscyther",
 		"price": 3,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MicroScytherGeneratorAI"
 	},
 	{
@@ -4707,7 +4707,7 @@
 	{
 		"abr": "moisturepump",
 		"price": 458,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MoisturePump"
 	},
 	{
@@ -4719,7 +4719,7 @@
 	{
 		"abr": "monkey",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Monkey"
 	},
 	{
@@ -4761,7 +4761,7 @@
 	{
 		"abr": "muffalo",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Muffalo"
 	},
 	{
@@ -4785,7 +4785,7 @@
 	{
 		"abr": "munchkincat",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPMunchkinCat"
 	},
 	{
@@ -4797,13 +4797,13 @@
 	{
 		"abr": "n.solutionunit",
 		"price": 2050,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "CowAndroidGeneratorAI"
 	},
 	{
 		"abr": "n.solutionunit",
 		"price": 2667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "RoboticCow"
 	},
 	{
@@ -4821,7 +4821,7 @@
 	{
 		"abr": "needlepost",
 		"price": 1050,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Needlepost"
 	},
 	{
@@ -4833,7 +4833,7 @@
 	{
 		"abr": "needleroll",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Needleroll"
 	},
 	{
@@ -4881,7 +4881,7 @@
 	{
 		"abr": "nightling",
 		"price": 1250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Nightling"
 	},
 	{
@@ -4899,7 +4899,7 @@
 	{
 		"abr": "nutrientpastedispenser",
 		"price": 458,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
@@ -4923,7 +4923,7 @@
 	{
 		"abr": "ocularjelly",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_OcularJelly"
 	},
 	{
@@ -4989,7 +4989,7 @@
 	{
 		"abr": "ostrich",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ostrich"
 	},
 	{
@@ -5001,7 +5001,7 @@
 	{
 		"abr": "otter",
 		"price": 458,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPOtter"
 	},
 	{
@@ -5019,7 +5019,7 @@
 	{
 		"abr": "overgrowncolossus",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_OvergrownColossus"
 	},
 	{
@@ -5085,7 +5085,7 @@
 	{
 		"abr": "palaeeudyptes",
 		"price": 1833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Palaeeudyptes"
 	},
 	{
@@ -5103,19 +5103,19 @@
 	{
 		"abr": "palomino",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Palomino"
 	},
 	{
 		"abr": "panda",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPPanda"
 	},
 	{
 		"abr": "panther",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Panther"
 	},
 	{
@@ -5139,7 +5139,7 @@
 	{
 		"abr": "paraceratherium",
 		"price": 6167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Paraceratherium"
 	},
 	{
@@ -5151,7 +5151,7 @@
 	{
 		"abr": "passivecooler",
 		"price": 101,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PassiveCooler"
 	},
 	{
@@ -5163,7 +5163,7 @@
 	{
 		"abr": "pebblemit",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_PebbleMit"
 	},
 	{
@@ -5175,7 +5175,7 @@
 	{
 		"abr": "peccary",
 		"price": 300,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPPeccary"
 	},
 	{
@@ -5187,7 +5187,7 @@
 	{
 		"abr": "penguin",
 		"price": 433,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPPenguin"
 	},
 	{
@@ -5211,13 +5211,13 @@
 	{
 		"abr": "phytominingunit",
 		"price": 2667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "RoboticSheep"
 	},
 	{
 		"abr": "phytominingunit",
 		"price": 2050,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SheepAndroidGeneratorAI"
 	},
 	{
@@ -5229,7 +5229,7 @@
 	{
 		"abr": "pig",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Pig"
 	},
 	{
@@ -5307,7 +5307,7 @@
 	{
 		"abr": "plantspot",
 		"price": 51,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Anon2PlantSpot"
 	},
 	{
@@ -5343,7 +5343,7 @@
 	{
 		"abr": "platybelodon",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Platybelodon"
 	},
 	{
@@ -5361,7 +5361,7 @@
 	{
 		"abr": "plumbing",
 		"price": 5,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "sewagePipeStuff"
 	},
 	{
@@ -5373,7 +5373,7 @@
 	{
 		"abr": "podlauncher",
 		"price": 230,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PodLauncher"
 	},
 	{
@@ -5385,7 +5385,7 @@
 	{
 		"abr": "polarbear",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
 	{
@@ -5403,7 +5403,7 @@
 	{
 		"abr": "porcupine",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPPorcupine"
 	},
 	{
@@ -5439,7 +5439,7 @@
 	{
 		"abr": "powerconduit",
 		"price": 3,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PowerConduit"
 	},
 	{
@@ -5451,19 +5451,19 @@
 	{
 		"abr": "powerswitch",
 		"price": 102,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PowerSwitch"
 	},
 	{
 		"abr": "primitivewell",
 		"price": 137,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PrimitiveWell"
 	},
 	{
 		"abr": "procoptodon",
 		"price": 1833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Procoptodon"
 	},
 	{
@@ -5481,7 +5481,7 @@
 	{
 		"abr": "prostheticheart",
 		"price": 358,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
@@ -5571,7 +5571,7 @@
 	{
 		"abr": "ptarmigan",
 		"price": 125,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPPtarmigan"
 	},
 	{
@@ -5595,13 +5595,13 @@
 	{
 		"abr": "pulmonoscorpius",
 		"price": 1750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Pulmonoscorpius"
 	},
 	{
 		"abr": "pumpingstation",
 		"price": 567,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PumpingStation"
 	},
 	{
@@ -5613,13 +5613,13 @@
 	{
 		"abr": "purpleshipchunk",
 		"price": 2383,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_purple"
 	},
 	{
 		"abr": "purussaurus",
 		"price": 5333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Purussaurus"
 	},
 	{
@@ -5643,13 +5643,13 @@
 	{
 		"abr": "quarterhorse",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "QuarterHorse"
 	},
 	{
 		"abr": "quinkana",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Quinkana"
 	},
 	{
@@ -5673,7 +5673,7 @@
 	{
 		"abr": "raccoon",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Raccoon"
 	},
 	{
@@ -5697,7 +5697,7 @@
 	{
 		"abr": "radyak",
 		"price": 4167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Radyak"
 	},
 	{
@@ -5715,7 +5715,7 @@
 	{
 		"abr": "raptorshrimp",
 		"price": 1250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_RaptorShrimp"
 	},
 	{
@@ -5733,7 +5733,7 @@
 	{
 		"abr": "rat",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Rat"
 	},
 	{
@@ -5775,13 +5775,13 @@
 	{
 		"abr": "redfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "redpanda",
 		"price": 217,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPRedPanda"
 	},
 	{
@@ -5793,7 +5793,7 @@
 	{
 		"abr": "redsterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileRed"
 	},
 	{
@@ -5829,7 +5829,7 @@
 	{
 		"abr": "researchcounter",
 		"price": 86,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
@@ -5859,7 +5859,7 @@
 	{
 		"abr": "rhinoceros",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
 	{
@@ -5943,7 +5943,7 @@
 	{
 		"abr": "roofsupport",
 		"price": 21,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RoofSupport"
 	},
 	{
@@ -6093,7 +6093,7 @@
 	{
 		"abr": "sandlion",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_SandLion"
 	},
 	{
@@ -6111,7 +6111,7 @@
 	{
 		"abr": "sandsquid",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_SandSquid"
 	},
 	{
@@ -6123,7 +6123,7 @@
 	{
 		"abr": "sandbags",
 		"price": 7,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Sandbags"
 	},
 	{
@@ -6135,7 +6135,7 @@
 	{
 		"abr": "sarcophagus",
 		"price": 214,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Sarcophagus"
 	},
 	{
@@ -6165,13 +6165,13 @@
 	{
 		"abr": "seal",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSpottedSeal"
 	},
 	{
 		"abr": "sensorcluster",
 		"price": 3008,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Ship_SensorCluster"
 	},
 	{
@@ -6183,31 +6183,31 @@
 	{
 		"abr": "septictank",
 		"price": 658,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SewageSepticTank"
 	},
 	{
 		"abr": "sewageoutlet",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SewageOutlet"
 	},
 	{
 		"abr": "sewagetreatment",
 		"price": 1725,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SewageTreatment"
 	},
 	{
 		"abr": "sheep",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Sheep"
 	},
 	{
 		"abr": "sheep",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSheep"
 	},
 	{
@@ -6249,55 +6249,55 @@
 	{
 		"abr": "shipchunk",
 		"price": 783,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk"
 	},
 	{
 		"abr": "shipchunk",
 		"price": 975,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_green"
 	},
 	{
 		"abr": "shipchunk",
 		"price": 1450,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_greenI"
 	},
 	{
 		"abr": "shipcomputercore",
 		"price": 9742,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": 1725,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
 		"price": 5925,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
 		"price": 9067,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipstructuralbeam",
 		"price": 1775,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Ship_Beam"
 	},
 	{
 		"abr": "shockgoat",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_ShockGoat"
 	},
 	{
@@ -6315,7 +6315,7 @@
 	{
 		"abr": "short-facedbear",
 		"price": 2833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ShortfacedBear"
 	},
 	{
@@ -6351,7 +6351,7 @@
 	{
 		"abr": "silkiechicken",
 		"price": 208,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSilkieChicken"
 	},
 	{
@@ -6369,7 +6369,7 @@
 	{
 		"abr": "silkspider",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSilkspider"
 	},
 	{
@@ -6459,7 +6459,7 @@
 	{
 		"abr": "sivatherium",
 		"price": 3000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Sivatherium"
 	},
 	{
@@ -6501,7 +6501,7 @@
 	{
 		"abr": "slurrypede",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Slurrypede"
 	},
 	{
@@ -6585,7 +6585,7 @@
 	{
 		"abr": "smilodon",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Smilodon"
 	},
 	{
@@ -6627,31 +6627,31 @@
 	{
 		"abr": "smoothedgranite",
 		"price": 33,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SmoothedGranite"
 	},
 	{
 		"abr": "smoothedlimestone",
 		"price": 33,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SmoothedLimestone"
 	},
 	{
 		"abr": "smoothedmarble",
 		"price": 42,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SmoothedMarble"
 	},
 	{
 		"abr": "smoothedsandstone",
 		"price": 30,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SmoothedSandstone"
 	},
 	{
 		"abr": "smoothedslate",
 		"price": 33,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SmoothedSlate"
 	},
 	{
@@ -6663,7 +6663,7 @@
 	{
 		"abr": "snowleopard",
 		"price": 533,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSnowLeopard"
 	},
 	{
@@ -6675,19 +6675,19 @@
 	{
 		"abr": "snowhare",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Snowhare"
 	},
 	{
 		"abr": "solargenerator",
 		"price": 492,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SolarGenerator"
 	},
 	{
 		"abr": "solarheater",
 		"price": 244,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SolarHeater"
 	},
 	{
@@ -6717,7 +6717,7 @@
 	{
 		"abr": "spelopede",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
@@ -6747,13 +6747,13 @@
 	{
 		"abr": "spiritwolf",
 		"price": 3250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSpiritwolf"
 	},
 	{
 		"abr": "spiritwolf",
 		"price": 3250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPSpiritwolfFF"
 	},
 	{
@@ -6777,7 +6777,7 @@
 	{
 		"abr": "squirrel",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Squirrel"
 	},
 	{
@@ -6789,7 +6789,7 @@
 	{
 		"abr": "stalldoor",
 		"price": 18,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ToiletStallDoor"
 	},
 	{
@@ -6885,7 +6885,7 @@
 	{
 		"abr": "stonecampfire",
 		"price": 128,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Stone_Campfire"
 	},
 	{
@@ -6933,7 +6933,7 @@
 	{
 		"abr": "summitcrab",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_SummitCrab"
 	},
 	{
@@ -6951,13 +6951,13 @@
 	{
 		"abr": "surgicalinstruments",
 		"price": 783,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SurgicalInstruments"
 	},
 	{
 		"abr": "surgicallamp",
 		"price": 180,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "SurgicalLamp"
 	},
 	{
@@ -6987,55 +6987,55 @@
 	{
 		"abr": "t1android",
 		"price": 2333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t1android",
 		"price": 1067,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "T1AndroidGeneratorAI"
 	},
 	{
 		"abr": "t2android",
 		"price": 4167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t2android",
 		"price": 2133,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "T2AndroidGeneratorAI"
 	},
 	{
 		"abr": "t3android",
 		"price": 8000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t3android",
 		"price": 6325,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "T3AndroidGeneratorAI"
 	},
 	{
 		"abr": "t4android",
 		"price": 10000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t4android",
 		"price": 15633,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "T4AndroidGeneratorAI"
 	},
 	{
 		"abr": "t5android",
 		"price": 13333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Android5Tier"
 	},
 	{
@@ -7119,7 +7119,7 @@
 	{
 		"abr": "tapir",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPTapir"
 	},
 	{
@@ -7173,7 +7173,7 @@
 	{
 		"abr": "tealsterilewall",
 		"price": 61,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall_SterileTeal"
 	},
 	{
@@ -7197,7 +7197,7 @@
 	{
 		"abr": "tetraslug",
 		"price": 6667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_TetraSlug"
 	},
 	{
@@ -7221,7 +7221,7 @@
 	{
 		"abr": "thermadon",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Thermadon"
 	},
 	{
@@ -7233,7 +7233,7 @@
 	{
 		"abr": "thornydevil",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPThornyDevil"
 	},
 	{
@@ -7257,7 +7257,7 @@
 	{
 		"abr": "thrumbo",
 		"price": 6667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Thrumbo"
 	},
 	{
@@ -7281,7 +7281,7 @@
 	{
 		"abr": "tiger",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPTiger"
 	},
 	{
@@ -7293,13 +7293,13 @@
 	{
 		"abr": "timberwolf",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
 	{
 		"abr": "titanis",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Titanis"
 	},
 	{
@@ -7311,7 +7311,7 @@
 	{
 		"abr": "titanoboa",
 		"price": 4500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Titanoboa"
 	},
 	{
@@ -7335,7 +7335,7 @@
 	{
 		"abr": "torchlamp",
 		"price": 41,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "TorchLamp"
 	},
 	{
@@ -7353,7 +7353,7 @@
 	{
 		"abr": "tortoise",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Tortoise"
 	},
 	{
@@ -7371,7 +7371,7 @@
 	{
 		"abr": "transportpod",
 		"price": 253,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "TransportPod"
 	},
 	{
@@ -7437,7 +7437,7 @@
 	{
 		"abr": "turkey",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
@@ -7455,7 +7455,7 @@
 	{
 		"abr": "uintatherium",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Uintatherium"
 	},
 	{
@@ -7497,7 +7497,7 @@
 	{
 		"abr": "valleyquail",
 		"price": 125,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPValleyQuail"
 	},
 	{
@@ -7551,7 +7551,7 @@
 	{
 		"abr": "wall",
 		"price": 17,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Wall"
 	},
 	{
@@ -7605,7 +7605,7 @@
 	{
 		"abr": "walrus",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPWalrus"
 	},
 	{
@@ -7641,7 +7641,7 @@
 	{
 		"abr": "warg",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Warg"
 	},
 	{
@@ -7665,13 +7665,13 @@
 	{
 		"abr": "watertower",
 		"price": 258,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WaterTowerS"
 	},
 	{
 		"abr": "watertreatment",
 		"price": 1075,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WaterTreatment"
 	},
 	{
@@ -7683,19 +7683,19 @@
 	{
 		"abr": "waterwell",
 		"price": 248,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WaterWellInlet"
 	},
 	{
 		"abr": "watermillgenerator",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": 10,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -7707,25 +7707,25 @@
 	{
 		"abr": "whitehorse",
 		"price": 1333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "WhiteHorse"
 	},
 	{
 		"abr": "wildboar",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "WildBoar"
 	},
 	{
 		"abr": "wildgoose",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPWildGoose"
 	},
 	{
 		"abr": "wildpawn",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Wildpawn"
 	},
 	{
@@ -7743,7 +7743,7 @@
 	{
 		"abr": "wildpod",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AA_Wildpod"
 	},
 	{
@@ -7767,13 +7767,13 @@
 	{
 		"abr": "windpump",
 		"price": 322,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WindPump"
 	},
 	{
 		"abr": "windturbine",
 		"price": 442,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WindTurbine"
 	},
 	{
@@ -7797,25 +7797,25 @@
 	{
 		"abr": "wood-firedgenerator",
 		"price": 442,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WoodFiredGenerator"
 	},
 	{
 		"abr": "woollymammoth",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "WoollyMammoth"
 	},
 	{
 		"abr": "woolyrhino",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPWoolyRhino"
 	},
 	{
 		"abr": "woolyhorse",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPWoolyHorse"
 	},
 	{
@@ -7833,7 +7833,7 @@
 	{
 		"abr": "xenguana",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "ACPXenguana"
 	},
 	{
@@ -7845,7 +7845,7 @@
 	{
 		"abr": "yak",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "AEXP_Yak"
 	},
 	{
@@ -7863,13 +7863,13 @@
 	{
 		"abr": "yellowshipchunk",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ShipChunk_yellow"
 	},
 	{
 		"abr": "yorkshireterrier",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
 	{
@@ -7917,7 +7917,7 @@
 	{
 		"abr": "zygolophodon",
 		"price": 3167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Zygolophodon"
 	},
 	{
@@ -7947,7 +7947,7 @@
 	{
 		"abr": "antiquedoor",
 		"price": 159,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RGK_DoorOld"
 	},
 	{
@@ -8211,7 +8211,7 @@
 	{
 		"abr": "door",
 		"price": 105,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RGK_Door"
 	},
 	{
@@ -8307,7 +8307,7 @@
 	{
 		"abr": "fence",
 		"price": 18,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RGK_WoodFence"
 	},
 	{
@@ -8331,7 +8331,7 @@
 	{
 		"abr": "flowerwall",
 		"price": 55,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GL_FlowerWall"
 	},
 	{
@@ -8925,13 +8925,13 @@
 	{
 		"abr": "ventwall",
 		"price": 18,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RGK_VentWall"
 	},
 	{
 		"abr": "ventwall",
 		"price": 18,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GL_VentWall"
 	},
 	{
@@ -8943,25 +8943,25 @@
 	{
 		"abr": "wall",
 		"price": 11,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RGK_Wall"
 	},
 	{
 		"abr": "wall",
 		"price": 18,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GL_Wall"
 	},
 	{
 		"abr": "walllamp",
 		"price": 74,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GL_Wall_Lamp"
 	},
 	{
 		"abr": "walllampe",
 		"price": 74,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GL_Wall_LampE"
 	},
 	{
@@ -9009,13 +9009,13 @@
 	{
 		"abr": "windowwall",
 		"price": 34,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "RGK_WindowWall"
 	},
 	{
 		"abr": "windowwall",
 		"price": 34,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GL_WindowWall"
 	},
 	{
@@ -9027,7 +9027,7 @@
 	{
 		"abr": "adv.modularhydroponicsbasin",
 		"price": 216,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ADVModularHydroponicsBasin"
 	},
 	{
@@ -9045,7 +9045,7 @@
 	{
 		"abr": "advmodularplanterbox",
 		"price": 24,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ADV_ModularPlanterbox"
 	},
 	{
@@ -9099,7 +9099,7 @@
 	{
 		"abr": "advancedhydroponicsbasin",
 		"price": 867,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ADVHydroponicsBasin"
 	},
 	{
@@ -9267,7 +9267,7 @@
 	{
 		"abr": "bamboocampfire",
 		"price": 48,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "VG_Campfire"
 	},
 	{
@@ -10599,13 +10599,13 @@
 	{
 		"abr": "massgrave",
 		"price": 8,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MassGrave"
 	},
 	{
 		"abr": "massgrave",
 		"price": 8,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MassGraveAlt"
 	},
 	{
@@ -10677,19 +10677,19 @@
 	{
 		"abr": "modularflowerbox",
 		"price": 31,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ModularFlowerbox"
 	},
 	{
 		"abr": "modularhydroponicsbasin",
 		"price": 137,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ModularHydroponicsBasin"
 	},
 	{
 		"abr": "modularplanterbox",
 		"price": 17,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "ModularPlanterbox"
 	},
 	{
@@ -10893,7 +10893,7 @@
 	{
 		"abr": "planterbox",
 		"price": 84,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "Planterbox"
 	},
 	{
@@ -11289,7 +11289,7 @@
 	{
 		"abr": "soylentmachine",
 		"price": 592,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "soylenttable"
 	},
 	{
@@ -11679,7 +11679,7 @@
 	{
 		"abr": "aberrantfleshbeast",
 		"price": 17,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AberrantFleshbeast"
 	},
 	{
@@ -11709,7 +11709,7 @@
 	{
 		"abr": "allosaurus",
 		"price": 4000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Allosaurus"
 	},
 	{
@@ -11931,7 +11931,7 @@
 	{
 		"abr": "animushare",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AnimusHare"
 	},
 	{
@@ -11943,7 +11943,7 @@
 	{
 		"abr": "ankylosaurus",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ankylosaurus"
 	},
 	{
@@ -11967,7 +11967,7 @@
 	{
 		"abr": "archotechcentipede",
 		"price": 6666666,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_ArchotechCentipede"
 	},
 	{
@@ -11979,7 +11979,7 @@
 	{
 		"abr": "archotechconstructionplatform",
 		"price": 9067,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_ArchotechPlatform"
 	},
 	{
@@ -12003,7 +12003,7 @@
 	{
 		"abr": "baryonyx",
 		"price": 3667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Baryonyx"
 	},
 	{
@@ -12027,7 +12027,7 @@
 	{
 		"abr": "beamcannonsatellitepod",
 		"price": 1567,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "BeamCannonSatellitePodSW"
 	},
 	{
@@ -12051,7 +12051,7 @@
 	{
 		"abr": "bearbug",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_BearBug"
 	},
 	{
@@ -12087,13 +12087,13 @@
 	{
 		"abr": "bearalope",
 		"price": 917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearalope"
 	},
 	{
 		"abr": "bearcat",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearcat"
 	},
 	{
@@ -12105,7 +12105,7 @@
 	{
 		"abr": "bearchicken",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearchicken"
 	},
 	{
@@ -12129,7 +12129,7 @@
 	{
 		"abr": "bearffalo",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearffalo"
 	},
 	{
@@ -12141,25 +12141,25 @@
 	{
 		"abr": "bearmole",
 		"price": 450,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearmole"
 	},
 	{
 		"abr": "bearodile",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearodile"
 	},
 	{
 		"abr": "bearscarab",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearscarab"
 	},
 	{
 		"abr": "bearwolf",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Bearwolf"
 	},
 	{
@@ -12171,7 +12171,7 @@
 	{
 		"abr": "beaverwolf",
 		"price": 458,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Beaverwolf"
 	},
 	{
@@ -12183,7 +12183,7 @@
 	{
 		"abr": "beetlefleet",
 		"price": 292,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Beetlefleet"
 	},
 	{
@@ -12219,25 +12219,25 @@
 	{
 		"abr": "bombardmentsatellitepod",
 		"price": 1567,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "KineticBombardmentSatellitePodSW"
 	},
 	{
 		"abr": "boomabear",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomabear"
 	},
 	{
 		"abr": "boomacat",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomacat"
 	},
 	{
 		"abr": "boomachicken",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomachicken"
 	},
 	{
@@ -12255,7 +12255,7 @@
 	{
 		"abr": "boomalisk",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomalisk"
 	},
 	{
@@ -12399,13 +12399,13 @@
 	{
 		"abr": "boombeetle",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boombeetle"
 	},
 	{
 		"abr": "boomffalo",
 		"price": 383,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomffalo"
 	},
 	{
@@ -12417,19 +12417,19 @@
 	{
 		"abr": "boomnotherium",
 		"price": 2667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomnotherium"
 	},
 	{
 		"abr": "boomsnake",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomsnake"
 	},
 	{
 		"abr": "boomsquirrel",
 		"price": 208,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomsquirrel"
 	},
 	{
@@ -12441,13 +12441,13 @@
 	{
 		"abr": "boomwolf",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Boomwolf"
 	},
 	{
 		"abr": "brachiosaurus",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Brachiosaurus"
 	},
 	{
@@ -12465,7 +12465,7 @@
 	{
 		"abr": "brontosaurus",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Brontosaurus"
 	},
 	{
@@ -12537,7 +12537,7 @@
 	{
 		"abr": "carnotaurus",
 		"price": 4000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Carnotaurus"
 	},
 	{
@@ -12591,19 +12591,19 @@
 	{
 		"abr": "catalope",
 		"price": 208,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Catalope"
 	},
 	{
 		"abr": "catbear",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Catbear"
 	},
 	{
 		"abr": "catchicken",
 		"price": 183,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Catchicken"
 	},
 	{
@@ -12621,25 +12621,25 @@
 	{
 		"abr": "catfallo",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Catfallo"
 	},
 	{
 		"abr": "catrabbit",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Catrabbit"
 	},
 	{
 		"abr": "catwolf",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Catwolf"
 	},
 	{
 		"abr": "centralizedgeneticrepository",
 		"price": 4833,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_GeneticRepository"
 	},
 	{
@@ -12753,7 +12753,7 @@
 	{
 		"abr": "chickenbear",
 		"price": 192,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenbear"
 	},
 	{
@@ -12771,7 +12771,7 @@
 	{
 		"abr": "chickencat",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickencat"
 	},
 	{
@@ -12789,7 +12789,7 @@
 	{
 		"abr": "chickenffalo",
 		"price": 292,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenffalo"
 	},
 	{
@@ -12819,7 +12819,7 @@
 	{
 		"abr": "chickenlizard",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenlizard"
 	},
 	{
@@ -12837,7 +12837,7 @@
 	{
 		"abr": "chickenlodon",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenlodon"
 	},
 	{
@@ -12855,7 +12855,7 @@
 	{
 		"abr": "chickenlope",
 		"price": 158,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenlope"
 	},
 	{
@@ -12873,7 +12873,7 @@
 	{
 		"abr": "chickennathus",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickennathus"
 	},
 	{
@@ -12891,7 +12891,7 @@
 	{
 		"abr": "chickenrabbit",
 		"price": 75,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenrabbit"
 	},
 	{
@@ -12909,7 +12909,7 @@
 	{
 		"abr": "chickenspider",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenspider"
 	},
 	{
@@ -12933,7 +12933,7 @@
 	{
 		"abr": "chickenwolf",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Chickenwolf"
 	},
 	{
@@ -12963,13 +12963,13 @@
 	{
 		"abr": "compactfissionreactor",
 		"price": 3367,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "CompactFissionPowerSW"
 	},
 	{
 		"abr": "compsognathus",
 		"price": 1250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Compsognathus"
 	},
 	{
@@ -12999,7 +12999,7 @@
 	{
 		"abr": "corythosaurus",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Corythosaurus"
 	},
 	{
@@ -13029,13 +13029,13 @@
 	{
 		"abr": "cryo-stabilizedgenerator",
 		"price": 792,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_CryostabilizedEngine"
 	},
 	{
 		"abr": "dakotaraptor",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dakotaraptor"
 	},
 	{
@@ -13053,13 +13053,13 @@
 	{
 		"abr": "damagedshipengine",
 		"price": 2400,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "DamagedShipEngineSW"
 	},
 	{
 		"abr": "deinocheirus",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Deinocheirus"
 	},
 	{
@@ -13083,7 +13083,7 @@
 	{
 		"abr": "dilophosaurus",
 		"price": 2833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dilophosaurus"
 	},
 	{
@@ -13197,7 +13197,7 @@
 	{
 		"abr": "diplobeetle",
 		"price": 5333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Diplobeetle"
 	},
 	{
@@ -13215,7 +13215,7 @@
 	{
 		"abr": "diplodocus",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Diplodocus"
 	},
 	{
@@ -13233,13 +13233,13 @@
 	{
 		"abr": "doedicoon",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Doedicoon"
 	},
 	{
 		"abr": "dryosaurus",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dryosaurus"
 	},
 	{
@@ -13263,7 +13263,7 @@
 	{
 		"abr": "elasmobearium",
 		"price": 2167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Elasmobearium"
 	},
 	{
@@ -13341,13 +13341,13 @@
 	{
 		"abr": "fossilchemfuelgenerator",
 		"price": 792,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_FossilChemfuelGenerator"
 	},
 	{
 		"abr": "gallimimus",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gallimimus"
 	},
 	{
@@ -13413,7 +13413,7 @@
 	{
 		"abr": "gigantoraptor",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gigantoraptor"
 	},
 	{
@@ -13443,7 +13443,7 @@
 	{
 		"abr": "groundfallo",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Groundfallo"
 	},
 	{
@@ -13503,7 +13503,7 @@
 	{
 		"abr": "hiveshiphackingfacility",
 		"price": 4267,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WTH_MechanoidBeacon"
 	},
 	{
@@ -13767,7 +13767,7 @@
 	{
 		"abr": "iednitromilktrap",
 		"price": 71,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_NitroMilkTrap"
 	},
 	{
@@ -13779,7 +13779,7 @@
 	{
 		"abr": "iguanodon",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Iguanodon"
 	},
 	{
@@ -13869,7 +13869,7 @@
 	{
 		"abr": "lizardochs",
 		"price": 1500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Lizardochs"
 	},
 	{
@@ -13899,7 +13899,7 @@
 	{
 		"abr": "magyarosaurus",
 		"price": 2833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Magyarosaurus"
 	},
 	{
@@ -13923,7 +13923,7 @@
 	{
 		"abr": "mantistanis",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mantistanis"
 	},
 	{
@@ -13941,7 +13941,7 @@
 	{
 		"abr": "masterarchotechdatabase",
 		"price": 12275,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_ArchotechDatabase"
 	},
 	{
@@ -13953,7 +13953,7 @@
 	{
 		"abr": "meadowlizard",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_MeadowLizard"
 	},
 	{
@@ -13971,7 +13971,7 @@
 	{
 		"abr": "mechabear",
 		"price": 5000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechabear"
 	},
 	{
@@ -13983,7 +13983,7 @@
 	{
 		"abr": "mechacat",
 		"price": 3000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechacat"
 	},
 	{
@@ -13995,7 +13995,7 @@
 	{
 		"abr": "mecha-chicken",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechachicken"
 	},
 	{
@@ -14007,7 +14007,7 @@
 	{
 		"abr": "mechalope",
 		"price": 5000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechalope"
 	},
 	{
@@ -14019,7 +14019,7 @@
 	{
 		"abr": "mecha-muffalo",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechamuffalo"
 	},
 	{
@@ -14115,13 +14115,13 @@
 	{
 		"abr": "mechanoidhackingfacility",
 		"price": 1200,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WTH_HackingTable"
 	},
 	{
 		"abr": "mechanoidhiveshipcore",
 		"price": 8733,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MechanoidHiveComputerCoreSW"
 	},
 	{
@@ -14145,13 +14145,13 @@
 	{
 		"abr": "mechanoidplatform",
 		"price": 742,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WTH_MechanoidPlatform"
 	},
 	{
 		"abr": "mechanoidtinkeringtable",
 		"price": 1542,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_MechanoidTinkeringTable"
 	},
 	{
@@ -14169,7 +14169,7 @@
 	{
 		"abr": "mecha-rat",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mecharat"
 	},
 	{
@@ -14181,7 +14181,7 @@
 	{
 		"abr": "mechaspider",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechaspider"
 	},
 	{
@@ -14193,7 +14193,7 @@
 	{
 		"abr": "mechathrumbo",
 		"price": 6667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechathrumbo"
 	},
 	{
@@ -14205,7 +14205,7 @@
 	{
 		"abr": "mechaturtle",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechaturtle"
 	},
 	{
@@ -14217,7 +14217,7 @@
 	{
 		"abr": "mechawolf",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Mechawolf"
 	},
 	{
@@ -14313,13 +14313,13 @@
 	{
 		"abr": "mindalteringdevice",
 		"price": 1817,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "MindAlteringDeviceSW"
 	},
 	{
 		"abr": "minmi",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Minmi"
 	},
 	{
@@ -14337,7 +14337,7 @@
 	{
 		"abr": "molebear",
 		"price": 458,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Molebear"
 	},
 	{
@@ -14439,7 +14439,7 @@
 	{
 		"abr": "muffalobear",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalobear"
 	},
 	{
@@ -14451,13 +14451,13 @@
 	{
 		"abr": "muffalocat",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalocat"
 	},
 	{
 		"abr": "muffalochicken",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalochicken"
 	},
 	{
@@ -14487,13 +14487,13 @@
 	{
 		"abr": "muffalokomodo",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalokomodo"
 	},
 	{
 		"abr": "muffalope",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalope"
 	},
 	{
@@ -14511,7 +14511,7 @@
 	{
 		"abr": "muffalopede",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalopede"
 	},
 	{
@@ -14523,13 +14523,13 @@
 	{
 		"abr": "muffalorat",
 		"price": 175,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalorat"
 	},
 	{
 		"abr": "muffalowolf",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Muffalowolf"
 	},
 	{
@@ -14541,7 +14541,7 @@
 	{
 		"abr": "needlechicken",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Needlechicken"
 	},
 	{
@@ -14583,7 +14583,7 @@
 	{
 		"abr": "nighthrumbo",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Nighthrumbo"
 	},
 	{
@@ -14643,7 +14643,7 @@
 	{
 		"abr": "pachycephalosaurus",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Pachycephalosaurus"
 	},
 	{
@@ -14673,7 +14673,7 @@
 	{
 		"abr": "paraceramuffalo",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Paraceramuffalo"
 	},
 	{
@@ -14691,7 +14691,7 @@
 	{
 		"abr": "paragonbear",
 		"price": 2333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaBear"
 	},
 	{
@@ -14709,7 +14709,7 @@
 	{
 		"abr": "paragonboomalope",
 		"price": 967,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaBoomalope"
 	},
 	{
@@ -14721,7 +14721,7 @@
 	{
 		"abr": "paragonchicken",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaChicken"
 	},
 	{
@@ -14751,7 +14751,7 @@
 	{
 		"abr": "paragonemu",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaEmu"
 	},
 	{
@@ -14775,7 +14775,7 @@
 	{
 		"abr": "paragonhare",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaHare"
 	},
 	{
@@ -14787,7 +14787,7 @@
 	{
 		"abr": "paragoniguana",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaIguana"
 	},
 	{
@@ -14811,7 +14811,7 @@
 	{
 		"abr": "paragonmuffalo",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaMuffalo"
 	},
 	{
@@ -14823,7 +14823,7 @@
 	{
 		"abr": "paragonostrich",
 		"price": 1200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaOstrich"
 	},
 	{
@@ -14847,7 +14847,7 @@
 	{
 		"abr": "paragonpig",
 		"price": 933,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaPig"
 	},
 	{
@@ -14859,7 +14859,7 @@
 	{
 		"abr": "paragonrat",
 		"price": 200,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaRat"
 	},
 	{
@@ -14877,7 +14877,7 @@
 	{
 		"abr": "paragonrhinoceros",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaRhinoceros"
 	},
 	{
@@ -14889,13 +14889,13 @@
 	{
 		"abr": "paragontimberwolf",
 		"price": 1233,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaWolfTimber"
 	},
 	{
 		"abr": "paragontortoise",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaTortoise"
 	},
 	{
@@ -14919,7 +14919,7 @@
 	{
 		"abr": "paragonwildboar",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_AlphaWildBoar"
 	},
 	{
@@ -14937,7 +14937,7 @@
 	{
 		"abr": "parasaur",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Parasaur"
 	},
 	{
@@ -14955,7 +14955,7 @@
 	{
 		"abr": "parasaurolope",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Parasaurolope"
 	},
 	{
@@ -15003,7 +15003,7 @@
 	{
 		"abr": "protoceratops",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Protoceratops"
 	},
 	{
@@ -15021,13 +15021,13 @@
 	{
 		"abr": "psychicwaveemitter",
 		"price": 8225,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PsychicWaveEmitterSW"
 	},
 	{
 		"abr": "pteranodon",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Pteranodon"
 	},
 	{
@@ -15063,7 +15063,7 @@
 	{
 		"abr": "quetzalcoatlus",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Quetzalcoatlus"
 	},
 	{
@@ -15081,7 +15081,7 @@
 	{
 		"abr": "rabbitcat",
 		"price": 958,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Rabbitcat"
 	},
 	{
@@ -15093,7 +15093,7 @@
 	{
 		"abr": "rabbitchicken",
 		"price": 25,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Rabbitchicken"
 	},
 	{
@@ -15111,7 +15111,7 @@
 	{
 		"abr": "raptortoise",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Raptortoise"
 	},
 	{
@@ -15135,7 +15135,7 @@
 	{
 		"abr": "ratfallo",
 		"price": 175,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Ratfallo"
 	},
 	{
@@ -15165,7 +15165,7 @@
 	{
 		"abr": "refrigeratedcoils",
 		"price": 1775,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_RefrigeratedCoils"
 	},
 	{
@@ -15255,7 +15255,7 @@
 	{
 		"abr": "rogueai",
 		"price": 4600,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "WTH_RogueAI"
 	},
 	{
@@ -15315,7 +15315,7 @@
 	{
 		"abr": "snakecat",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Snakecat"
 	},
 	{
@@ -15327,13 +15327,13 @@
 	{
 		"abr": "spidercat",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Spidercat"
 	},
 	{
 		"abr": "spidersnake",
 		"price": 1083,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Spidersnake"
 	},
 	{
@@ -15363,7 +15363,7 @@
 	{
 		"abr": "spinobear",
 		"price": 4333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Spinobear"
 	},
 	{
@@ -15381,7 +15381,7 @@
 	{
 		"abr": "spinosaurus",
 		"price": 4667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Spinosaurus"
 	},
 	{
@@ -15405,7 +15405,7 @@
 	{
 		"abr": "squirralope",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Squirralope"
 	},
 	{
@@ -15429,7 +15429,7 @@
 	{
 		"abr": "stegosaurus",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Stegosaurus"
 	},
 	{
@@ -15447,7 +15447,7 @@
 	{
 		"abr": "stegothrumbo",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Stegothrumbo"
 	},
 	{
@@ -15471,7 +15471,7 @@
 	{
 		"abr": "stygimoloch",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Stygimoloch"
 	},
 	{
@@ -15489,7 +15489,7 @@
 	{
 		"abr": "therizinosaurus",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Therizinosaurus"
 	},
 	{
@@ -15513,13 +15513,13 @@
 	{
 		"abr": "thrumbalope",
 		"price": 5000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumbalope"
 	},
 	{
 		"abr": "thrumbear",
 		"price": 5000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumbear"
 	},
 	{
@@ -15579,13 +15579,13 @@
 	{
 		"abr": "thrumbocat",
 		"price": 2917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumbocat"
 	},
 	{
 		"abr": "thrumbochicken",
 		"price": 5000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumbochicken"
 	},
 	{
@@ -15603,31 +15603,31 @@
 	{
 		"abr": "thrumbolizard",
 		"price": 7500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumbolizard"
 	},
 	{
 		"abr": "thrumborat",
 		"price": 4000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumborat"
 	},
 	{
 		"abr": "thrumbospider",
 		"price": 4167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumbospider"
 	},
 	{
 		"abr": "thrumdraeodon",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumdraeodon"
 	},
 	{
 		"abr": "thrumffalo",
 		"price": 5833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumffalo"
 	},
 	{
@@ -15645,7 +15645,7 @@
 	{
 		"abr": "thrumwolf",
 		"price": 4167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Thrumwolf"
 	},
 	{
@@ -15663,7 +15663,7 @@
 	{
 		"abr": "triceraffalo",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Triceraffalo"
 	},
 	{
@@ -15681,7 +15681,7 @@
 	{
 		"abr": "triceratops",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Triceratops"
 	},
 	{
@@ -15705,7 +15705,7 @@
 	{
 		"abr": "turbochargedcryo-stabilizedengine",
 		"price": 7342,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "GR_TurboChargedCryostabilizedEngine"
 	},
 	{
@@ -15723,7 +15723,7 @@
 	{
 		"abr": "tyrannosaurusrex",
 		"price": 6000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "TyrannosaurusRex"
 	},
 	{
@@ -15747,7 +15747,7 @@
 	{
 		"abr": "utahraptor",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Utahraptor"
 	},
 	{
@@ -15771,7 +15771,7 @@
 	{
 		"abr": "velociraptor",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Velociraptor"
 	},
 	{
@@ -15789,7 +15789,7 @@
 	{
 		"abr": "velociwolf",
 		"price": 3333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Velociwolf"
 	},
 	{
@@ -15903,7 +15903,7 @@
 	{
 		"abr": "wolfshrimp",
 		"price": 1417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_WolfShrimp"
 	},
 	{
@@ -15915,13 +15915,13 @@
 	{
 		"abr": "wolfalope",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfalope"
 	},
 	{
 		"abr": "wolfbear",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfbear"
 	},
 	{
@@ -15933,19 +15933,19 @@
 	{
 		"abr": "wolfbeaver",
 		"price": 458,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfbeaver"
 	},
 	{
 		"abr": "wolfcat",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfcat"
 	},
 	{
 		"abr": "wolfchicken",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfchicken"
 	},
 	{
@@ -15969,7 +15969,7 @@
 	{
 		"abr": "wolffalo",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolffalo"
 	},
 	{
@@ -15987,13 +15987,13 @@
 	{
 		"abr": "wolfscarab",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfscarab"
 	},
 	{
 		"abr": "wolfsnake",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_Wolfsnake"
 	},
 	{
@@ -16005,13 +16005,13 @@
 	{
 		"abr": "woolywolf",
 		"price": 2500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GR_WoolyWolf"
 	},
 	{
 		"abr": "yutyrannus",
 		"price": 4500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Yutyrannus"
 	},
 	{
@@ -16041,7 +16041,7 @@
 	{
 		"abr": "centipede",
 		"price": 2900,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Mech_Centipede"
 	},
 	{
@@ -16059,7 +16059,7 @@
 	{
 		"abr": "lancer",
 		"price": 800,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Mech_Lancer"
 	},
 	{
@@ -16077,7 +16077,7 @@
 	{
 		"abr": "scyther",
 		"price": 800,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Mech_Scyther"
 	},
 	{
@@ -16113,13 +16113,13 @@
 	{
 		"abr": "doorbutton",
 		"price": 86,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PH_DoorButton"
 	},
 	{
 		"abr": "doorlever",
 		"price": 70,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "PH_DoorLever"
 	},
 	{
@@ -16581,7 +16581,7 @@
 	{
 		"abr": "afghanhound",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCAfghanHound"
 	},
 	{
@@ -16593,19 +16593,19 @@
 	{
 		"abr": "americanshorthair",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_A_Shorthair"
 	},
 	{
 		"abr": "blackcat",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_kuroneko"
 	},
 	{
 		"abr": "bordercollie",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "BorderCollie"
 	},
 	{
@@ -16617,7 +16617,7 @@
 	{
 		"abr": "borzoi",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCBorzoi"
 	},
 	{
@@ -16629,13 +16629,13 @@
 	{
 		"abr": "browntabby",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_kijitora"
 	},
 	{
 		"abr": "bullmastiff",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bullmastiff"
 	},
 	{
@@ -16647,7 +16647,7 @@
 	{
 		"abr": "bullterrier",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCBullTerrier"
 	},
 	{
@@ -16659,7 +16659,7 @@
 	{
 		"abr": "caucasianshepherd",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Caucasianshepherd"
 	},
 	{
@@ -16671,7 +16671,7 @@
 	{
 		"abr": "chowchow",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chowchow"
 	},
 	{
@@ -16683,7 +16683,7 @@
 	{
 		"abr": "collie",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Collie"
 	},
 	{
@@ -16695,7 +16695,7 @@
 	{
 		"abr": "doberman",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Doberman"
 	},
 	{
@@ -16743,7 +16743,7 @@
 	{
 		"abr": "goldenretriever",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "GoldenRetriever"
 	},
 	{
@@ -16755,7 +16755,7 @@
 	{
 		"abr": "greyhound",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCGreyhound"
 	},
 	{
@@ -16767,7 +16767,7 @@
 	{
 		"abr": "japanesebobtail",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_J_Bobtail"
 	},
 	{
@@ -16809,19 +16809,19 @@
 	{
 		"abr": "mainecoon",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_Maine_Coon"
 	},
 	{
 		"abr": "miniquarry",
 		"price": 260,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "QRY_MiniQuarry"
 	},
 	{
 		"abr": "miniaturedachshund",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCMiniatureDachshund"
 	},
 	{
@@ -16833,7 +16833,7 @@
 	{
 		"abr": "miniatureschnauzer",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "MiniatureSchnauzer"
 	},
 	{
@@ -16845,7 +16845,7 @@
 	{
 		"abr": "newfoundland",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCNewfoundland"
 	},
 	{
@@ -16857,13 +16857,13 @@
 	{
 		"abr": "norwegianforestcat",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_N_Forest_Cat"
 	},
 	{
 		"abr": "oldenglishsheepdog",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCOldEnglishSheepdog"
 	},
 	{
@@ -16875,13 +16875,13 @@
 	{
 		"abr": "persian",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_Persian"
 	},
 	{
 		"abr": "pug",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCPug"
 	},
 	{
@@ -16893,25 +16893,25 @@
 	{
 		"abr": "quarry",
 		"price": 617,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "QRY_Quarry"
 	},
 	{
 		"abr": "quarryplatform",
 		"price": 168,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "QRY_Platform"
 	},
 	{
 		"abr": "russianblue",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_Russian_Blue"
 	},
 	{
 		"abr": "saintbernard",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Saintbernard"
 	},
 	{
@@ -16923,25 +16923,25 @@
 	{
 		"abr": "scottishfold",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_Scottish_Fold"
 	},
 	{
 		"abr": "scottishfoldlonghair",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_Scottish_Fold_Long"
 	},
 	{
 		"abr": "siamese",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_Siamese"
 	},
 	{
 		"abr": "standardpoodle",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCStandardPoodle"
 	},
 	{
@@ -16953,7 +16953,7 @@
 	{
 		"abr": "welshcorgi",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "SCWelshCorgi"
 	},
 	{
@@ -16965,7 +16965,7 @@
 	{
 		"abr": "whitecat",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "akaNEKO_shironeko"
 	},
 	{
@@ -17223,13 +17223,13 @@
 	{
 		"abr": "cavebeetle",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "CaveSpelopede"
 	},
 	{
 		"abr": "cavebeetleking",
 		"price": 1667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "CaveBeetleKing"
 	},
 	{
@@ -17343,7 +17343,7 @@
 	{
 		"abr": "container",
 		"price": 19,
-		"category": "Uncategorized",
+		"category": "",
 		"defname": "OpenableContainer"
 	},
 	{
@@ -17841,9 +17841,567 @@
 	{
 		"abr": "bigavtomaton",
 		"price": 2000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Mech_BigAvtomaton"
+	},
+	{
+		"abr": "aggressionamplifier",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_AggressionAmplifier"
+	},
+	{
+		"abr": "heartirregulator",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_HeartIrregulator"
+	},
+	{
+		"abr": "neutroamineincubator",
+		"price": 83,
+		"category": "Artificial",
+		"defname": "WCE_NeutroamineIncubator"
+	},
+	{
+		"abr": "neutroaminesac",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WCE_NeutroamineSac"
+	},
+	{
+		"abr": "painamplifier",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_PainAmplifier"
+	},
+	{
+		"abr": "panicinducer",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_PanicInducer"
+	},
+	{
+		"abr": "sleepdeprivator",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_SleepDeprivator"
+	},
+	{
+		"abr": "stomachclamp",
+		"price": 17,
+		"category": "Artificial",
+		"defname": "WCE_StomachClamp"
+	},
+	{
+		"abr": "windpump",
+		"price": 358,
+		"category": "",
+		"defname": "WindPumpStuffed"
+	},
+	{
+		"abr": "aachoneybadger",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "Gun_AACHoneyBadger_rt"
+	},
+	{
+		"abr": "ak-12",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK12_rt"
+	},
+	{
+		"abr": "ak-47",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK47_rt"
+	},
+	{
+		"abr": "ak-5c",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK5C_rt"
+	},
+	{
+		"abr": "awm",
+		"price": 992,
+		"category": "Ranged weapons",
+		"defname": "Gun_AWM_rt"
+	},
+	{
+		"abr": "barrettm82a1",
+		"price": 3617,
+		"category": "Ranged weapons",
+		"defname": "Gun_Barrett_rt"
+	},
+	{
+		"abr": "berettam12",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_BerettaM12_rt"
+	},
+	{
+		"abr": "berettam9",
+		"price": 331,
+		"category": "Ranged weapons",
+		"defname": "Gun_BerettaM9_rt"
+	},
+	{
+		"abr": "brainscantemplate",
+		"price": 167,
+		"category": "Items",
+		"defname": "QE_BrainScannerFilled"
+	},
+	{
+		"abr": "brainscanner",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "QE_BrainScanner"
+	},
+	{
+		"abr": "clonevat",
+		"price": 3592,
+		"category": "Production",
+		"defname": "QE_PawnVat"
+	},
+	{
+		"abr": "coltpython",
+		"price": 325,
+		"category": "Ranged weapons",
+		"defname": "Gun_ColtPythonRevolver_rt"
+	},
+	{
+		"abr": "crudebionicarm",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicArm"
+	},
+	{
+		"abr": "crudebionicbludgeon",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicArm_Bludgeon"
+	},
+	{
+		"abr": "crudebioniceye",
+		"price": 667,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicEye"
+	},
+	{
+		"abr": "crudebionicleg",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicLeg"
+	},
+	{
+		"abr": "crudebionicrangedweaponplatform",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicArm_RangedWeaponPlatform"
+	},
+	{
+		"abr": "crudebionicspike",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicArm_Spike"
+	},
+	{
+		"abr": "crudebionicspine",
+		"price": 667,
+		"category": "Artificial",
+		"defname": "QE_CrudeBionicSpine"
+	},
+	{
+		"abr": "cz-3a1",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_CZ3A1_rt"
+	},
+	{
+		"abr": "deserteagle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deagle_rt"
+	},
+	{
+		"abr": "dp-12",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "Gun_DP12_rt"
+	},
+	{
+		"abr": "dragunov",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_Dragunov_rt"
+	},
+	{
+		"abr": "famas",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_FAMAS_rt"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "Ranged_FireExtinguisher_rt"
+	},
+	{
+		"abr": "fnf2000",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_FNF2000_rt"
+	},
+	{
+		"abr": "fnfal",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_FNFAL_rt"
+	},
+	{
+		"abr": "fnfiveseven",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Gun_FiveSeven_rt"
+	},
+	{
+		"abr": "fnp90",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_P90_rt"
+	},
+	{
+		"abr": "fnscar-l",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_SCARL_rt"
+	},
+	{
+		"abr": "foot",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Foot"
+	},
+	{
+		"abr": "genomesequencetemplate",
+		"price": 167,
+		"category": "Items",
+		"defname": "QE_GenomeSequencerFilled"
+	},
+	{
+		"abr": "genomesequencer",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "QE_GenomeSequencer"
+	},
+	{
+		"abr": "glock17",
+		"price": 331,
+		"category": "Ranged weapons",
+		"defname": "Gun_Glock17_rt"
+	},
+	{
+		"abr": "hand",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Hand"
+	},
+	{
+		"abr": "hkg36c",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_HKG36C_rt"
+	},
+	{
+		"abr": "hkg3a3",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_G3A3_rt"
+	},
+	{
+		"abr": "hkmp7",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_HKMP7_rt"
+	},
+	{
+		"abr": "hkump45",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_HK_UMP45_rt"
+	},
+	{
+		"abr": "hkxm8",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_XM8_rt"
+	},
+	{
+		"abr": "iwitavor",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_IWITavor_rt"
+	},
+	{
+		"abr": "karabiner98kurz",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Gun_Karabiner98kurz_rt"
+	},
+	{
+		"abr": "krissvector",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_KRISSvector_rt"
+	},
+	{
+		"abr": "l85a2",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_L85A2_rt"
+	},
+	{
+		"abr": "l96a1",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_L96A1_rt"
+	},
+	{
+		"abr": "lifesupportsystem",
+		"price": 925,
+		"category": "Misc",
+		"defname": "QE_LifeSupportSystem"
+	},
+	{
+		"abr": "lugerp08",
+		"price": 278,
+		"category": "Ranged weapons",
+		"defname": "Gun_LugerP08_rt"
+	},
+	{
+		"abr": "lvoa-c",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_LVOAC_rt"
+	},
+	{
+		"abr": "m1garand",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_M1Garand_rt"
+	},
+	{
+		"abr": "m1014",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_M1014_rt"
+	},
+	{
+		"abr": "m14",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "Gun_M14_rt"
+	},
+	{
+		"abr": "m1911",
+		"price": 331,
+		"category": "Ranged weapons",
+		"defname": "Gun_M1911_rt"
+	},
+	{
+		"abr": "m32grenadelauncher",
+		"price": 1892,
+		"category": "Ranged weapons",
+		"defname": "Gun_M32MGL_rt"
+	},
+	{
+		"abr": "m4a4",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_M4A4_rt"
+	},
+	{
+		"abr": "m79grenadelauncher",
+		"price": 1758,
+		"category": "Ranged weapons",
+		"defname": "Gun_M79_rt"
+	},
+	{
+		"abr": "mg42",
+		"price": 1917,
+		"category": "Ranged weapons",
+		"defname": "Gun_MG42_rt"
+	},
+	{
+		"abr": "mp18",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_MP18_rt"
+	},
+	{
+		"abr": "mp40",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_MP40_rt"
+	},
+	{
+		"abr": "nervestaples",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "QE_NerveStaple"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_NutrientSolution"
+	},
+	{
+		"abr": "organvat",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_OrganVat"
+	},
+	{
+		"abr": "pelvis",
+		"price": 333,
+		"category": "Natural",
+		"defname": "Pelvis"
+	},
+	{
+		"abr": "ppsh-41",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_PPSH_41_rt"
+	},
+	{
+		"abr": "proteinmash",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_ProteinMash"
+	},
+	{
+		"abr": "qbz-97",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_QBZ97_rt"
+	},
+	{
+		"abr": "sawm249",
+		"price": 1125,
+		"category": "Ranged weapons",
+		"defname": "Gun_SAWM249_rt"
+	},
+	{
+		"abr": "shuriken",
+		"price": 116,
+		"category": "Ranged weapons",
+		"defname": "Weapon_Shuriken_rt"
+	},
+	{
+		"abr": "škorpionvz.61",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "Gun_Skorpionvz61_rt"
+	},
+	{
+		"abr": "slingshot",
+		"price": 93,
+		"category": "Ranged weapons",
+		"defname": "Weapon_Slingshot_rt"
+	},
+	{
+		"abr": "spas-12",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_SPAS12_rt"
+	},
+	{
+		"abr": "spine",
+		"price": 500,
+		"category": "Natural",
+		"defname": "Spine"
+	},
+	{
+		"abr": "sportsman'scompoundbow",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound_rt"
+	},
+	{
+		"abr": "steyrssg08",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_SteyrSSG08_rt"
+	},
+	{
+		"abr": "steyrstg77aug",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_Steyr_Stg77AUG_rt"
+	},
+	{
+		"abr": "swmagnum",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "Gun_SWMagnum_rt"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_QESynthMeat"
+	},
+	{
+		"abr": "tacticalcrossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Bow_TCrossbow_rt"
+	},
+	{
+		"abr": "thompsonsubmachinegun",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thompson_Submachine_Gun_rt"
+	},
+	{
+		"abr": "tomahawkthrowingaxe",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Weapon_TomahawkThrowingAxe_rt"
+	},
+	{
+		"abr": "usas-12",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_USAS12_rt"
+	},
+	{
+		"abr": "uzi",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Gun_Uzi_rt"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 983,
+		"category": "Ranged weapons",
+		"defname": "Gun_VSSVintorez_rt"
+	},
+	{
+		"abr": "weaponassemblytable",
+		"price": 758,
+		"category": "Production",
+		"defname": "RT_WeaponAssemblyTable"
+	},
+	{
+		"abr": "winchester1887",
+		"price": 450,
+		"category": "Ranged weapons",
+		"defname": "Gun_Winchester87_rt"
 	}
 	],
-	"total": 2979
+	"total": 3072
 }
