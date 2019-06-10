@@ -10321,12 +10321,6 @@
 		"defname": "HeatedSunLamp"
 	},
 	{
-		"abr": "hemp",
-		"price": 5,
-		"category": "Textiles",
-		"defname": "HempCloth"
-	},
-	{
 		"abr": "hoisteprug",
 		"price": 15,
 		"category": "Furniture",
@@ -18043,12 +18037,6 @@
 		"defname": "Gun_FAMAS_rt"
 	},
 	{
-		"abr": "fireextinguisher",
-		"price": 517,
-		"category": "Ranged weapons",
-		"defname": "Ranged_FireExtinguisher_rt"
-	},
-	{
 		"abr": "fnf2000",
 		"price": 1000,
 		"category": "Ranged weapons",
@@ -18401,7 +18389,2323 @@
 		"price": 450,
 		"category": "Ranged weapons",
 		"defname": "Gun_Winchester87_rt"
+	},
+	{
+		"abr": "coldfusionreactorheart",
+		"price": 5833,
+		"category": "",
+		"defname": "ColdFusionReactorHeath"
+	},
+	{
+		"abr": "android",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ChjAndroid"
+	},
+	{
+		"abr": "androidleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_ChJAndroid"
+	},
+	{
+		"abr": "androidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ChjAndroid"
+	},
+	{
+		"abr": "androidprinter",
+		"price": 7183,
+		"category": "Production",
+		"defname": "ChJAndroidPrinter"
+	},
+	{
+		"abr": "battledress",
+		"price": 1458,
+		"category": "Apparel",
+		"defname": "ChjAndroidMaidBattleDress"
+	},
+	{
+		"abr": "battledroid",
+		"price": 3167,
+		"category": "Animal",
+		"defname": "ChjBattleDroid"
+	},
+	{
+		"abr": "battledroidassemblykit",
+		"price": 3958,
+		"category": "Items",
+		"defname": "ChjAndroidBattleDroidAssemblyKit"
+	},
+	{
+		"abr": "battlemaidhat",
+		"price": 450,
+		"category": "Headgear",
+		"defname": "ChjAndroidBattleMaidHat"
+	},
+	{
+		"abr": "cannabisseed",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "SmokeleafSeed"
+	},
+	{
+		"abr": "cbd",
+		"price": 50,
+		"category": "Medicine",
+		"defname": "CBD"
+	},
+	{
+		"abr": "ceilinggrowlamp",
+		"price": 166,
+		"category": "",
+		"defname": "MSI_CeilingGrowLamp"
+	},
+	{
+		"abr": "chargebackbattery",
+		"price": 717,
+		"category": "Power",
+		"defname": "ChargeBack_Battery"
+	},
+	{
+		"abr": "chargebackbatteryprototype",
+		"price": 417,
+		"category": "Power",
+		"defname": "ChargeBack_Battery_Prototype"
+	},
+	{
+		"abr": "chemicalfoam",
+		"price": 0,
+		"category": "",
+		"defname": "rxWallFoamBlob"
+	},
+	{
+		"abr": "clearingexplosive",
+		"price": 109,
+		"category": "",
+		"defname": "rxMiningChargeClearing"
+	},
+	{
+		"abr": "corelauncher",
+		"price": 2283,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChjCoreLauncher"
+	},
+	{
+		"abr": "crudesmokeleafjoint",
+		"price": 5,
+		"category": "Smokeleaf Drugs",
+		"defname": "CrudeSmokeleafJoint"
+	},
+	{
+		"abr": "crushedcharcoal",
+		"price": 3,
+		"category": "Explosives",
+		"defname": "rxCharcoal"
+	},
+	{
+		"abr": "cultivationbench",
+		"price": 525,
+		"category": "Production",
+		"defname": "PoweredCultivationBench"
+	},
+	{
+		"abr": "detonatorwire",
+		"price": 3,
+		"category": "",
+		"defname": "rxDetonatorWire"
+	},
+	{
+		"abr": "detonatorwirecrossing",
+		"price": 66,
+		"category": "",
+		"defname": "rxDetonatorWireCrossing"
+	},
+	{
+		"abr": "devilsleaffabric",
+		"price": 20,
+		"category": "Textiles",
+		"defname": "DevilsleafFabric"
+	},
+	{
+		"abr": "devilstalker",
+		"price": 1417,
+		"category": "Animal",
+		"defname": "Devilstalker"
+	},
+	{
+		"abr": "devilstalkerleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Devilstalker"
+	},
+	{
+		"abr": "devilstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Devilstalker"
+	},
+	{
+		"abr": "droid",
+		"price": 1417,
+		"category": "Animal",
+		"defname": "ChjDroid"
+	},
+	{
+		"abr": "droidassemblykit",
+		"price": 1775,
+		"category": "Items",
+		"defname": "ChjAndroidDroidAssemblyKit"
+	},
+	{
+		"abr": "droidbattery",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChjAndroidBattery"
+	},
+	{
+		"abr": "droidchemfuelgeneratorbelt",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "ChjAndroid_ChemfuelGenerator"
+	},
+	{
+		"abr": "droidfabricator",
+		"price": 1825,
+		"category": "Misc",
+		"defname": "ChJDroidPrinter"
+	},
+	{
+		"abr": "droidrepairkit",
+		"price": 367,
+		"category": "Manufactured",
+		"defname": "ChjDroidRepairKit"
+	},
+	{
+		"abr": "droidrepairparts",
+		"price": 28,
+		"category": "Manufactured",
+		"defname": "ChjDroidRepairParts"
+	},
+	{
+		"abr": "droidsolarpanelduster",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "ChjAndroid_SolarDuster"
+	},
+	{
+		"abr": "empremoteexplosive",
+		"price": 600,
+		"category": "Explosives",
+		"defname": "rxRemoteEmpBomb"
+	},
+	{
+		"abr": "explosivesworkshop",
+		"price": 717,
+		"category": "Buildings",
+		"defname": "rxBench"
+	},
+	{
+		"abr": "fluffin",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Fluffin"
+	},
+	{
+		"abr": "fluffinleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Fluffin"
+	},
+	{
+		"abr": "fluffinwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "FluffinWool"
+	},
+	{
+		"abr": "fracturingexplosive",
+		"price": 109,
+		"category": "",
+		"defname": "rxMiningChargeChunks"
+	},
+	{
+		"abr": "gasmask",
+		"price": 267,
+		"category": "Headgear",
+		"defname": "rxApparel_GasMask"
+	},
+	{
+		"abr": "gasvent",
+		"price": 245,
+		"category": "",
+		"defname": "rxGasVent"
+	},
+	{
+		"abr": "growlamp",
+		"price": 214,
+		"category": "",
+		"defname": "GrowLamp"
+	},
+	{
+		"abr": "growlightfixture",
+		"price": 66,
+		"category": "",
+		"defname": "MSI_TubeGrowLights"
+	},
+	{
+		"abr": "hempbiocoal",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "HempBiocoal"
+	},
+	{
+		"abr": "hempbiocomposite",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "HempBiocomposite"
+	},
+	{
+		"abr": "hempfabric",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "HempFabric"
+	},
+	{
+		"abr": "hempfibers",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "HempFiber"
+	},
+	{
+		"abr": "hempflour",
+		"price": 4,
+		"category": "Ingredients",
+		"defname": "HempFlour"
+	},
+	{
+		"abr": "hempmilk",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "HempMilk"
+	},
+	{
+		"abr": "hempnanosheet",
+		"price": 208,
+		"category": "Manufactured",
+		"defname": "HempNanosheet"
+	},
+	{
+		"abr": "hempprotein",
+		"price": 20,
+		"category": "Animal products",
+		"defname": "HempProtein"
+	},
+	{
+		"abr": "hempcreteblocks",
+		"price": 3,
+		"category": "Stone blocks",
+		"defname": "BlocksHempcrete"
+	},
+	{
+		"abr": "hempenebattery",
+		"price": 10700,
+		"category": "Power",
+		"defname": "HempBattery"
+	},
+	{
+		"abr": "hempenepowerconduit",
+		"price": 209,
+		"category": "",
+		"defname": "HempPowerConduit"
+	},
+	{
+		"abr": "hempenesolargenerator",
+		"price": 5558,
+		"category": "",
+		"defname": "HempSolarGenerator"
+	},
+	{
+		"abr": "hempoline",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "Hempoline"
+	},
+	{
+		"abr": "hempolinegenerator",
+		"price": 650,
+		"category": "",
+		"defname": "HempolineGenerator"
+	},
+	{
+		"abr": "hibernationpad",
+		"price": 104,
+		"category": "Production",
+		"defname": "ChjDroidHibernationPad"
+	},
+	{
+		"abr": "hyperweaver",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Hyperweaver"
+	},
+	{
+		"abr": "hyperweaveregg(fert.)",
+		"price": 13,
+		"category": "Eggs (fert.)",
+		"defname": "EggHyperweaverFertilized"
+	},
+	{
+		"abr": "hyperweaveregg(unfert.)",
+		"price": 13,
+		"category": "Eggs (unfert.)",
+		"defname": "EggHyperweaverUnfertilized"
+	},
+	{
+		"abr": "hyperweaverleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Hyperweaver"
+	},
+	{
+		"abr": "improveddetonatorwire",
+		"price": 18,
+		"category": "",
+		"defname": "rxImprovedDetonatorWire"
+	},
+	{
+		"abr": "incendiaryremoteexplosive",
+		"price": 133,
+		"category": "Explosives",
+		"defname": "rxRemoteFireBomb"
+	},
+	{
+		"abr": "infusedmeal",
+		"price": 45,
+		"category": "Meals",
+		"defname": "MealInfused"
+	},
+	{
+		"abr": "infusedmedicine",
+		"price": 83,
+		"category": "Medicine",
+		"defname": "InfusedMedicine"
+	},
+	{
+		"abr": "maiddress",
+		"price": 517,
+		"category": "Apparel",
+		"defname": "ChjAndroidMaidOutfit"
+	},
+	{
+		"abr": "makeshiftexplosive",
+		"price": 1,
+		"category": "",
+		"defname": "rxExplosivePouchPlaced"
+	},
+	{
+		"abr": "manualdetonator",
+		"price": 131,
+		"category": "Buildings",
+		"defname": "rxDetonatorManual"
+	},
+	{
+		"abr": "medicinalslab",
+		"price": 767,
+		"category": "Production",
+		"defname": "MedicinalsLab"
+	},
+	{
+		"abr": "miningexplosive",
+		"price": 108,
+		"category": "Explosives",
+		"defname": "rxMiningExplosiveComponent"
+	},
+	{
+		"abr": "nightstalker",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "Nightstalker"
+	},
+	{
+		"abr": "nightstalkerleather",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_Nightstalker"
+	},
+	{
+		"abr": "nightstalkermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nightstalker"
+	},
+	{
+		"abr": "nutrileafbar(smokeleaf)",
+		"price": 25,
+		"category": "Smokeleaf Edibles",
+		"defname": "SmokeleafNutriLeaf"
+	},
+	{
+		"abr": "plantgrowingwalllight",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "Lighting_MURUVWallLight"
+	},
+	{
+		"abr": "planter",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "MSI_StonePlanter"
+	},
+	{
+		"abr": "planter",
+		"price": 119,
+		"category": "Furniture",
+		"defname": "MSI_WoodenPlanter"
+	},
+	{
+		"abr": "portablepowerunit",
+		"price": 600,
+		"category": "Power",
+		"defname": "rxPowerUnit"
+	},
+	{
+		"abr": "portableremotedetonator",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "rxApparel_PortableDetonator"
+	},
+	{
+		"abr": "proximitysensor",
+		"price": 307,
+		"category": "Buildings",
+		"defname": "rxProximitySensor"
+	},
+	{
+		"abr": "radiomast",
+		"price": 833,
+		"category": "",
+		"defname": "rxRadioMast"
+	},
+	{
+		"abr": "rebelpistol",
+		"price": 323,
+		"category": "Ranged weapons",
+		"defname": "ChjAndroidGun_Rebelpistol"
+	},
+	{
+		"abr": "rebelrifle",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "ChjAndroidGun_RebelRifle"
+	},
+	{
+		"abr": "refinedsleepinggascan",
+		"price": 500,
+		"category": "",
+		"defname": "rxRemoteRefinedSleepingGasCanPlaced"
+	},
+	{
+		"abr": "refinedsleepinggascanister",
+		"price": 500,
+		"category": "Explosives",
+		"defname": "rxRemoteRefinedSleepingGasCan"
+	},
+	{
+		"abr": "remotedetonator",
+		"price": 202,
+		"category": "Buildings",
+		"defname": "rxTableDetonator"
+	},
+	{
+		"abr": "remoteempcharge",
+		"price": 600,
+		"category": "",
+		"defname": "rxRemoteEmpBombPlaced"
+	},
+	{
+		"abr": "remoteexplosive",
+		"price": 133,
+		"category": "Explosives",
+		"defname": "rxRemoteBomb"
+	},
+	{
+		"abr": "remoteexplosivecharge",
+		"price": 134,
+		"category": "",
+		"defname": "rxRemoteBombPlaced"
+	},
+	{
+		"abr": "remoteincendiarycharge",
+		"price": 134,
+		"category": "",
+		"defname": "rxRemoteFireBombPlaced"
+	},
+	{
+		"abr": "resonancecellbattery",
+		"price": 883,
+		"category": "Artifacts",
+		"defname": "ResonanceCell_Battery"
+	},
+	{
+		"abr": "sealingfoamcan",
+		"price": 251,
+		"category": "",
+		"defname": "rxRemoteFoamCanPlaced"
+	},
+	{
+		"abr": "sealingfoamcanister",
+		"price": 250,
+		"category": "Explosives",
+		"defname": "rxRemoteFoamCan"
+	},
+	{
+		"abr": "shapedcharge",
+		"price": 525,
+		"category": "Buildings",
+		"defname": "rxMiningChargeShaped"
+	},
+	{
+		"abr": "sleepinggascan",
+		"price": 251,
+		"category": "",
+		"defname": "rxRemoteSleepingGasCanPlaced"
+	},
+	{
+		"abr": "sleepinggascanister",
+		"price": 250,
+		"category": "Explosives",
+		"defname": "rxRemoteSleepingGasCan"
+	},
+	{
+		"abr": "smallshelf",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "Shelf_small"
+	},
+	{
+		"abr": "smokeleafautotrimmer",
+		"price": 1142,
+		"category": "Production",
+		"defname": "SmokeleafAutoTrimmer"
+	},
+	{
+		"abr": "smokeleafbrownie",
+		"price": 22,
+		"category": "Smokeleaf Edibles",
+		"defname": "SmokeleafBrownie"
+	},
+	{
+		"abr": "smokeleafbuds",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "SmokeleafBuds"
+	},
+	{
+		"abr": "smokeleafbutter",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "SmokeleafButter"
+	},
+	{
+		"abr": "smokeleafcandy",
+		"price": 33,
+		"category": "Smokeleaf Edibles",
+		"defname": "SmokeleafCandy"
+	},
+	{
+		"abr": "smokeleafcannagar",
+		"price": 75,
+		"category": "Smokeleaf Drugs",
+		"defname": "SmokeleafCannagar"
+	},
+	{
+		"abr": "smokeleafcookie",
+		"price": 17,
+		"category": "Smokeleaf Edibles",
+		"defname": "SmokeleafCookie"
+	},
+	{
+		"abr": "smokeleafde-energydrink",
+		"price": 67,
+		"category": "Smokeleaf Edibles",
+		"defname": "SmokeleafDeEnergyDrink"
+	},
+	{
+		"abr": "smokeleafdistillate",
+		"price": 60,
+		"category": "Smokeleaf Drugs",
+		"defname": "SmokeleafDistillate"
+	},
+	{
+		"abr": "smokeleafhash",
+		"price": 20,
+		"category": "Smokeleaf Drugs",
+		"defname": "SmokeleafHash"
+	},
+	{
+		"abr": "smokeleafhashoil",
+		"price": 30,
+		"category": "Smokeleaf Drugs",
+		"defname": "CHO"
+	},
+	{
+		"abr": "smokeleaflotion",
+		"price": 133,
+		"category": "Smokeleaf Drugs",
+		"defname": "SmokeleafLotion"
+	},
+	{
+		"abr": "smokeleafpills",
+		"price": 75,
+		"category": "Smokeleaf Drugs",
+		"defname": "SmokeleafPills"
+	},
+	{
+		"abr": "smokeleafseedoil",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "SmokeleafSeedOil"
+	},
+	{
+		"abr": "smokeleafsmoothie",
+		"price": 58,
+		"category": "Smokeleaf Edibles",
+		"defname": "SmokeleafSmoothie"
+	},
+	{
+		"abr": "smokeleaftincture",
+		"price": 80,
+		"category": "Smokeleaf Drugs",
+		"defname": "SmokeleafTincture"
+	},
+	{
+		"abr": "spacebucket",
+		"price": 303,
+		"category": "Furniture",
+		"defname": "SpaceBucket"
+	},
+	{
+		"abr": "speedchargebattery",
+		"price": 992,
+		"category": "Power",
+		"defname": "SpeedCharge_Battery"
+	},
+	{
+		"abr": "stool(linkable)",
+		"price": 54,
+		"category": "Furniture",
+		"defname": "StoolLinkable"
+	},
+	{
+		"abr": "table(linkable)",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "TableLinkable"
+	},
+	{
+		"abr": "thermalwrapping",
+		"price": 62,
+		"category": "Apparel",
+		"defname": "ChJAndroidThermalBandages"
+	},
+	{
+		"abr": "trimmingtools",
+		"price": 332,
+		"category": "Misc",
+		"defname": "TrimmingTools"
+	},
+	{
+		"abr": "tukiri",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Tukiri"
+	},
+	{
+		"abr": "tukiriegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EggTukiriFertilized"
+	},
+	{
+		"abr": "tukiriegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggTukiriUnfertilized"
+	},
+	{
+		"abr": "tukirileather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Tukiri"
+	},
+	{
+		"abr": "voidcellbattery",
+		"price": 5000,
+		"category": "Artifacts",
+		"defname": "VoidCell_Battery"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzureVII"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuseVII"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyanVII"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagentaVII"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrangeVII"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRoseVII"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreenVII"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightVioletVII"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellowVII"
+	},
+	{
+		"abr": "wideshelf",
+		"price": 207,
+		"category": "Furniture",
+		"defname": "Shelf_wide"
+	},
+	{
+		"abr": "widershelf",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "Shelf_wider"
+	},
+	{
+		"abr": ".300aacblackoutcartridge(ap)",
+		"price": 0,
+		"category": ".300 AAC Blackout",
+		"defname": "Ammo_300AACBlackout_AP"
+	},
+	{
+		"abr": ".300aacblackoutcartridge(fmj)",
+		"price": 0,
+		"category": ".300 AAC Blackout",
+		"defname": "Ammo_300AACBlackout_FMJ"
+	},
+	{
+		"abr": ".300aacblackoutcartridge(hp)",
+		"price": 0,
+		"category": ".300 AAC Blackout",
+		"defname": "Ammo_300AACBlackout_HP"
+	},
+	{
+		"abr": ".300winchestermagnumcartridge(ap-i)",
+		"price": 0,
+		"category": ".300 Winchester Magnum",
+		"defname": "Ammo_300WinchesterMagnum_Incendiary"
+	},
+	{
+		"abr": ".300winchestermagnumcartridge(fmj)",
+		"price": 0,
+		"category": ".300 Winchester Magnum",
+		"defname": "Ammo_300WinchesterMagnum_FMJ"
+	},
+	{
+		"abr": ".300winchestermagnumcartridge(hp)",
+		"price": 0,
+		"category": ".300 Winchester Magnum",
+		"defname": "Ammo_300WinchesterMagnum_HP"
+	},
+	{
+		"abr": ".32acpcartridge(fmj)",
+		"price": 0,
+		"category": ".32 ACP",
+		"defname": "Ammo_32ACP_FMJ"
+	},
+	{
+		"abr": ".338lapuamagnumcartridge(ap-i)",
+		"price": 0,
+		"category": ".338 Lapua Magnum",
+		"defname": "Ammo_338Lapua_Incendiary"
+	},
+	{
+		"abr": ".338lapuamagnumcartridge(fmj)",
+		"price": 0,
+		"category": ".338 Lapua Magnum",
+		"defname": "Ammo_338Lapua_FMJ"
+	},
+	{
+		"abr": ".338lapuamagnumcartridge(hp)",
+		"price": 0,
+		"category": ".338 Lapua Magnum",
+		"defname": "Ammo_338Lapua_HP"
+	},
+	{
+		"abr": ".357magnumcartridge(ap)",
+		"price": 0,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_AP"
+	},
+	{
+		"abr": ".357magnumcartridge(fmj)",
+		"price": 0,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_FMJ"
+	},
+	{
+		"abr": ".357magnumcartridge(hp)",
+		"price": 0,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_HP"
+	},
+	{
+		"abr": ".380acpcartridge(ap)",
+		"price": 0,
+		"category": ".380 ACP",
+		"defname": "Ammo_380ACP_AP"
+	},
+	{
+		"abr": ".380acpcartridge(fmj)",
+		"price": 0,
+		"category": ".380 ACP",
+		"defname": "Ammo_380ACP_FMJ"
+	},
+	{
+		"abr": ".380acpcartridge(hp)",
+		"price": 0,
+		"category": ".380 ACP",
+		"defname": "Ammo_380ACP_HP"
+	},
+	{
+		"abr": ".50aecartridge(fmj)",
+		"price": 0,
+		"category": ".50 AE",
+		"defname": "Ammo_50AE_FMJ"
+	},
+	{
+		"abr": ".50aecartridge(hp)",
+		"price": 0,
+		"category": ".50 AE",
+		"defname": "Ammo_50AE_HP"
+	},
+	{
+		"abr": "25mmgrenade(emp)",
+		"price": 3,
+		"category": "25x40mm Grenade",
+		"defname": "Ammo_25x40mmGrenade_EMP"
+	},
+	{
+		"abr": "25mmgrenade(he)",
+		"price": 2,
+		"category": "25x40mm Grenade",
+		"defname": "Ammo_25x40mmGrenade_HE"
+	},
+	{
+		"abr": "4.6x30mmcartridge(ap)",
+		"price": 0,
+		"category": "4.6x30mm",
+		"defname": "Ammo_46x30mm_AP"
+	},
+	{
+		"abr": "4.6x30mmcartridge(fmj)",
+		"price": 0,
+		"category": "4.6x30mm",
+		"defname": "Ammo_46x30mm_FMJ"
+	},
+	{
+		"abr": "4.6x30mmcartridge(hp)",
+		"price": 0,
+		"category": "4.6x30mm",
+		"defname": "Ammo_46x30mm_HP"
+	},
+	{
+		"abr": "40x46mmgrenade(buckshot)",
+		"price": 3,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_BS"
+	},
+	{
+		"abr": "40x46mmgrenade(incendiary)",
+		"price": 4,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_IN"
+	},
+	{
+		"abr": "40x46mmgrenade(smoke)",
+		"price": 3,
+		"category": "40x46mm Grenade",
+		"defname": "Ammo_40x46mmGrenade_SMK"
+	},
+	{
+		"abr": "5.45x45mmypcartridge(cc)",
+		"price": 0,
+		"category": "9x21mm YP",
+		"defname": "Ammo_RifleYP_CC"
+	},
+	{
+		"abr": "7.62x25mmtokarevcartridge(ap)",
+		"price": 0,
+		"category": "7.62x25mm Tokarev",
+		"defname": "Ammo_762x25mmTokarev_AP"
+	},
+	{
+		"abr": "7.62x25mmtokarevcartridge(fmj)",
+		"price": 0,
+		"category": "7.62x25mm Tokarev",
+		"defname": "Ammo_762x25mmTokarev_FMJ"
+	},
+	{
+		"abr": "7.62x25mmtokarevcartridge(hp)",
+		"price": 0,
+		"category": "7.62x25mm Tokarev",
+		"defname": "Ammo_762x25mmTokarev_HP"
+	},
+	{
+		"abr": "7.62x55mmypcartridge(cc)",
+		"price": 0,
+		"category": "7.62x55mm YP",
+		"defname": "Ammo_SpikeYP_CC"
+	},
+	{
+		"abr": "7.92x57mmmausercartridge(ap)",
+		"price": 0,
+		"category": "7.92x57mm Mauser",
+		"defname": "Ammo_792x57mmMauser_AP"
+	},
+	{
+		"abr": "7.92x57mmmausercartridge(fmj)",
+		"price": 0,
+		"category": "7.92x57mm Mauser",
+		"defname": "Ammo_792x57mmMauser_FMJ"
+	},
+	{
+		"abr": "7.92x57mmmausercartridge(hp)",
+		"price": 0,
+		"category": "7.92x57mm Mauser",
+		"defname": "Ammo_792x57mmMauser_HP"
+	},
+	{
+		"abr": "90mmrocket(hedp)",
+		"price": 36,
+		"category": "90mm JI Siege Shells",
+		"defname": "Ammo_90mmJI_DP"
+	},
+	{
+		"abr": "9x21mmypcartridge(cc)",
+		"price": 0,
+		"category": "9x21mm YP",
+		"defname": "Ammo_PistolYP_CC"
+	},
+	{
+		"abr": "9x39mmsovietcartridge(ap)",
+		"price": 0,
+		"category": "9x39mm Soviet",
+		"defname": "Ammo_9x39mmSoviet_AP"
+	},
+	{
+		"abr": "9x39mmsovietcartridge(fmj)",
+		"price": 0,
+		"category": "9x39mm Soviet",
+		"defname": "Ammo_9x39mmSoviet_FMJ"
+	},
+	{
+		"abr": "9x39mmsovietcartridge(hp)",
+		"price": 0,
+		"category": "9x39mm Soviet",
+		"defname": "Ammo_9x39mmSoviet_HP"
+	},
+	{
+		"abr": "acaciatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_RRP_TreeAcacia"
+	},
+	{
+		"abr": "agarilux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Agarilux"
+	},
+	{
+		"abr": "agave",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Agave"
+	},
+	{
+		"abr": "aliengrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_AlienGrass"
+	},
+	{
+		"abr": "alienplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_RedLeaves"
+	},
+	{
+		"abr": "alientree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_AlienTree"
+	},
+	{
+		"abr": "alliumgiganteum",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAlliumGiganteum"
+	},
+	{
+		"abr": "alocasia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Alocasia"
+	},
+	{
+		"abr": "ambrosiabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Ambrosia"
+	},
+	{
+		"abr": "anthurium",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAnthurium"
+	},
+	{
+		"abr": "appletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAppletree"
+	},
+	{
+		"abr": "astragalus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Astragalus"
+	},
+	{
+		"abr": "babyagarilux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_VGP_Agarilux"
+	},
+	{
+		"abr": "bambooplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeBamboo"
+	},
+	{
+		"abr": "bananatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantBananaTree"
+	},
+	{
+		"abr": "barleyplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Barley"
+	},
+	{
+		"abr": "beanplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_bean"
+	},
+	{
+		"abr": "berrybush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Berry"
+	},
+	{
+		"abr": "birchtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeBirch"
+	},
+	{
+		"abr": "blazebulb",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantBlazebulb"
+	},
+	{
+		"abr": "blossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GL_TreeA"
+	},
+	{
+		"abr": "blueberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantblueberry"
+	},
+	{
+		"abr": "brambles",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Brambles"
+	},
+	{
+		"abr": "brokenasphalt",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BrokenAsphalt"
+	},
+	{
+		"abr": "bryolux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Bryolux"
+	},
+	{
+		"abr": "burnedcarpet",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedCarpet"
+	},
+	{
+		"abr": "burnedstrawfloor",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedStrawFloor"
+	},
+	{
+		"abr": "burnedtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_BurnedTree"
+	},
+	{
+		"abr": "burnedwoodfloor",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedWoodPlankFloor"
+	},
+	{
+		"abr": "bush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Bush"
+	},
+	{
+		"abr": "camelliatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeCamellia"
+	},
+	{
+		"abr": "carrotplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantCarrot"
+	},
+	{
+		"abr": "cecropiatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCecropia"
+	},
+	{
+		"abr": "cherryblossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeCherryBlossom"
+	},
+	{
+		"abr": "cherrytree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantCherrytree"
+	},
+	{
+		"abr": "chest-deepmovingwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterMovingChestDeep"
+	},
+	{
+		"abr": "chokevine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Chokevine"
+	},
+	{
+		"abr": "clivia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Clivia"
+	},
+	{
+		"abr": "cloudberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantcloudberry"
+	},
+	{
+		"abr": "cocoabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantcocoa"
+	},
+	{
+		"abr": "cocoatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCocoa"
+	},
+	{
+		"abr": "coconuttree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Coconuttree"
+	},
+	{
+		"abr": "coffeeplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Coffee"
+	},
+	{
+		"abr": "collapsedrocks",
+		"price": 9,
+		"category": "Minerals",
+		"defname": "RESROCK_CollapsedRocks"
+	},
+	{
+		"abr": "compactedmachinery",
+		"price": 113,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableComponentsIndustrial"
+	},
+	{
+		"abr": "compactedplasteel",
+		"price": 608,
+		"category": "Minerals",
+		"defname": "RESROCK_MineablePlasteel"
+	},
+	{
+		"abr": "compactedsalt",
+		"price": 39,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSalt"
+	},
+	{
+		"abr": "compactedsteel",
+		"price": 133,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSteel"
+	},
+	{
+		"abr": "cornplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Corn"
+	},
+	{
+		"abr": "cottonplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Cotton"
+	},
+	{
+		"abr": "crossbowbolt",
+		"price": 0,
+		"category": "Crossbow bolts",
+		"defname": "Ammo_CrossbowBolt_Stone"
+	},
+	{
+		"abr": "crossbowbolt(plasteel)",
+		"price": 6,
+		"category": "Crossbow bolts",
+		"defname": "Ammo_CrossbowBolt_Plasteel"
+	},
+	{
+		"abr": "crossbowbolt(steel)",
+		"price": 1,
+		"category": "Crossbow bolts",
+		"defname": "Ammo_CrossbowBolt_Steel"
+	},
+	{
+		"abr": "cypresstree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCypress"
+	},
+	{
+		"abr": "dandelions",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Dandelion"
+	},
+	{
+		"abr": "datepalmtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_DateTree"
+	},
+	{
+		"abr": "daylily",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Daylily"
+	},
+	{
+		"abr": "deepoceanwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterOceanDeep"
+	},
+	{
+		"abr": "deepwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterDeep"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Devilstrand"
+	},
+	{
+		"abr": "dragotree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeDrago"
+	},
+	{
+		"abr": "eggplantplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Planteggplant"
+	},
+	{
+		"abr": "fermentedrottingmound",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AA_RottingMound"
+	},
+	{
+		"abr": "fertilizedsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_AA_FertilizedSand"
+	},
+	{
+		"abr": "figtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_FigTree"
+	},
+	{
+		"abr": "flaxflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantFlax"
+	},
+	{
+		"abr": "flora-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "FloraEmiter"
+	},
+	{
+		"abr": "fn5.7x28mmcartridge(ap)",
+		"price": 0,
+		"category": "FN 5.7x28mm",
+		"defname": "Ammo_FN57x28mm_AP"
+	},
+	{
+		"abr": "fn5.7x28mmcartridge(fmj)",
+		"price": 0,
+		"category": "FN 5.7x28mm",
+		"defname": "Ammo_FN57x28mm_FMJ"
+	},
+	{
+		"abr": "fn5.7x28mmcartridge(hp)",
+		"price": 0,
+		"category": "FN 5.7x28mm",
+		"defname": "Ammo_FN57x28mm_HP"
+	},
+	{
+		"abr": "giantrafflesia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rafflesia"
+	},
+	{
+		"abr": "glossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GL_TreeB"
+	},
+	{
+		"abr": "glowstool",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Glowstool"
+	},
+	{
+		"abr": "goldfern",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantGoldLeaf"
+	},
+	{
+		"abr": "goldore",
+		"price": 675,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableGold"
+	},
+	{
+		"abr": "gooseberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantgooseberry"
+	},
+	{
+		"abr": "granite",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Granite"
+	},
+	{
+		"abr": "grapevine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantgrape"
+	},
+	{
+		"abr": "grass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Grass"
+	},
+	{
+		"abr": "harpoonarrow",
+		"price": 0,
+		"category": "Arrow pack",
+		"defname": "Ammo_HarpoonArrow"
+	},
+	{
+		"abr": "haygrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Haygrass"
+	},
+	{
+		"abr": "healroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Healroot"
+	},
+	{
+		"abr": "heatresistantambrosiabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AA_Heat_Ambrosia"
+	},
+	{
+		"abr": "high-densityalloyslug",
+		"price": 0,
+		"category": "Machined Alloy Slug",
+		"defname": "Ammo_JI_AMR"
+	},
+	{
+		"abr": "hopplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Hops"
+	},
+	{
+		"abr": "ice",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Ice"
+	},
+	{
+		"abr": "ironwoodtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeIronwood"
+	},
+	{
+		"abr": "jade",
+		"price": 342,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableJade"
+	},
+	{
+		"abr": "jadecrystal",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantJadeLeaf"
+	},
+	{
+		"abr": "japanesemapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeJapaneseMaple"
+	},
+	{
+		"abr": "kiwiplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantKiwi"
+	},
+	{
+		"abr": "lichen-coveredsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_MossyTerrain"
+	},
+	{
+		"abr": "limestone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Limestone"
+	},
+	{
+		"abr": "lowshrubs",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_ShrubLow"
+	},
+	{
+		"abr": "mangotree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantMangoTree"
+	},
+	{
+		"abr": "mapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeMaple"
+	},
+	{
+		"abr": "marble",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Marble"
+	},
+	{
+		"abr": "marsh",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Marsh"
+	},
+	{
+		"abr": "marshysoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_MarshyTerrain"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 675,
+		"category": "Rocks",
+		"defname": "RESROCK_WTH_MechanoidParts"
+	},
+	{
+		"abr": "mineral-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "MineralEmiter"
+	},
+	{
+		"abr": "moltenslug",
+		"price": 0,
+		"category": "Molten Slug",
+		"defname": "Ammo_JI_Molten"
+	},
+	{
+		"abr": "moss",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Moss"
+	},
+	{
+		"abr": "mountains-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "MountainsEmiter"
+	},
+	{
+		"abr": "mud",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Mud"
+	},
+	{
+		"abr": "mushroom",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantmushroom"
+	},
+	{
+		"abr": "neutroflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantNeutroFlower"
+	},
+	{
+		"abr": "nymphhair",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantNymphHair"
+	},
+	{
+		"abr": "oaktree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeOak"
+	},
+	{
+		"abr": "olivetree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Olivetree"
+	},
+	{
+		"abr": "orangetree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantorangeTree"
+	},
+	{
+		"abr": "packeddirt",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_PackedDirt"
+	},
+	{
+		"abr": "palmtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreePalm"
+	},
+	{
+		"abr": "peachtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPeachTree"
+	},
+	{
+		"abr": "pincushioncactus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_PincushionCactus"
+	},
+	{
+		"abr": "pinetree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreePine"
+	},
+	{
+		"abr": "pineappleplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantpineapple"
+	},
+	{
+		"abr": "pinkrimstalk",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPinkRimstalk"
+	},
+	{
+		"abr": "plasteelbulb",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPlasteelLeaf"
+	},
+	{
+		"abr": "plumeria",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPlumeria"
+	},
+	{
+		"abr": "poplartree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreePoplar"
+	},
+	{
+		"abr": "potatoplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Potato"
+	},
+	{
+		"abr": "psychoidplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Psychoid"
+	},
+	{
+		"abr": "pumpkinplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantpumpkin"
+	},
+	{
+		"abr": "quarriedground",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_QRY_QuarriedGround"
+	},
+	{
+		"abr": "quarriedground",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_QRY_QuarriedGroundWall"
+	},
+	{
+		"abr": "reclaimedsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_QRY_ReclaimedSoil"
+	},
+	{
+		"abr": "redlentilplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_redlentil"
+	},
+	{
+		"abr": "redmapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeRedMaple"
+	},
+	{
+		"abr": "replicator-prototyp",
+		"price": 3308,
+		"category": "Misc",
+		"defname": "ReplicatorPrototyp"
+	},
+	{
+		"abr": "riceplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rice"
+	},
+	{
+		"abr": "richsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_SoilRich"
+	},
+	{
+		"abr": "rock-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "RockEmiter"
+	},
+	{
+		"abr": "rose",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rose"
+	},
+	{
+		"abr": "roughgranite",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Granite_Rough"
+	},
+	{
+		"abr": "roughlimestone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Limestone_Rough"
+	},
+	{
+		"abr": "roughmarble",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Marble_Rough"
+	},
+	{
+		"abr": "roughsandstone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Sandstone_Rough"
+	},
+	{
+		"abr": "roughslate",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Slate_Rough"
+	},
+	{
+		"abr": "rough-hewngranite",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Granite_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnlimestone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Limestone_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnmarble",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Marble_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnsandstone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Sandstone_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnslate",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Slate_RoughHewn"
+	},
+	{
+		"abr": "saguarocactus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_SaguaroCactus"
+	},
+	{
+		"abr": "sand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Sand"
+	},
+	{
+		"abr": "sandstone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Sandstone"
+	},
+	{
+		"abr": "shallowmovingwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterMovingShallow"
+	},
+	{
+		"abr": "shallowoceanwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterOceanShallow"
+	},
+	{
+		"abr": "shallowwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterShallow"
+	},
+	{
+		"abr": "shuriken(plasteel)",
+		"price": 5,
+		"category": "Shurikens",
+		"defname": "Ammo_Shuriken_Plasteel"
+	},
+	{
+		"abr": "shuriken(steel)",
+		"price": 1,
+		"category": "Shurikens",
+		"defname": "Ammo_Shuriken_Steel"
+	},
+	{
+		"abr": "shuriken(stone)",
+		"price": 0,
+		"category": "Shurikens",
+		"defname": "Ammo_Shuriken_Stone"
+	},
+	{
+		"abr": "silverflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantSilverLeaf"
+	},
+	{
+		"abr": "silverore",
+		"price": 73,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSilver"
+	},
+	{
+		"abr": "slaground",
+		"price": 0,
+		"category": "Molten Slug",
+		"defname": "Ammo_JI_Slag"
+	},
+	{
+		"abr": "slate",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Slate"
+	},
+	{
+		"abr": "slingbullet(plasteel)",
+		"price": 5,
+		"category": "Sling bullets",
+		"defname": "Ammo_SlingBullet_Plasteel"
+	},
+	{
+		"abr": "slingbullet(steel)",
+		"price": 1,
+		"category": "Sling bullets",
+		"defname": "Ammo_SlingBullet_Steel"
+	},
+	{
+		"abr": "slingbullet(stone)",
+		"price": 0,
+		"category": "Sling bullets",
+		"defname": "Ammo_SlingBullet_Stone"
+	},
+	{
+		"abr": "smallavtomaton",
+		"price": 800,
+		"category": "Animal",
+		"defname": "Mech_SmallAvtomaton"
+	},
+	{
+		"abr": "smokeleafplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Smokeleaf"
+	},
+	{
+		"abr": "smokeleafplant(scrog)",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_MSI_SCROG"
+	},
+	{
+		"abr": "smokeleafplant(sog)",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_MSI_SOG"
+	},
+	{
+		"abr": "smoothgranite",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Granite_Smooth"
+	},
+	{
+		"abr": "smoothlimestone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Limestone_Smooth"
+	},
+	{
+		"abr": "smoothmarble",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Marble_Smooth"
+	},
+	{
+		"abr": "smoothsandstone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Sandstone_Smooth"
+	},
+	{
+		"abr": "smoothslate",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Slate_Smooth"
+	},
+	{
+		"abr": "smoothedgranite",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedGranite"
+	},
+	{
+		"abr": "smoothedlimestone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedLimestone"
+	},
+	{
+		"abr": "smoothedmarble",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedMarble"
+	},
+	{
+		"abr": "smoothedsandstone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedSandstone"
+	},
+	{
+		"abr": "smoothedslate",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedSlate"
+	},
+	{
+		"abr": "snowbeetplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Snowbeet"
+	},
+	{
+		"abr": "softsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_SoftSand"
+	},
+	{
+		"abr": "soil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Soil"
+	},
+	{
+		"abr": "sparkweed",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_rxPlantSparkweed"
+	},
+	{
+		"abr": "spectago",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AJO_PlantOutdoorSpectago"
+	},
+	{
+		"abr": "squashplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantsquash"
+	},
+	{
+		"abr": "steelshroomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantSteelLeaf"
+	},
+	{
+		"abr": "stonysoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Gravel"
+	},
+	{
+		"abr": "strangeshinymineral",
+		"price": 383,
+		"category": "Minerals",
+		"defname": "RESROCK_AA_SkySteelClumps"
+	},
+	{
+		"abr": "strawberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Strawberry"
+	},
+	{
+		"abr": "sugarcaneplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantsugarcane"
+	},
+	{
+		"abr": "sunflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantSunflower"
+	},
+	{
+		"abr": "superiorfertilizedsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_AA_SuperiorFertilizedSand"
+	},
+	{
+		"abr": "tallgrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TallGrass"
+	},
+	{
+		"abr": "teconcentratedpowercharge(ke)",
+		"price": 0,
+		"category": "TE Concentrated Power Charge",
+		"defname": "Ammo_TEConcentratedPowerCharge_KE"
+	},
+	{
+		"abr": "teenergycanister(ke)",
+		"price": 1,
+		"category": "TE Energy Canister",
+		"defname": "Ammo_TEEnergyCanister_KE"
+	},
+	{
+		"abr": "tepowercharge(ke)",
+		"price": 0,
+		"category": "TE Power Charge",
+		"defname": "Ammo_TEPowerCharge_KE"
+	},
+	{
+		"abr": "tepowercore(ke)",
+		"price": 1,
+		"category": "TE Power Core",
+		"defname": "Ammo_TEPowerCore_KE"
+	},
+	{
+		"abr": "teaplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Tea"
+	},
+	{
+		"abr": "teaktree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeTeak"
+	},
+	{
+		"abr": "tectonic-emiter",
+		"price": 492,
+		"category": "Misc",
+		"defname": "TectonicEmiter"
+	},
+	{
+		"abr": "terrain-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "TerraEmiter"
+	},
+	{
+		"abr": "tobaccoplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTobacco"
+	},
+	{
+		"abr": "tomahawk(plasteel)",
+		"price": 5,
+		"category": "Tomahawk",
+		"defname": "Ammo_Tomahawk_Plasteel"
+	},
+	{
+		"abr": "tomahawk(steel)",
+		"price": 1,
+		"category": "Tomahawk",
+		"defname": "Ammo_Tomahawk_Steel"
+	},
+	{
+		"abr": "tomahawk(stone)",
+		"price": 0,
+		"category": "Tomahawk",
+		"defname": "Ammo_Tomahawk_Stone"
+	},
+	{
+		"abr": "tomatovine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTomato"
+	},
+	{
+		"abr": "trashbomb",
+		"price": 2,
+		"category": "Trash bomb",
+		"defname": "Ammo_TrashBomb"
+	},
+	{
+		"abr": "underwall",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Underwall"
+	},
+	{
+		"abr": "uraniumore",
+		"price": 408,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableUranium"
+	},
+	{
+		"abr": "uraniumroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantUraniumLeaf"
+	},
+	{
+		"abr": "watermelonplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantwatermelon"
+	},
+	{
+		"abr": "weather-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "WeatherEmiter"
+	},
+	{
+		"abr": "wheatplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantwheat"
+	},
+	{
+		"abr": "wildhealroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_HealrootWild"
+	},
+	{
+		"abr": "willowtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeWillow"
 	}
 	],
-	"total": 3072
+	"total": 3459
 }
