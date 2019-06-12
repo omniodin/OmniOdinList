@@ -76,6 +76,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "toxicfallout",
 		"price": 4200,
 		"karmatype": "Doom"
@@ -211,11 +216,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "yorkshireterriers",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -327,13 +327,23 @@
 	},
 	{
 		"abr": "visitcolony",
-		"price": 1000,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "berescued",
-		"price": 1000,
+		"price": 900,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reversetraderequest",
@@ -436,5 +446,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 87
+	"total": 89
 }
