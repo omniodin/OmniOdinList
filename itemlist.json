@@ -19835,7 +19835,151 @@
 		"price": 2833,
 		"category": "",
 		"defname": "ECP_RocketTurbine"
+	},
+	{
+		"abr": "autonomicviruskiller",
+		"price": 2667,
+		"category": "Artificial",
+		"defname": "ANN_Autonomicviruskiller"
+	},
+	{
+		"abr": "berserkerchip",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ANN_BerserkerChip"
+	},
+	{
+		"abr": "brainwash",
+		"price": 1833,
+		"category": "Items",
+		"defname": "ANN_Brainwash"
+	},
+	{
+		"abr": "combatai",
+		"price": 2833,
+		"category": "Artificial",
+		"defname": "ANN_CombatAI"
+	},
+	{
+		"abr": "cyclopsvisor",
+		"price": 2333,
+		"category": "Artificial",
+		"defname": "ANN_CyclopsVisor"
+	},
+	{
+		"abr": "dermalplating",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ANN_Dermalplating"
+	},
+	{
+		"abr": "energycore",
+		"price": 3333,
+		"category": "Artificial",
+		"defname": "ANN_EnergyCore"
+	},
+	{
+		"abr": "energyfist",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "ANN_EnergyFist"
+	},
+	{
+		"abr": "energylink",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ANN_EnergyLink"
+	},
+	{
+		"abr": "exoskeletonarmor",
+		"price": 3000,
+		"category": "Artificial",
+		"defname": "ANN_Exoskeleton"
+	},
+	{
+		"abr": "flashlight",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "ANN_FlashLight"
+	},
+	{
+		"abr": "laserdetection",
+		"price": 1167,
+		"category": "Artificial",
+		"defname": "ANN_LaserDetection"
+	},
+	{
+		"abr": "mindclearer",
+		"price": 1833,
+		"category": "Items",
+		"defname": "ANN_MindClearer"
+	},
+	{
+		"abr": "mindtwist",
+		"price": 1000,
+		"category": "Artificial",
+		"defname": "ANN_Mindtwist"
+	},
+	{
+		"abr": "musclewire",
+		"price": 2167,
+		"category": "Artificial",
+		"defname": "ANN_Musclewire"
+	},
+	{
+		"abr": "musechip",
+		"price": 2333,
+		"category": "Artificial",
+		"defname": "ANN_MuseChip"
+	},
+	{
+		"abr": "neuroenhancer",
+		"price": 2833,
+		"category": "Artificial",
+		"defname": "ANN_NeuroEnhancer"
+	},
+	{
+		"abr": "neuromodbooster",
+		"price": 1833,
+		"category": "Items",
+		"defname": "ANN_NeuromodBooster"
+	},
+	{
+		"abr": "outerblade",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "ANN_OuterBlade"
+	},
+	{
+		"abr": "passiongiver",
+		"price": 1833,
+		"category": "Items",
+		"defname": "ANN_PassionGiver"
+	},
+	{
+		"abr": "powerarms",
+		"price": 2333,
+		"category": "Artificial",
+		"defname": "ANN_PowerArms"
+	},
+	{
+		"abr": "reconditioner",
+		"price": 1833,
+		"category": "Items",
+		"defname": "ANN_Reconditioner"
+	},
+	{
+		"abr": "sensoricearside",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "ANN_SensoricEarside"
+	},
+	{
+		"abr": "shadowrunner",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "ANN_Shadowrunner"
 	}
 	],
-	"total": 3951
+	"total": 3975
 }
