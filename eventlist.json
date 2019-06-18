@@ -141,11 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
@@ -333,6 +328,11 @@
 	{
 		"abr": "berescued",
 		"price": 900,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
