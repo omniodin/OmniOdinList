@@ -19979,7 +19979,1693 @@
 		"price": 2000,
 		"category": "Artificial",
 		"defname": "ANN_Shadowrunner"
+	},
+	{
+		"abr": "detoxamin",
+		"price": 350,
+		"category": "Drugs",
+		"defname": "Detoxamin"
+	},
+	{
+		"abr": "methylanphenamid",
+		"price": 320,
+		"category": "Drugs",
+		"defname": "Methylanphenamid"
+	},
+	{
+		"abr": "mortracain",
+		"price": 48,
+		"category": "Drugs",
+		"defname": "Mortracain"
+	},
+	{
+		"abr": "tranquiazepin",
+		"price": 433,
+		"category": "Drugs",
+		"defname": "Tranquiazepin"
+	},
+	{
+		"abr": "tritoxylon",
+		"price": 392,
+		"category": "Drugs",
+		"defname": "Tritoxylon"
+	},
+	{
+		"abr": "vegetablebroth",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "VegetableBroth"
+	},
+	{
+		"abr": "acaciatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_RRP_TreeAcacia"
+	},
+	{
+		"abr": "agarilux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Agarilux"
+	},
+	{
+		"abr": "agave",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Agave"
+	},
+	{
+		"abr": "aliengrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_AlienGrass"
+	},
+	{
+		"abr": "alienplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_RedLeaves"
+	},
+	{
+		"abr": "alientree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GU_AlienTree"
+	},
+	{
+		"abr": "alliumgiganteum",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAlliumGiganteum"
+	},
+	{
+		"abr": "alocasia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Alocasia"
+	},
+	{
+		"abr": "ambrosiabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Ambrosia"
+	},
+	{
+		"abr": "anthurium",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAnthurium"
+	},
+	{
+		"abr": "appletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantAppletree"
+	},
+	{
+		"abr": "astragalus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Astragalus"
+	},
+	{
+		"abr": "babyagarilux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_VGP_Agarilux"
+	},
+	{
+		"abr": "bambooplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeBamboo"
+	},
+	{
+		"abr": "bananatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantBananaTree"
+	},
+	{
+		"abr": "barleyplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Barley"
+	},
+	{
+		"abr": "beanplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_bean"
+	},
+	{
+		"abr": "berrybush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Berry"
+	},
+	{
+		"abr": "birchtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeBirch"
+	},
+	{
+		"abr": "blazebulb",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantBlazebulb"
+	},
+	{
+		"abr": "blossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GL_TreeA"
+	},
+	{
+		"abr": "blueberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantblueberry"
+	},
+	{
+		"abr": "brambles",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Brambles"
+	},
+	{
+		"abr": "brokenasphalt",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BrokenAsphalt"
+	},
+	{
+		"abr": "bryolux",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Bryolux"
+	},
+	{
+		"abr": "burnedcarpet",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedCarpet"
+	},
+	{
+		"abr": "burnedstrawfloor",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedStrawFloor"
+	},
+	{
+		"abr": "burnedtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_BurnedTree"
+	},
+	{
+		"abr": "burnedwoodfloor",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_BurnedWoodPlankFloor"
+	},
+	{
+		"abr": "bush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Bush"
+	},
+	{
+		"abr": "camelliatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeCamellia"
+	},
+	{
+		"abr": "carrotplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantCarrot"
+	},
+	{
+		"abr": "cecropiatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCecropia"
+	},
+	{
+		"abr": "cherryblossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeCherryBlossom"
+	},
+	{
+		"abr": "cherrytree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantCherrytree"
+	},
+	{
+		"abr": "chest-deepmovingwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterMovingChestDeep"
+	},
+	{
+		"abr": "chokevine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Chokevine"
+	},
+	{
+		"abr": "clivia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Clivia"
+	},
+	{
+		"abr": "cloudberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantcloudberry"
+	},
+	{
+		"abr": "cocoabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantcocoa"
+	},
+	{
+		"abr": "cocoatree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCocoa"
+	},
+	{
+		"abr": "coconuttree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Coconuttree"
+	},
+	{
+		"abr": "coffeeplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Coffee"
+	},
+	{
+		"abr": "collapsedrocks",
+		"price": 9,
+		"category": "Minerals",
+		"defname": "RESROCK_CollapsedRocks"
+	},
+	{
+		"abr": "compactedmachinery",
+		"price": 113,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableComponentsIndustrial"
+	},
+	{
+		"abr": "compactedplasteel",
+		"price": 608,
+		"category": "Minerals",
+		"defname": "RESROCK_MineablePlasteel"
+	},
+	{
+		"abr": "compactedsalt",
+		"price": 39,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSalt"
+	},
+	{
+		"abr": "compactedsteel",
+		"price": 133,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSteel"
+	},
+	{
+		"abr": "cornplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Corn"
+	},
+	{
+		"abr": "cottonplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Cotton"
+	},
+	{
+		"abr": "cypresstree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeCypress"
+	},
+	{
+		"abr": "dandelions",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Dandelion"
+	},
+	{
+		"abr": "datepalmtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_DateTree"
+	},
+	{
+		"abr": "daylily",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Daylily"
+	},
+	{
+		"abr": "deepoceanwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterOceanDeep"
+	},
+	{
+		"abr": "deepwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterDeep"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Devilstrand"
+	},
+	{
+		"abr": "dragotree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeDrago"
+	},
+	{
+		"abr": "eggplantplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Planteggplant"
+	},
+	{
+		"abr": "etchedsmoothedgranite",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGranite"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXAtom"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXBeer"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXCheese"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXDoor"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXShovel"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXBoomalope"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXForest"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXHouse"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXPlanet"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXRocket"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXGerbils"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXIsland"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXMan"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXRose"
+	},
+	{
+		"abr": "etchedsmoothedgranite(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedGraniteXXWoman"
+	},
+	{
+		"abr": "etchedsmoothedlimestone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestone"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXAtom"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXBeer"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXCheese"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXDoor"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXShovel"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXBoomalope"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXForest"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXHouse"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXPlanet"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXRocket"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXGerbils"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXIsland"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXMan"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXRose"
+	},
+	{
+		"abr": "etchedsmoothedlimestone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedLimestoneXXWoman"
+	},
+	{
+		"abr": "etchedsmoothedmarble",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarble"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXAtom"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXBeer"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXCheese"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXDoor"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXShovel"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXBoomalope"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXForest"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXHouse"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXPlanet"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXRocket"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXGerbils"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXIsland"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXMan"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXRose"
+	},
+	{
+		"abr": "etchedsmoothedmarble(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedMarbleXXWoman"
+	},
+	{
+		"abr": "etchedsmoothedsandstone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstone"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXAtom"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXDoor"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXShovel"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXBoomalope"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXForest"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXHouse"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXPlanet"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXRocket"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXGerbils"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXIsland"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXMan"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXRose"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXWoman"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXBeer"
+	},
+	{
+		"abr": "etchedsmoothedsandstone(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSandstoneXXCheese"
+	},
+	{
+		"abr": "etchedsmoothedslate",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlate"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXAtom"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXBeer"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXCheese"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXDoor"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXShovel"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXBoomalope"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXForest"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXHouse"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXPlanet"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXRocket"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXGerbils"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXIsland"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXMan"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXRose"
+	},
+	{
+		"abr": "etchedsmoothedslate(decorated)",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_EtchedSmoothedSlateXXWoman"
+	},
+	{
+		"abr": "fermentedrottingmound",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AA_RottingMound"
+	},
+	{
+		"abr": "fertilizedsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_AA_FertilizedSand"
+	},
+	{
+		"abr": "figtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_FigTree"
+	},
+	{
+		"abr": "flaxflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantFlax"
+	},
+	{
+		"abr": "flora-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "FloraEmiter"
+	},
+	{
+		"abr": "geranium",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantGeranium"
+	},
+	{
+		"abr": "giantrafflesia",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rafflesia"
+	},
+	{
+		"abr": "glossomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_GL_TreeB"
+	},
+	{
+		"abr": "glowstool",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Glowstool"
+	},
+	{
+		"abr": "goldfern",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantGoldLeaf"
+	},
+	{
+		"abr": "goldore",
+		"price": 675,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableGold"
+	},
+	{
+		"abr": "gooseberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantgooseberry"
+	},
+	{
+		"abr": "granite",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Granite"
+	},
+	{
+		"abr": "grapevine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantgrape"
+	},
+	{
+		"abr": "grass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Grass"
+	},
+	{
+		"abr": "haygrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Haygrass"
+	},
+	{
+		"abr": "healroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Healroot"
+	},
+	{
+		"abr": "heatresistantambrosiabush",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AA_Heat_Ambrosia"
+	},
+	{
+		"abr": "hopplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Hops"
+	},
+	{
+		"abr": "ice",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Ice"
+	},
+	{
+		"abr": "ironwoodtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeIronwood"
+	},
+	{
+		"abr": "jade",
+		"price": 342,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableJade"
+	},
+	{
+		"abr": "jadecrystal",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantJadeLeaf"
+	},
+	{
+		"abr": "japanesemapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeJapaneseMaple"
+	},
+	{
+		"abr": "kiwiplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantKiwi"
+	},
+	{
+		"abr": "lichen-coveredsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_MossyTerrain"
+	},
+	{
+		"abr": "limestone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Limestone"
+	},
+	{
+		"abr": "lowshrubs",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_ShrubLow"
+	},
+	{
+		"abr": "mangotree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantMangoTree"
+	},
+	{
+		"abr": "mapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeMaple"
+	},
+	{
+		"abr": "marble",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Marble"
+	},
+	{
+		"abr": "marsh",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Marsh"
+	},
+	{
+		"abr": "marshysoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_MarshyTerrain"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 675,
+		"category": "Rocks",
+		"defname": "RESROCK_WTH_MechanoidParts"
+	},
+	{
+		"abr": "mineral-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "MineralEmiter"
+	},
+	{
+		"abr": "moss",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Moss"
+	},
+	{
+		"abr": "mountains-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "MountainsEmiter"
+	},
+	{
+		"abr": "mud",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Mud"
+	},
+	{
+		"abr": "mushroom",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantmushroom"
+	},
+	{
+		"abr": "neutroflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantNeutroFlower"
+	},
+	{
+		"abr": "nymphhair",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantNymphHair"
+	},
+	{
+		"abr": "oaktree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeOak"
+	},
+	{
+		"abr": "olivetree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Olivetree"
+	},
+	{
+		"abr": "orangetree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantorangeTree"
+	},
+	{
+		"abr": "packeddirt",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_PackedDirt"
+	},
+	{
+		"abr": "palmtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreePalm"
+	},
+	{
+		"abr": "peachtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPeachTree"
+	},
+	{
+		"abr": "pincushioncactus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_PincushionCactus"
+	},
+	{
+		"abr": "pinetree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreePine"
+	},
+	{
+		"abr": "pineappleplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantpineapple"
+	},
+	{
+		"abr": "pinkrimstalk",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPinkRimstalk"
+	},
+	{
+		"abr": "plasteelbulb",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPlasteelLeaf"
+	},
+	{
+		"abr": "plumeria",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantPlumeria"
+	},
+	{
+		"abr": "poplartree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreePoplar"
+	},
+	{
+		"abr": "potatoplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Potato"
+	},
+	{
+		"abr": "psychoidplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Psychoid"
+	},
+	{
+		"abr": "pumpkinplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantpumpkin"
+	},
+	{
+		"abr": "quarriedground",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_QRY_QuarriedGround"
+	},
+	{
+		"abr": "quarriedground",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_QRY_QuarriedGroundWall"
+	},
+	{
+		"abr": "reclaimedsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_QRY_ReclaimedSoil"
+	},
+	{
+		"abr": "redlentilplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_redlentil"
+	},
+	{
+		"abr": "redmapletree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTreeRedMaple"
+	},
+	{
+		"abr": "replicator-prototyp",
+		"price": 3308,
+		"category": "Misc",
+		"defname": "ReplicatorPrototyp"
+	},
+	{
+		"abr": "riceplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rice"
+	},
+	{
+		"abr": "richsoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_SoilRich"
+	},
+	{
+		"abr": "rock-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "RockEmiter"
+	},
+	{
+		"abr": "rose",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Rose"
+	},
+	{
+		"abr": "roughgranite",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Granite_Rough"
+	},
+	{
+		"abr": "roughlimestone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Limestone_Rough"
+	},
+	{
+		"abr": "roughmarble",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Marble_Rough"
+	},
+	{
+		"abr": "roughsandstone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Sandstone_Rough"
+	},
+	{
+		"abr": "roughslate",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Slate_Rough"
+	},
+	{
+		"abr": "rough-hewngranite",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Granite_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnlimestone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Limestone_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnmarble",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Marble_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnsandstone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Sandstone_RoughHewn"
+	},
+	{
+		"abr": "rough-hewnslate",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Slate_RoughHewn"
+	},
+	{
+		"abr": "saguarocactus",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_SaguaroCactus"
+	},
+	{
+		"abr": "sand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Sand"
+	},
+	{
+		"abr": "sandstone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Sandstone"
+	},
+	{
+		"abr": "shallowmovingwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterMovingShallow"
+	},
+	{
+		"abr": "shallowoceanwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterOceanShallow"
+	},
+	{
+		"abr": "shallowwater",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_WaterShallow"
+	},
+	{
+		"abr": "silverflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantSilverLeaf"
+	},
+	{
+		"abr": "silverore",
+		"price": 73,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableSilver"
+	},
+	{
+		"abr": "slate",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_Slate"
+	},
+	{
+		"abr": "smokeleafplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Smokeleaf"
+	},
+	{
+		"abr": "smokeleafplant(scrog)",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_MSI_SCROG"
+	},
+	{
+		"abr": "smokeleafplant(sog)",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_MSI_SOG"
+	},
+	{
+		"abr": "smoothgranite",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Granite_Smooth"
+	},
+	{
+		"abr": "smoothlimestone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Limestone_Smooth"
+	},
+	{
+		"abr": "smoothmarble",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Marble_Smooth"
+	},
+	{
+		"abr": "smoothsandstone",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Sandstone_Smooth"
+	},
+	{
+		"abr": "smoothslate",
+		"price": 6,
+		"category": "Terrain",
+		"defname": "T_Slate_Smooth"
+	},
+	{
+		"abr": "smoothedgranite",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedGranite"
+	},
+	{
+		"abr": "smoothedlimestone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedLimestone"
+	},
+	{
+		"abr": "smoothedmarble",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedMarble"
+	},
+	{
+		"abr": "smoothedsandstone",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedSandstone"
+	},
+	{
+		"abr": "smoothedslate",
+		"price": 6,
+		"category": "Rocks",
+		"defname": "RESROCK_SmoothedSlate"
+	},
+	{
+		"abr": "snowbeetplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Snowbeet"
+	},
+	{
+		"abr": "softsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_SoftSand"
+	},
+	{
+		"abr": "soil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Soil"
+	},
+	{
+		"abr": "sparkweed",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_rxPlantSparkweed"
+	},
+	{
+		"abr": "spectago",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_AJO_PlantOutdoorSpectago"
+	},
+	{
+		"abr": "squashplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantsquash"
+	},
+	{
+		"abr": "steelshroomtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantSteelLeaf"
+	},
+	{
+		"abr": "stonysoil",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Gravel"
+	},
+	{
+		"abr": "strangeshinymineral",
+		"price": 383,
+		"category": "Minerals",
+		"defname": "RESROCK_AA_SkySteelClumps"
+	},
+	{
+		"abr": "strawberryplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Strawberry"
+	},
+	{
+		"abr": "sugarcaneplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantsugarcane"
+	},
+	{
+		"abr": "sunflower",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantSunflower"
+	},
+	{
+		"abr": "superiorfertilizedsand",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_AA_SuperiorFertilizedSand"
+	},
+	{
+		"abr": "tallgrass",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TallGrass"
+	},
+	{
+		"abr": "teaplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_Tea"
+	},
+	{
+		"abr": "teaktree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeTeak"
+	},
+	{
+		"abr": "tectonic-emiter",
+		"price": 492,
+		"category": "Misc",
+		"defname": "TectonicEmiter"
+	},
+	{
+		"abr": "terrain-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "TerraEmiter"
+	},
+	{
+		"abr": "tobaccoplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTobacco"
+	},
+	{
+		"abr": "tomatovine",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantTomato"
+	},
+	{
+		"abr": "underwall",
+		"price": 8,
+		"category": "Terrain",
+		"defname": "T_Underwall"
+	},
+	{
+		"abr": "uraniumore",
+		"price": 408,
+		"category": "Minerals",
+		"defname": "RESROCK_MineableUranium"
+	},
+	{
+		"abr": "uraniumroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantUraniumLeaf"
+	},
+	{
+		"abr": "watermelonplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantwatermelon"
+	},
+	{
+		"abr": "weather-emiter",
+		"price": 2792,
+		"category": "Misc",
+		"defname": "WeatherEmiter"
+	},
+	{
+		"abr": "wheatplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plantwheat"
+	},
+	{
+		"abr": "wildcornplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildCorn"
+	},
+	{
+		"abr": "wildcottonplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildCotton"
+	},
+	{
+		"abr": "wilddevilstrand",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildDevilstrand"
+	},
+	{
+		"abr": "wildhealroot",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_HealrootWild"
+	},
+	{
+		"abr": "wildhopplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildHops"
+	},
+	{
+		"abr": "wildpotatoplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildPotato"
+	},
+	{
+		"abr": "wildpsychoidplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildPsychoid"
+	},
+	{
+		"abr": "wildriceplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildRice"
+	},
+	{
+		"abr": "wildrose",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildRose"
+	},
+	{
+		"abr": "wildsmokeleafplant",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_PlantWildSmokeleaf"
+	},
+	{
+		"abr": "willowtree",
+		"price": 8,
+		"category": "Flora",
+		"defname": "TRPLNT_Plant_TreeWillow"
 	}
 	],
-	"total": 3975
+	"total": 4806
 }
