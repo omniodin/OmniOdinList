@@ -1053,43 +1053,43 @@
 	{
 		"abr": "bionicarm",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
 		"price": 1308,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
 		"price": 1708,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicheart",
 		"price": 1383,
-		"category": "",
+		"category": "Artificial",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicleg",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicstomach",
 		"price": 1308,
-		"category": "",
+		"category": "Artificial",
 		"defname": "BionicStomach"
 	},
 	{
@@ -1695,7 +1695,7 @@
 	{
 		"abr": "cochlearimplant",
 		"price": 342,
-		"category": "Simple prostheses",
+		"category": "Artificial",
 		"defname": "CochlearImplant"
 	},
 	{
@@ -3681,7 +3681,7 @@
 	{
 		"abr": "joywire",
 		"price": 1333,
-		"category": "Synthetic organs",
+		"category": "Artificial",
 		"defname": "Joywire"
 	},
 	{
@@ -4701,7 +4701,7 @@
 	{
 		"abr": "painstopper",
 		"price": 1333,
-		"category": "Synthetic organs",
+		"category": "Artificial",
 		"defname": "Painstopper"
 	},
 	{
@@ -5061,7 +5061,7 @@
 	{
 		"abr": "powerclaw",
 		"price": 2000,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "PowerClaw"
 	},
 	{
@@ -5103,19 +5103,19 @@
 	{
 		"abr": "prostheticarm",
 		"price": 408,
-		"category": "Simple prostheses",
+		"category": "Artificial",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "prostheticheart",
 		"price": 358,
-		"category": "",
+		"category": "Artificial",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "prostheticleg",
 		"price": 408,
-		"category": "Simple prostheses",
+		"category": "Artificial",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
@@ -8481,7 +8481,7 @@
 	{
 		"abr": "adrenalineribreplacement",
 		"price": 1333,
-		"category": "Bionics",
+		"category": "Bionic prostheses",
 		"defname": "AdrenalineRib"
 	},
 	{
@@ -8547,7 +8547,7 @@
 	{
 		"abr": "advancedpowerarm",
 		"price": 16667,
-		"category": "Advanced bionics",
+		"category": "Artificial",
 		"defname": "AdvancedPowerArm"
 	},
 	{
@@ -8805,19 +8805,19 @@
 	{
 		"abr": "bionicfoot",
 		"price": 1250,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicFoot"
 	},
 	{
 		"abr": "bionichand",
 		"price": 1667,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "bionicjawimplant",
 		"price": 1667,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "BionicJaw"
 	},
 	{
@@ -9309,7 +9309,7 @@
 	{
 		"abr": "druggedribreplacement",
 		"price": 1333,
-		"category": "Bionics",
+		"category": "Bionic prostheses",
 		"defname": "DruggedRib"
 	},
 	{
@@ -9771,7 +9771,7 @@
 	{
 		"abr": "hookhand",
 		"price": 192,
-		"category": "Basic prostheses",
+		"category": "Artificial",
 		"defname": "HookHand"
 	},
 	{
@@ -10077,7 +10077,7 @@
 	{
 		"abr": "medicalribreplacement",
 		"price": 1250,
-		"category": "Bionics",
+		"category": "Bionic prostheses",
 		"defname": "MedicalRib"
 	},
 	{
@@ -10233,7 +10233,7 @@
 	{
 		"abr": "painkillerribreplacement",
 		"price": 1333,
-		"category": "Bionics",
+		"category": "Bionic prostheses",
 		"defname": "PainkillerRib"
 	},
 	{
@@ -10263,7 +10263,7 @@
 	{
 		"abr": "pegleg",
 		"price": 167,
-		"category": "Basic prostheses",
+		"category": "Artificial",
 		"defname": "PegLeg"
 	},
 	{
@@ -10371,7 +10371,7 @@
 	{
 		"abr": "powerarm",
 		"price": 12500,
-		"category": "Bionics",
+		"category": "Artificial",
 		"defname": "PowerArm"
 	},
 	{
@@ -10527,7 +10527,7 @@
 	{
 		"abr": "scytherblade",
 		"price": 2500,
-		"category": "Bionics",
+		"category": "Bionic prostheses",
 		"defname": "ScytherBlade"
 	},
 	{
@@ -10575,7 +10575,7 @@
 	{
 		"abr": "silentjawimplant",
 		"price": 1000,
-		"category": "Bionics",
+		"category": "Bionic prostheses",
 		"defname": "SilentJaw"
 	},
 	{
@@ -10593,13 +10593,13 @@
 	{
 		"abr": "simpleprostheticfoot",
 		"price": 667,
-		"category": "Simple prostheses",
+		"category": "Artificial",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
 		"abr": "simpleprosthetichand",
 		"price": 750,
-		"category": "Simple prostheses",
+		"category": "Artificial",
 		"defname": "SimpleProstheticHand"
 	},
 	{
@@ -11103,7 +11103,7 @@
 	{
 		"abr": "woodenfoot",
 		"price": 42,
-		"category": "Basic prostheses",
+		"category": "Artificial",
 		"defname": "WoodenFoot"
 	},
 	{
@@ -20017,1655 +20017,647 @@
 		"defname": "VegetableBroth"
 	},
 	{
-		"abr": "acaciatree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_RRP_TreeAcacia"
+		"abr": "adamantiumbonemodule",
+		"price": 5000,
+		"category": "Artificial",
+		"defname": "MSE_AdamantiumBoneModule"
 	},
 	{
-		"abr": "agarilux",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Agarilux"
+		"abr": "adamantiumcoatedbonemodule",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "MSE_AdamantiumCoatedBoneModule"
 	},
 	{
-		"abr": "agave",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Agave"
+		"abr": "advancedantitoxinkidney",
+		"price": 5833,
+		"category": "Artificial",
+		"defname": "AdvancedAntitoxinKidney"
 	},
 	{
-		"abr": "aliengrass",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_GU_AlienGrass"
+		"abr": "advancedbreathingsupportrib",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "AdvancedBreathingSupportRib"
 	},
 	{
-		"abr": "alienplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_GU_RedLeaves"
+		"abr": "advancedcoldregulatorrib",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "AdvancedColdRegulatorRib"
 	},
 	{
-		"abr": "alientree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_GU_AlienTree"
+		"abr": "advancedenergizedliver",
+		"price": 5833,
+		"category": "Artificial",
+		"defname": "AdvancedEnergizedLiver"
 	},
 	{
-		"abr": "alliumgiganteum",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantAlliumGiganteum"
+		"abr": "advancedheatregulatorrib",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "AdvancedHeatRegulatorRib"
 	},
 	{
-		"abr": "alocasia",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Alocasia"
+		"abr": "advancedmedicalliver",
+		"price": 5833,
+		"category": "Artificial",
+		"defname": "AdvancedMedicalLiver"
 	},
 	{
-		"abr": "ambrosiabush",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Ambrosia"
+		"abr": "advancedmeleeplatformmodule",
+		"price": 4167,
+		"category": "Artificial",
+		"defname": "MSE_AdvancedMeleePlatformModule"
 	},
 	{
-		"abr": "anthurium",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantAnthurium"
+		"abr": "advancedpowerarmmodule",
+		"price": 18333,
+		"category": "Artificial",
+		"defname": "MSE_AdvancedPowerArmModule"
 	},
 	{
-		"abr": "appletree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantAppletree"
+		"abr": "advancedpowerblade",
+		"price": 16667,
+		"category": "Artificial",
+		"defname": "MSE_AdvancedPowerBlade"
 	},
 	{
-		"abr": "astragalus",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Astragalus"
+		"abr": "advancedpowerclaw",
+		"price": 5833,
+		"category": "Artificial",
+		"defname": "AdvancedPowerClaw"
 	},
 	{
-		"abr": "babyagarilux",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_VGP_Agarilux"
+		"abr": "advancedpowerclawmodule",
+		"price": 10000,
+		"category": "Artificial",
+		"defname": "MSE_AdvancedPowerClawModule"
 	},
 	{
-		"abr": "bambooplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeBamboo"
+		"abr": "advancedrangedplatformmodule",
+		"price": 4167,
+		"category": "Artificial",
+		"defname": "MSE_AdvancedRangedPlatformModule"
 	},
 	{
-		"abr": "bananatree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantBananaTree"
+		"abr": "advancedrelaxationrib",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "AdvancedRelaxationRib"
 	},
 	{
-		"abr": "barleyplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Barley"
+		"abr": "antitoxinkidney",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "AntitoxinKidney"
 	},
 	{
-		"abr": "beanplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_bean"
+		"abr": "appetitesuppressant",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "MSE_AppetiteSuppressant"
 	},
 	{
-		"abr": "berrybush",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Berry"
+		"abr": "archotecharmmodule",
+		"price": 8667,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechArmModule"
 	},
 	{
-		"abr": "birchtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeBirch"
+		"abr": "archotechclavicle",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "ArchotechClavicle"
 	},
 	{
-		"abr": "blazebulb",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantBlazebulb"
+		"abr": "archotechclaviclemodule",
+		"price": 2667,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechClavicleModule"
 	},
 	{
-		"abr": "blossomtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_GL_TreeA"
+		"abr": "archotechfemur",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechFemur"
 	},
 	{
-		"abr": "blueberryplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantblueberry"
+		"abr": "archotechfemurmodule",
+		"price": 4333,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechFemurModule"
 	},
 	{
-		"abr": "brambles",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Brambles"
+		"abr": "archotechfinger",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "ArchotechFinger"
 	},
 	{
-		"abr": "brokenasphalt",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_BrokenAsphalt"
+		"abr": "archotechfingermodule",
+		"price": 2667,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechFingerModule"
 	},
 	{
-		"abr": "bryolux",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Bryolux"
+		"abr": "archotechfoot",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechFoot"
 	},
 	{
-		"abr": "burnedcarpet",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_BurnedCarpet"
+		"abr": "archotechfootmodule",
+		"price": 5000,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechFootModule"
 	},
 	{
-		"abr": "burnedstrawfloor",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_BurnedStrawFloor"
+		"abr": "archotechhand",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechHand"
 	},
 	{
-		"abr": "burnedtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_BurnedTree"
+		"abr": "archotechhandmodule",
+		"price": 5000,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechHandModule"
 	},
 	{
-		"abr": "burnedwoodfloor",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_BurnedWoodPlankFloor"
+		"abr": "archotechhumerus",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechHumerus"
 	},
 	{
-		"abr": "bush",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Bush"
+		"abr": "archotechhumerusmodule",
+		"price": 4333,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechHumerusModule"
 	},
 	{
-		"abr": "camelliatree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTreeCamellia"
+		"abr": "archotechjaw",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechJaw"
 	},
 	{
-		"abr": "carrotplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantCarrot"
+		"abr": "archotechradius",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechRadius"
 	},
 	{
-		"abr": "cecropiatree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeCecropia"
+		"abr": "archotechradiusmodule",
+		"price": 4333,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechRadiusModule"
 	},
 	{
-		"abr": "cherryblossomtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTreeCherryBlossom"
+		"abr": "archotechreproductiveorgans",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechReproductiveOrgans"
 	},
 	{
-		"abr": "cherrytree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantCherrytree"
+		"abr": "archotechrib",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "ArchotechRib"
 	},
 	{
-		"abr": "chest-deepmovingwater",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_WaterMovingChestDeep"
+		"abr": "archotechshoulder",
+		"price": 5833,
+		"category": "Artificial",
+		"defname": "ArchotechShoulder"
 	},
 	{
-		"abr": "chokevine",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Chokevine"
+		"abr": "archotechsternum",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "ArchotechSternum"
 	},
 	{
-		"abr": "clivia",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Clivia"
+		"abr": "archotechtibia",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "ArchotechTibia"
 	},
 	{
-		"abr": "cloudberryplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantcloudberry"
+		"abr": "archotechtibiamodule",
+		"price": 4333,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechTibiaModule"
 	},
 	{
-		"abr": "cocoabush",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantcocoa"
+		"abr": "archotechtoe",
+		"price": 1333,
+		"category": "Artificial",
+		"defname": "ArchotechToe"
 	},
 	{
-		"abr": "cocoatree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeCocoa"
+		"abr": "archotechtoemodule",
+		"price": 2667,
+		"category": "Artificial",
+		"defname": "MSE_ArchotechToeModule"
 	},
 	{
-		"abr": "coconuttree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Coconuttree"
+		"abr": "bionicarmmodule",
+		"price": 3333,
+		"category": "Artificial",
+		"defname": "MSE_BionicArmModule"
 	},
 	{
-		"abr": "coffeeplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Coffee"
+		"abr": "bionicclavicle",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "BionicClavicle"
 	},
 	{
-		"abr": "collapsedrocks",
-		"price": 9,
-		"category": "Minerals",
-		"defname": "RESROCK_CollapsedRocks"
+		"abr": "bionicclaviclemodule",
+		"price": 1000,
+		"category": "Artificial",
+		"defname": "MSE_BionicClavicleModule"
 	},
 	{
-		"abr": "compactedmachinery",
-		"price": 113,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableComponentsIndustrial"
+		"abr": "bionicfemur",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "BionicFemur"
 	},
 	{
-		"abr": "compactedplasteel",
-		"price": 608,
-		"category": "Minerals",
-		"defname": "RESROCK_MineablePlasteel"
+		"abr": "bionicfemurmodule",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MSE_BionicFemurModule"
 	},
 	{
-		"abr": "compactedsalt",
-		"price": 39,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableSalt"
+		"abr": "bionicfinger",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "BionicFinger"
 	},
 	{
-		"abr": "compactedsteel",
-		"price": 133,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableSteel"
+		"abr": "bionicfingermodule",
+		"price": 1000,
+		"category": "Artificial",
+		"defname": "MSE_BionicFingerModule"
 	},
 	{
-		"abr": "cornplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Corn"
+		"abr": "bionicfootmodule",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_BionicFootModule"
 	},
 	{
-		"abr": "cottonplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Cotton"
+		"abr": "bionichandmodule",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_BionicHandModule"
 	},
 	{
-		"abr": "cypresstree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeCypress"
+		"abr": "bionichumerus",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "BionicHumerus"
 	},
 	{
-		"abr": "dandelions",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Dandelion"
+		"abr": "bionichumerusmodule",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MSE_BionicHumerusModule"
 	},
 	{
-		"abr": "datepalmtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_DateTree"
+		"abr": "bionickidney",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "BionicKidney"
 	},
 	{
-		"abr": "daylily",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Daylily"
+		"abr": "bionicliver",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "BionicLiver"
 	},
 	{
-		"abr": "deepoceanwater",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_WaterOceanDeep"
+		"abr": "bioniclung",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "BionicLung"
 	},
 	{
-		"abr": "deepwater",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_WaterDeep"
+		"abr": "bionicmachiningtable",
+		"price": 2825,
+		"category": "Production",
+		"defname": "TableBionicProstheses"
 	},
 	{
-		"abr": "devilstrand",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Devilstrand"
+		"abr": "bionicpelvis",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "BionicPelvis"
 	},
 	{
-		"abr": "dragotree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeDrago"
+		"abr": "bionicradius",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "BionicRadius"
 	},
 	{
-		"abr": "eggplantplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Planteggplant"
+		"abr": "bionicradiusmodule",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MSE_BionicRadiusModule"
 	},
 	{
-		"abr": "etchedsmoothedgranite",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGranite"
+		"abr": "bionicrib",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "BionicRib"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXAtom"
+		"abr": "bionicshoulder",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "BionicShoulder"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXBeer"
+		"abr": "bionicsternum",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "BionicSternum"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXCheese"
+		"abr": "bionictibia",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "BionicTibia"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXDoor"
+		"abr": "bionictibiamodule",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MSE_BionicTibiaModule"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXShovel"
+		"abr": "bionictoe",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "BionicToe"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXBoomalope"
+		"abr": "bionictoemodule",
+		"price": 1000,
+		"category": "Artificial",
+		"defname": "MSE_BionicToeModule"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXForest"
+		"abr": "breathingsupportrib",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "BreathingSupportRib"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXHouse"
+		"abr": "builderai",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_BuilderAI"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXPlanet"
+		"abr": "coldregulatorrib",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "ColdRegulatorRib"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXRocket"
+		"abr": "denture",
+		"price": 33,
+		"category": "Artificial",
+		"defname": "Denture"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXGerbils"
+		"abr": "diplomatai",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_DiplomatAI"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXIsland"
+		"abr": "doctorai",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_DoctorAI"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXMan"
+		"abr": "endoskeletonstimulator",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MSE_EndoskeletonStimulator"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXRose"
+		"abr": "energizedliver",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "EnergizedLiver"
 	},
 	{
-		"abr": "etchedsmoothedgranite(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedGraniteXXWoman"
+		"abr": "eyepatch",
+		"price": 18,
+		"category": "Artificial",
+		"defname": "Eyepatch"
 	},
 	{
-		"abr": "etchedsmoothedlimestone",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestone"
+		"abr": "farmerai",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_FarmerAI"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXAtom"
+		"abr": "finger",
+		"price": 17,
+		"category": "Natural",
+		"defname": "Finger"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXBeer"
+		"abr": "heatregulatorrib",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "HeatRegulatorRib"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXCheese"
+		"abr": "medicalliver",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MedicalLiver"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXDoor"
+		"abr": "meleeplatformmodule",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_MeleePlatformModule"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXShovel"
+		"abr": "minerai",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_MinerAI"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXBoomalope"
+		"abr": "musclestimulator",
+		"price": 1667,
+		"category": "Artificial",
+		"defname": "MSE_MuscleStimulator"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXForest"
+		"abr": "powerarmmodule",
+		"price": 6000,
+		"category": "Artificial",
+		"defname": "MSE_PowerArmModule"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXHouse"
+		"abr": "powerblade",
+		"price": 4000,
+		"category": "Artificial",
+		"defname": "MSE_PowerBlade"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXPlanet"
+		"abr": "powerclawmodule",
+		"price": 4000,
+		"category": "Artificial",
+		"defname": "MSE_PowerClawModule"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXRocket"
+		"abr": "prostheticclavicle",
+		"price": 42,
+		"category": "Artificial",
+		"defname": "SimpleProstheticClavicle"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXGerbils"
+		"abr": "prostheticfemur",
+		"price": 100,
+		"category": "Artificial",
+		"defname": "SimpleProstheticFemur"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXIsland"
+		"abr": "prostheticfinger",
+		"price": 83,
+		"category": "Artificial",
+		"defname": "SimpleProstheticFinger"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXMan"
+		"abr": "prosthetichumerus",
+		"price": 100,
+		"category": "Artificial",
+		"defname": "SimpleProstheticHumerus"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXRose"
+		"abr": "prostheticjaw",
+		"price": 200,
+		"category": "Artificial",
+		"defname": "SimpleProstheticJaw"
 	},
 	{
-		"abr": "etchedsmoothedlimestone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedLimestoneXXWoman"
+		"abr": "prostheticpelvis",
+		"price": 100,
+		"category": "Artificial",
+		"defname": "SimpleProstheticPelvis"
 	},
 	{
-		"abr": "etchedsmoothedmarble",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarble"
+		"abr": "prostheticradius",
+		"price": 100,
+		"category": "Artificial",
+		"defname": "SimpleProstheticRadius"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXAtom"
+		"abr": "prostheticreproductiveorgans",
+		"price": 200,
+		"category": "Artificial",
+		"defname": "SimpleProstheticReproductiveOrgans"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXBeer"
+		"abr": "prostheticrib",
+		"price": 42,
+		"category": "Artificial",
+		"defname": "SimpleProstheticRib"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXCheese"
+		"abr": "prostheticsternum",
+		"price": 42,
+		"category": "Artificial",
+		"defname": "SimpleProstheticSternum"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXDoor"
+		"abr": "prosthetictibia",
+		"price": 100,
+		"category": "Artificial",
+		"defname": "SimpleProstheticTibia"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXShovel"
+		"abr": "prosthetictoe",
+		"price": 83,
+		"category": "Artificial",
+		"defname": "SimpleProstheticToe"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXBoomalope"
+		"abr": "rangedplatformmodule",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_RangedPlatformModule"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXForest"
+		"abr": "relaxationrib",
+		"price": 833,
+		"category": "Artificial",
+		"defname": "RelaxationRib"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXHouse"
+		"abr": "reproductiveorgans",
+		"price": 83,
+		"category": "Natural",
+		"defname": "ReproductiveOrgans"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXPlanet"
+		"abr": "tamerai",
+		"price": 2000,
+		"category": "Artificial",
+		"defname": "MSE_TamerAI"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXRocket"
+		"abr": "toe",
+		"price": 17,
+		"category": "Natural",
+		"defname": "Toe"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXGerbils"
+		"abr": "woodenarm",
+		"price": 50,
+		"category": "Artificial",
+		"defname": "WoodenArm"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXIsland"
+		"abr": "woodenear",
+		"price": 16,
+		"category": "Artificial",
+		"defname": "WoodenEar"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXMan"
+		"abr": "woodenfinger",
+		"price": 11,
+		"category": "Artificial",
+		"defname": "WoodenFinger"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXRose"
+		"abr": "woodennose",
+		"price": 16,
+		"category": "Artificial",
+		"defname": "WoodenNose"
 	},
 	{
-		"abr": "etchedsmoothedmarble(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedMarbleXXWoman"
-	},
-	{
-		"abr": "etchedsmoothedsandstone",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstone"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXAtom"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXDoor"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXShovel"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXBoomalope"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXForest"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXHouse"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXPlanet"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXRocket"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXGerbils"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXIsland"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXMan"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXRose"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXWoman"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXBeer"
-	},
-	{
-		"abr": "etchedsmoothedsandstone(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSandstoneXXCheese"
-	},
-	{
-		"abr": "etchedsmoothedslate",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlate"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXAtom"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXBeer"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXCheese"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXDoor"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXShovel"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXBoomalope"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXForest"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXHouse"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXPlanet"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXRocket"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXGerbils"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXIsland"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXMan"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXRose"
-	},
-	{
-		"abr": "etchedsmoothedslate(decorated)",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_EtchedSmoothedSlateXXWoman"
-	},
-	{
-		"abr": "fermentedrottingmound",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_AA_RottingMound"
-	},
-	{
-		"abr": "fertilizedsand",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_AA_FertilizedSand"
-	},
-	{
-		"abr": "figtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_FigTree"
-	},
-	{
-		"abr": "flaxflower",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantFlax"
-	},
-	{
-		"abr": "flora-emiter",
-		"price": 2792,
-		"category": "Misc",
-		"defname": "FloraEmiter"
-	},
-	{
-		"abr": "geranium",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantGeranium"
-	},
-	{
-		"abr": "giantrafflesia",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Rafflesia"
-	},
-	{
-		"abr": "glossomtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_GL_TreeB"
-	},
-	{
-		"abr": "glowstool",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Glowstool"
-	},
-	{
-		"abr": "goldfern",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantGoldLeaf"
-	},
-	{
-		"abr": "goldore",
-		"price": 675,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableGold"
-	},
-	{
-		"abr": "gooseberryplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantgooseberry"
-	},
-	{
-		"abr": "granite",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_Granite"
-	},
-	{
-		"abr": "grapevine",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantgrape"
-	},
-	{
-		"abr": "grass",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Grass"
-	},
-	{
-		"abr": "haygrass",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Haygrass"
-	},
-	{
-		"abr": "healroot",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Healroot"
-	},
-	{
-		"abr": "heatresistantambrosiabush",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_AA_Heat_Ambrosia"
-	},
-	{
-		"abr": "hopplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Hops"
-	},
-	{
-		"abr": "ice",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Ice"
-	},
-	{
-		"abr": "ironwoodtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTreeIronwood"
-	},
-	{
-		"abr": "jade",
-		"price": 342,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableJade"
-	},
-	{
-		"abr": "jadecrystal",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantJadeLeaf"
-	},
-	{
-		"abr": "japanesemapletree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTreeJapaneseMaple"
-	},
-	{
-		"abr": "kiwiplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantKiwi"
-	},
-	{
-		"abr": "lichen-coveredsoil",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_MossyTerrain"
-	},
-	{
-		"abr": "limestone",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_Limestone"
-	},
-	{
-		"abr": "lowshrubs",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_ShrubLow"
-	},
-	{
-		"abr": "mangotree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantMangoTree"
-	},
-	{
-		"abr": "mapletree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeMaple"
-	},
-	{
-		"abr": "marble",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_Marble"
-	},
-	{
-		"abr": "marsh",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Marsh"
-	},
-	{
-		"abr": "marshysoil",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_MarshyTerrain"
-	},
-	{
-		"abr": "mechanoidparts",
-		"price": 675,
-		"category": "Rocks",
-		"defname": "RESROCK_WTH_MechanoidParts"
-	},
-	{
-		"abr": "mineral-emiter",
-		"price": 2792,
-		"category": "Misc",
-		"defname": "MineralEmiter"
-	},
-	{
-		"abr": "moss",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Moss"
-	},
-	{
-		"abr": "mountains-emiter",
-		"price": 2792,
-		"category": "Misc",
-		"defname": "MountainsEmiter"
-	},
-	{
-		"abr": "mud",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Mud"
-	},
-	{
-		"abr": "mushroom",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantmushroom"
-	},
-	{
-		"abr": "neutroflower",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantNeutroFlower"
-	},
-	{
-		"abr": "nymphhair",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantNymphHair"
-	},
-	{
-		"abr": "oaktree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeOak"
-	},
-	{
-		"abr": "olivetree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Olivetree"
-	},
-	{
-		"abr": "orangetree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantorangeTree"
-	},
-	{
-		"abr": "packeddirt",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_PackedDirt"
-	},
-	{
-		"abr": "palmtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreePalm"
-	},
-	{
-		"abr": "peachtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantPeachTree"
-	},
-	{
-		"abr": "pincushioncactus",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_PincushionCactus"
-	},
-	{
-		"abr": "pinetree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreePine"
-	},
-	{
-		"abr": "pineappleplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantpineapple"
-	},
-	{
-		"abr": "pinkrimstalk",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantPinkRimstalk"
-	},
-	{
-		"abr": "plasteelbulb",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantPlasteelLeaf"
-	},
-	{
-		"abr": "plumeria",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantPlumeria"
-	},
-	{
-		"abr": "poplartree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreePoplar"
-	},
-	{
-		"abr": "potatoplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Potato"
-	},
-	{
-		"abr": "psychoidplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Psychoid"
-	},
-	{
-		"abr": "pumpkinplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantpumpkin"
-	},
-	{
-		"abr": "quarriedground",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_QRY_QuarriedGround"
-	},
-	{
-		"abr": "quarriedground",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_QRY_QuarriedGroundWall"
-	},
-	{
-		"abr": "reclaimedsoil",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_QRY_ReclaimedSoil"
-	},
-	{
-		"abr": "redlentilplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_redlentil"
-	},
-	{
-		"abr": "redmapletree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTreeRedMaple"
-	},
-	{
-		"abr": "replicator-prototyp",
-		"price": 3308,
-		"category": "Misc",
-		"defname": "ReplicatorPrototyp"
-	},
-	{
-		"abr": "riceplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Rice"
-	},
-	{
-		"abr": "richsoil",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_SoilRich"
-	},
-	{
-		"abr": "rock-emiter",
-		"price": 2792,
-		"category": "Misc",
-		"defname": "RockEmiter"
-	},
-	{
-		"abr": "rose",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Rose"
-	},
-	{
-		"abr": "roughgranite",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Granite_Rough"
-	},
-	{
-		"abr": "roughlimestone",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Limestone_Rough"
-	},
-	{
-		"abr": "roughmarble",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Marble_Rough"
-	},
-	{
-		"abr": "roughsandstone",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Sandstone_Rough"
-	},
-	{
-		"abr": "roughslate",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Slate_Rough"
-	},
-	{
-		"abr": "rough-hewngranite",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Granite_RoughHewn"
-	},
-	{
-		"abr": "rough-hewnlimestone",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Limestone_RoughHewn"
-	},
-	{
-		"abr": "rough-hewnmarble",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Marble_RoughHewn"
-	},
-	{
-		"abr": "rough-hewnsandstone",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Sandstone_RoughHewn"
-	},
-	{
-		"abr": "rough-hewnslate",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Slate_RoughHewn"
-	},
-	{
-		"abr": "saguarocactus",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_SaguaroCactus"
-	},
-	{
-		"abr": "sand",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Sand"
-	},
-	{
-		"abr": "sandstone",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_Sandstone"
-	},
-	{
-		"abr": "shallowmovingwater",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_WaterMovingShallow"
-	},
-	{
-		"abr": "shallowoceanwater",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_WaterOceanShallow"
-	},
-	{
-		"abr": "shallowwater",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_WaterShallow"
-	},
-	{
-		"abr": "silverflower",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantSilverLeaf"
-	},
-	{
-		"abr": "silverore",
-		"price": 73,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableSilver"
-	},
-	{
-		"abr": "slate",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_Slate"
-	},
-	{
-		"abr": "smokeleafplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Smokeleaf"
-	},
-	{
-		"abr": "smokeleafplant(scrog)",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_MSI_SCROG"
-	},
-	{
-		"abr": "smokeleafplant(sog)",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_MSI_SOG"
-	},
-	{
-		"abr": "smoothgranite",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Granite_Smooth"
-	},
-	{
-		"abr": "smoothlimestone",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Limestone_Smooth"
-	},
-	{
-		"abr": "smoothmarble",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Marble_Smooth"
-	},
-	{
-		"abr": "smoothsandstone",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Sandstone_Smooth"
-	},
-	{
-		"abr": "smoothslate",
-		"price": 6,
-		"category": "Terrain",
-		"defname": "T_Slate_Smooth"
-	},
-	{
-		"abr": "smoothedgranite",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_SmoothedGranite"
-	},
-	{
-		"abr": "smoothedlimestone",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_SmoothedLimestone"
-	},
-	{
-		"abr": "smoothedmarble",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_SmoothedMarble"
-	},
-	{
-		"abr": "smoothedsandstone",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_SmoothedSandstone"
-	},
-	{
-		"abr": "smoothedslate",
-		"price": 6,
-		"category": "Rocks",
-		"defname": "RESROCK_SmoothedSlate"
-	},
-	{
-		"abr": "snowbeetplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Snowbeet"
-	},
-	{
-		"abr": "softsand",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_SoftSand"
-	},
-	{
-		"abr": "soil",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Soil"
-	},
-	{
-		"abr": "sparkweed",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_rxPlantSparkweed"
-	},
-	{
-		"abr": "spectago",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_AJO_PlantOutdoorSpectago"
-	},
-	{
-		"abr": "squashplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantsquash"
-	},
-	{
-		"abr": "steelshroomtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantSteelLeaf"
-	},
-	{
-		"abr": "stonysoil",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Gravel"
-	},
-	{
-		"abr": "strangeshinymineral",
-		"price": 383,
-		"category": "Minerals",
-		"defname": "RESROCK_AA_SkySteelClumps"
-	},
-	{
-		"abr": "strawberryplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Strawberry"
-	},
-	{
-		"abr": "sugarcaneplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantsugarcane"
-	},
-	{
-		"abr": "sunflower",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantSunflower"
-	},
-	{
-		"abr": "superiorfertilizedsand",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_AA_SuperiorFertilizedSand"
-	},
-	{
-		"abr": "tallgrass",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TallGrass"
-	},
-	{
-		"abr": "teaplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_Tea"
-	},
-	{
-		"abr": "teaktree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeTeak"
-	},
-	{
-		"abr": "tectonic-emiter",
-		"price": 492,
-		"category": "Misc",
-		"defname": "TectonicEmiter"
-	},
-	{
-		"abr": "terrain-emiter",
-		"price": 2792,
-		"category": "Misc",
-		"defname": "TerraEmiter"
-	},
-	{
-		"abr": "tobaccoplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTobacco"
-	},
-	{
-		"abr": "tomatovine",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantTomato"
-	},
-	{
-		"abr": "underwall",
-		"price": 8,
-		"category": "Terrain",
-		"defname": "T_Underwall"
-	},
-	{
-		"abr": "uraniumore",
-		"price": 408,
-		"category": "Minerals",
-		"defname": "RESROCK_MineableUranium"
-	},
-	{
-		"abr": "uraniumroot",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantUraniumLeaf"
-	},
-	{
-		"abr": "watermelonplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantwatermelon"
-	},
-	{
-		"abr": "weather-emiter",
-		"price": 2792,
-		"category": "Misc",
-		"defname": "WeatherEmiter"
-	},
-	{
-		"abr": "wheatplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plantwheat"
-	},
-	{
-		"abr": "wildcornplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildCorn"
-	},
-	{
-		"abr": "wildcottonplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildCotton"
-	},
-	{
-		"abr": "wilddevilstrand",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildDevilstrand"
-	},
-	{
-		"abr": "wildhealroot",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_HealrootWild"
-	},
-	{
-		"abr": "wildhopplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildHops"
-	},
-	{
-		"abr": "wildpotatoplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildPotato"
-	},
-	{
-		"abr": "wildpsychoidplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildPsychoid"
-	},
-	{
-		"abr": "wildriceplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildRice"
-	},
-	{
-		"abr": "wildrose",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildRose"
-	},
-	{
-		"abr": "wildsmokeleafplant",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_PlantWildSmokeleaf"
-	},
-	{
-		"abr": "willowtree",
-		"price": 8,
-		"category": "Flora",
-		"defname": "TRPLNT_Plant_TreeWillow"
+		"abr": "woodentoe",
+		"price": 11,
+		"category": "Artificial",
+		"defname": "WoodenToe"
 	}
 	],
-	"total": 4806
+	"total": 4913
 }
